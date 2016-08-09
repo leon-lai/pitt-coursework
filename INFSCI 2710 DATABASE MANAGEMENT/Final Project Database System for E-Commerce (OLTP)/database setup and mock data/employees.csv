@@ -1,0 +1,1001 @@
+ID,first_name,last_name,street_po_box,city,state,ZIP_Code,telephone,email,annual_salary,employee_type
+1,Sean,Hamilton,54 Holmberg Junction,Lincoln,NE,68505,5340105019,Sean.Hamilton@digitalsales.com,83097.61,salesperson
+2,Mildred,Montgomery,60847 Killdeer Drive,Van Nuys,CA,91406,7748568585,Mildred.Montgomery@digitalsales.com,25639.68,salesperson
+3,Billy,Murphy,412 Troy Road,Houston,TX,77065,5192057658,Billy.Murphy@digitalsales.com,48281.83,salesperson
+4,Eric,Little,1 Mayer Road,Fullerton,CA,92835,6513002655,Eric.Little@digitalsales.com,56693.36,salesperson
+5,George,Porter,1 Onsgard Avenue,Honolulu,HI,96810,7238929627,George.Porter@digitalsales.com,44520.98,salesperson
+6,Julia,Hicks,234 Talisman Drive,New Haven,CT,6538,6664280369,Julia.Hicks@digitalsales.com,43578.29,salesperson
+7,Marie,Diaz,5838 Del Sol Avenue,Columbia,SC,29215,9644094190,Marie.Diaz@digitalsales.com,45341.28,salesperson
+8,Michelle,Washington,08516 Fuller Road,Norfolk,VA,23551,195243107,Michelle.Washington@digitalsales.com,26728.66,salesperson
+9,Nicole,Robertson,9 Morrow Parkway,New York City,NY,10155,3216727953,Nicole.Robertson@digitalsales.com,95085.43,store manager
+10,Jimmy,Peterson,27 Mayfield Point,Melbourne,FL,32919,7916512011,Jimmy.Peterson@digitalsales.com,55714.67,salesperson
+11,Jean,Carroll,8374 Sycamore Way,Memphis,TN,38161,4375979216,Jean.Carroll@digitalsales.com,34026.49,salesperson
+12,Sarah,Fields,1216 Weeping Birch Hill,Sioux Falls,SD,57105,1623702351,Sarah.Fields@digitalsales.com,50132.06,salesperson
+13,Alan,Fox,9 Kim Plaza,Albany,NY,12227,8573969217,Alan.Fox@digitalsales.com,48422.25,salesperson
+14,Margaret,Holmes,9 Cascade Lane,Peoria,IL,61640,7398550176,Margaret.Holmes@digitalsales.com,71076.33,salesperson
+15,Daniel,Armstrong,3 Columbus Court,Trenton,NJ,8608,5322507721,Daniel.Armstrong@digitalsales.com,90288.25,store manager
+16,Steven,Hart,227 Packers Parkway,New Brunswick,NJ,8922,5475785563,Steven.Hart@digitalsales.com,37072.38,salesperson
+17,Johnny,Jones,1323 Marquette Trail,Charlotte,NC,28242,9688524604,Johnny.Jones@digitalsales.com,51163.81,salesperson
+18,Keith,Stephens,23 Twin Pines Lane,Washington,DC,20392,4198631748,Keith.Stephens@digitalsales.com,54716.49,salesperson
+19,Shawn,Burke,0026 Hovde Hill,Philadelphia,PA,19136,7673348198,Shawn.Burke@digitalsales.com,56983.52,salesperson
+20,Andrew,Porter,0999 Logan Road,Cambridge,MA,2142,4161645046,Andrew.Porter@digitalsales.com,88046.03,store manager
+21,Jeremy,Bryant,4231 Ramsey Junction,Pittsburgh,PA,15210,7978212883,Jeremy.Bryant@digitalsales.com,70195.27,salesperson
+22,Anne,Knight,52 Harper Lane,Norfolk,VA,23551,2760025714,Anne.Knight@digitalsales.com,54731.66,salesperson
+23,Arthur,Oliver,88 Holmberg Parkway,Charlotte,NC,28215,6151286332,Arthur.Oliver@digitalsales.com,50422.55,salesperson
+24,Carlos,Mendoza,798 Hansons Road,Staten Island,NY,10310,8898326079,Carlos.Mendoza@digitalsales.com,25191.28,salesperson
+25,Jimmy,Shaw,1 Red Cloud Center,Oklahoma City,OK,73173,7902567894,Jimmy.Shaw@digitalsales.com,66960.57,salesperson
+26,Deborah,Moreno,3 Cordelia Street,Kansas City,MO,64101,7250510733,Deborah.Moreno@digitalsales.com,42209.03,salesperson
+27,Jean,White,5 Kedzie Park,Austin,TX,78778,162960916,Jean.White@digitalsales.com,45818.05,salesperson
+28,Gloria,James,6134 Armistice Park,Long Beach,CA,90810,4397582620,Gloria.James@digitalsales.com,31206.16,salesperson
+29,Clarence,Fox,7335 Macpherson Avenue,El Paso,TX,79928,8283402746,Clarence.Fox@digitalsales.com,24700.09,salesperson
+30,Johnny,Boyd,0 Anhalt Alley,Hartford,CT,6160,2703824775,Johnny.Boyd@digitalsales.com,97558.43,region manager
+31,Sean,Sanchez,5 Arizona Drive,Anaheim,CA,92812,710867327,Sean.Sanchez@digitalsales.com,67121.02,salesperson
+32,Helen,Gilbert,721 Sheridan Junction,Providence,RI,2905,1464952592,Helen.Gilbert@digitalsales.com,85146.54,store manager
+33,Gerald,Robertson,248 Kipling Court,Modesto,CA,95354,401089085,Gerald.Robertson@digitalsales.com,98578.16,region manager
+34,Gregory,Hunter,74636 Hoffman Street,Colorado Springs,CO,80910,9467289994,Gregory.Hunter@digitalsales.com,68776.62,salesperson
+35,Harold,Robertson,98 Towne Hill,Springfield,IL,62711,2489432957,Harold.Robertson@digitalsales.com,22512.35,salesperson
+36,Lillian,Hughes,8397 Sheridan Point,Washington,DC,20370,7861551103,Lillian.Hughes@digitalsales.com,84465.18,store manager
+37,Joseph,Diaz,6 Delaware Drive,Des Moines,IA,50315,7938981054,Joseph.Diaz@digitalsales.com,77898.79,salesperson
+38,Judy,Greene,973 Vidon Drive,Denver,CO,80223,9703857465,Judy.Greene@digitalsales.com,41405.82,salesperson
+39,Martha,Burke,494 Marquette Parkway,Richmond,VA,23260,9763133718,Martha.Burke@digitalsales.com,53085.33,salesperson
+40,Scott,Wallace,844 Blaine Park,Little Rock,AR,72215,4092384301,Scott.Wallace@digitalsales.com,53912.60,salesperson
+41,Maria,Hernandez,39789 Donald Parkway,Tucson,AZ,85725,7894725724,Maria.Hernandez@digitalsales.com,52477.83,salesperson
+42,Bobby,Hawkins,0 Tennessee Hill,Los Angeles,CA,90081,5788892379,Bobby.Hawkins@digitalsales.com,30950.17,salesperson
+43,Johnny,Hansen,047 Bunker Hill Trail,Louisville,KY,40215,7079019435,Johnny.Hansen@digitalsales.com,89195.20,store manager
+44,Alan,Reynolds,1592 Ridgeway Junction,Fairbanks,AK,99790,3285503829,Alan.Reynolds@digitalsales.com,67073.18,salesperson
+45,Jonathan,Walker,7472 Eagle Crest Pass,El Paso,TX,88574,7287426122,Jonathan.Walker@digitalsales.com,50843.05,salesperson
+46,Martin,Wallace,5 Harper Place,Shawnee Mission,KS,66205,4594322449,Martin.Wallace@digitalsales.com,55054.48,salesperson
+47,Diane,Jones,2849 Fairfield Lane,El Paso,TX,79923,9042440900,Diane.Jones@digitalsales.com,29593.59,salesperson
+48,Kenneth,Lawson,99 Jenifer Hill,Moreno Valley,CA,92555,7302012407,Kenneth.Lawson@digitalsales.com,40489.15,salesperson
+49,Rachel,Castillo,60 Warbler Park,Houston,TX,77085,4477150837,Rachel.Castillo@digitalsales.com,73394.47,salesperson
+50,Jonathan,Walker,08 Scoville Center,Peoria,IL,61629,2150420119,Jonathan.Walker@digitalsales.com,20252.87,salesperson
+51,Marilyn,Wheeler,9 Lillian Place,Philadelphia,PA,19093,5770238457,Marilyn.Wheeler@digitalsales.com,78598.24,salesperson
+52,Eugene,Black,93886 Twin Pines Lane,New York City,NY,10131,1848531062,Eugene.Black@digitalsales.com,56968.05,salesperson
+53,Keith,Freeman,04 Blaine Avenue,Lansing,MI,48912,436458332,Keith.Freeman@digitalsales.com,65118.21,salesperson
+54,Elizabeth,Simpson,439 Green Ridge Point,Sacramento,CA,94291,3913418635,Elizabeth.Simpson@digitalsales.com,41261.38,salesperson
+55,Norma,Romero,916 Anthes Crossing,Duluth,MN,55811,7488439312,Norma.Romero@digitalsales.com,94478.09,store manager
+56,Henry,Howard,1 Esch Drive,Racine,WI,53405,3128357366,Henry.Howard@digitalsales.com,58617.73,salesperson
+57,Sharon,Riley,23 Anzinger Pass,Baltimore,MD,21290,3299330869,Sharon.Riley@digitalsales.com,51797.32,salesperson
+58,Larry,Owens,0100 Declaration Park,Portland,OR,97232,5326734135,Larry.Owens@digitalsales.com,25440.13,salesperson
+59,Lori,Black,6 Carpenter Avenue,Memphis,TN,38109,8835829340,Lori.Black@digitalsales.com,44708.06,salesperson
+60,Nicholas,Grant,9 Gerald Center,San Diego,CA,92160,483856079,Nicholas.Grant@digitalsales.com,62991.90,salesperson
+61,Ronald,Mendoza,151 Gerald Parkway,Amarillo,TX,79165,5839672779,Ronald.Mendoza@digitalsales.com,28197.13,salesperson
+62,Rose,Coleman,9447 Kim Terrace,Ocala,FL,34479,9094249189,Rose.Coleman@digitalsales.com,78533.08,salesperson
+63,Gerald,Murray,2 Anzinger Plaza,Edmond,OK,73034,7967217443,Gerald.Murray@digitalsales.com,28980.79,salesperson
+64,Harry,Perkins,4 Hanson Junction,Las Vegas,NV,89140,8891442485,Harry.Perkins@digitalsales.com,27149.17,salesperson
+65,Anna,Lynch,86 Basil Circle,Fort Smith,AR,72916,3986239089,Anna.Lynch@digitalsales.com,29635.18,salesperson
+66,Gloria,Crawford,08 Maple Avenue,Palatine,IL,60078,7910332828,Gloria.Crawford@digitalsales.com,52107.16,salesperson
+67,Katherine,Simpson,06208 Forest Court,Austin,TX,78778,9391643813,Katherine.Simpson@digitalsales.com,23935.47,salesperson
+68,Gregory,Sanders,6169 Red Cloud Circle,Arlington,TX,76004,9400923796,Gregory.Sanders@digitalsales.com,91301.19,store manager
+69,Mildred,Lynch,81094 Anderson Street,Fort Worth,TX,76129,4512595099,Mildred.Lynch@digitalsales.com,45282.77,salesperson
+70,Joseph,Cole,251 Namekagon Parkway,Seminole,FL,34642,219633019,Joseph.Cole@digitalsales.com,59134.19,salesperson
+71,Eric,Lewis,3 Vidon Park,Albany,NY,12255,6283729740,Eric.Lewis@digitalsales.com,87805.37,store manager
+72,Steven,Johnston,62695 Oak Valley Center,Austin,TX,78710,1499534682,Steven.Johnston@digitalsales.com,35832.88,salesperson
+73,Rachel,Davis,6 Dahle Trail,Gary,IN,46406,3161997506,Rachel.Davis@digitalsales.com,56006.80,salesperson
+74,Gloria,Gibson,310 Rieder Alley,Nashville,TN,37220,8396116549,Gloria.Gibson@digitalsales.com,92467.94,store manager
+75,Joe,Harper,10146 Mesta Pass,Santa Barbara,CA,93106,5403457828,Joe.Harper@digitalsales.com,96433.04,region manager
+76,Mildred,Coleman,10 8th Trail,Minneapolis,MN,55448,2381551049,Mildred.Coleman@digitalsales.com,25664.09,salesperson
+77,George,Patterson,7523 Huxley Street,Allentown,PA,18105,1166024497,George.Patterson@digitalsales.com,63768.56,salesperson
+78,Dorothy,Campbell,3 Claremont Plaza,Gatesville,TX,76598,827753636,Dorothy.Campbell@digitalsales.com,77374.22,salesperson
+79,Amanda,Adams,674 Bonner Park,Lubbock,TX,79491,2885949513,Amanda.Adams@digitalsales.com,80029.90,salesperson
+80,Sara,Black,3 Morning Place,Asheville,NC,28805,681470946,Sara.Black@digitalsales.com,99596.46,region manager
+81,Laura,Wood,94 American Ash Parkway,Norfolk,VA,23509,6798056933,Laura.Wood@digitalsales.com,26591.77,salesperson
+82,Russell,Butler,8715 Evergreen Court,Carlsbad,CA,92013,1619126583,Russell.Butler@digitalsales.com,48165.00,salesperson
+83,Irene,Powell,466 Evergreen Plaza,Detroit,MI,48267,3827401803,Irene.Powell@digitalsales.com,29812.42,salesperson
+84,Joyce,Young,4 Westridge Alley,Rochester,NY,14619,8290907407,Joyce.Young@digitalsales.com,24832.15,salesperson
+85,Teresa,Green,11036 Leroy Junction,Tucson,AZ,85705,4071955195,Teresa.Green@digitalsales.com,56013.60,salesperson
+86,Annie,Gomez,7274 Fairfield Way,Fort Worth,TX,76121,9942998717,Annie.Gomez@digitalsales.com,90133.67,store manager
+87,Ernest,Hart,9996 Park Meadow Crossing,Sunnyvale,CA,94089,7085909815,Ernest.Hart@digitalsales.com,45316.82,salesperson
+88,Cynthia,Holmes,9 Dovetail Hill,Lancaster,PA,17622,2033899652,Cynthia.Holmes@digitalsales.com,94763.18,store manager
+89,Irene,Baker,2 Cordelia Drive,Trenton,NJ,8603,8965051478,Irene.Baker@digitalsales.com,92624.12,store manager
+90,Donald,Morrison,76323 Oak Plaza,San Antonio,TX,78250,3132482481,Donald.Morrison@digitalsales.com,39189.77,salesperson
+91,Dennis,Gibson,2 Kennedy Place,Knoxville,TN,37995,1332234356,Dennis.Gibson@digitalsales.com,40055.73,salesperson
+92,Howard,Carpenter,85982 Granby Court,Newport News,VA,23612,7206635810,Howard.Carpenter@digitalsales.com,46037.21,salesperson
+93,Laura,Weaver,172 Sycamore Way,Alhambra,CA,91841,724523086,Laura.Weaver@digitalsales.com,83618.24,salesperson
+94,Keith,Peters,5 Stuart Pass,Orlando,FL,32868,1714364570,Keith.Peters@digitalsales.com,64864.23,salesperson
+95,Alice,Cole,60 Loftsgordon Drive,Inglewood,CA,90305,5105000653,Alice.Cole@digitalsales.com,73321.50,salesperson
+96,Teresa,Lopez,9 Longview Street,Irvine,CA,92619,6419429260,Teresa.Lopez@digitalsales.com,32997.37,salesperson
+97,Evelyn,Bell,815 Cottonwood Drive,Fairfax,VA,22036,6609307161,Evelyn.Bell@digitalsales.com,45403.23,salesperson
+98,Donna,Fowler,768 Larry Junction,Anaheim,CA,92825,9065888740,Donna.Fowler@digitalsales.com,36122.84,salesperson
+99,Paula,Larson,4384 Mccormick Circle,Phoenix,AZ,85045,6313764943,Paula.Larson@digitalsales.com,54982.24,salesperson
+100,Tina,Morgan,1 Porter Point,Hartford,CT,6160,1476878334,Tina.Morgan@digitalsales.com,45004.93,salesperson
+101,Christina,Fox,062 Bartillon Way,Elmira,NY,14905,2672894771,Christina.Fox@digitalsales.com,59564.50,salesperson
+102,Doris,Martin,3 Elmside Way,Winston Salem,NC,27110,7130067386,Doris.Martin@digitalsales.com,48561.64,salesperson
+103,Willie,Bennett,3 Jana Terrace,El Paso,TX,79945,1748796278,Willie.Bennett@digitalsales.com,96010.75,region manager
+104,Keith,Crawford,9097 Kenwood Crossing,Farmington,MI,48335,3482011217,Keith.Crawford@digitalsales.com,78336.99,salesperson
+105,Norma,Cunningham,8919 Lakeland Junction,Anchorage,AK,99522,1009073687,Norma.Cunningham@digitalsales.com,31245.39,salesperson
+106,Marilyn,Reyes,3 Donald Lane,Spring,TX,77388,3738342805,Marilyn.Reyes@digitalsales.com,38913.69,salesperson
+107,Chris,Gardner,3 Bay Way,Denver,CO,80217,3713113550,Chris.Gardner@digitalsales.com,88010.08,store manager
+108,Randy,Porter,9167 Oak Point,Anchorage,AK,99507,4221208104,Randy.Porter@digitalsales.com,94772.70,store manager
+109,Jonathan,Grant,6646 Monica Center,Huntington,WV,25721,9655880077,Jonathan.Grant@digitalsales.com,49331.52,salesperson
+110,Irene,Jones,85 Commercial Avenue,New York City,NY,10203,4326731764,Irene.Jones@digitalsales.com,70918.07,salesperson
+111,Amanda,Harris,52381 North Junction,Fort Pierce,FL,34981,380517980,Amanda.Harris@digitalsales.com,69016.54,salesperson
+112,Jerry,Green,6774 Dakota Court,New Orleans,LA,70154,6893228231,Jerry.Green@digitalsales.com,76513.99,salesperson
+113,David,Austin,16361 Butternut Center,Gaithersburg,MD,20883,7937332535,David.Austin@digitalsales.com,25210.77,salesperson
+114,Dennis,Fields,5 Sauthoff Center,Evansville,IN,47737,3108706354,Dennis.Fields@digitalsales.com,51865.86,salesperson
+115,Carol,Porter,442 Fulton Park,San Antonio,TX,78255,5695359970,Carol.Porter@digitalsales.com,27132.44,salesperson
+116,Joseph,Phillips,58202 Stuart Park,Washington,DC,20456,563765488,Joseph.Phillips@digitalsales.com,81819.00,salesperson
+117,Samuel,Larson,78 Algoma Lane,Dayton,OH,45454,6018330713,Samuel.Larson@digitalsales.com,78703.62,salesperson
+118,Richard,Hansen,008 Mcguire Plaza,Dallas,TX,75205,1052954520,Richard.Hansen@digitalsales.com,68535.16,salesperson
+119,Lisa,Ramos,7340 Stoughton Way,Arlington,VA,22217,8095968356,Lisa.Ramos@digitalsales.com,21571.96,salesperson
+120,Patrick,Alexander,413 Mariners Cove Circle,Columbus,OH,43240,9992787492,Patrick.Alexander@digitalsales.com,81696.17,salesperson
+121,Judy,Wagner,5780 Truax Alley,Sacramento,CA,95818,1272244893,Judy.Wagner@digitalsales.com,40444.05,salesperson
+122,Ruth,Andrews,80 Spaight Point,San Diego,CA,92160,4307061266,Ruth.Andrews@digitalsales.com,52038.15,salesperson
+123,Jeffrey,Roberts,75348 Clemons Alley,Omaha,NE,68179,422720110,Jeffrey.Roberts@digitalsales.com,85550.43,store manager
+124,Philip,Hicks,3779 Pankratz Hill,Fullerton,CA,92640,5947738373,Philip.Hicks@digitalsales.com,87117.04,store manager
+125,Stephanie,Hamilton,77 Magdeline Alley,Washington,DC,20535,2799966755,Stephanie.Hamilton@digitalsales.com,55178.48,salesperson
+126,Jean,Jenkins,410 Daystar Trail,Dayton,OH,45408,7254787770,Jean.Jenkins@digitalsales.com,22758.14,salesperson
+127,Samuel,Nguyen,63 Esker Road,Houston,TX,77085,7071787586,Samuel.Nguyen@digitalsales.com,40945.87,salesperson
+128,Jennifer,Greene,97777 Corscot Lane,San Diego,CA,92132,1702567768,Jennifer.Greene@digitalsales.com,62340.95,salesperson
+129,Jane,Snyder,83060 Reinke Center,Worcester,MA,1654,9766280399,Jane.Snyder@digitalsales.com,71987.12,salesperson
+130,Alan,Mitchell,79575 Dawn Park,Jersey City,NJ,7310,9791484369,Alan.Mitchell@digitalsales.com,77470.71,salesperson
+131,Frances,Green,05936 Stuart Parkway,Nashville,TN,37250,2787404909,Frances.Green@digitalsales.com,69373.49,salesperson
+132,Johnny,Jordan,0 Mifflin Court,Anderson,SC,29625,5503399529,Johnny.Jordan@digitalsales.com,35232.76,salesperson
+133,Richard,Hansen,65 Green Ridge Drive,Omaha,NE,68124,9259428453,Richard.Hansen@digitalsales.com,23948.82,salesperson
+134,Joan,Stephens,423 Monica Drive,Youngstown,OH,44555,3328510138,Joan.Stephens@digitalsales.com,21923.53,salesperson
+135,Doris,Frazier,77216 Hooker Court,Charleston,WV,25326,9133630397,Doris.Frazier@digitalsales.com,61149.86,salesperson
+136,Harold,Carr,2692 Michigan Point,Washington,DC,20260,8476641928,Harold.Carr@digitalsales.com,41626.96,salesperson
+137,Amy,Lopez,4913 Springs Plaza,Lafayette,LA,70593,366233266,Amy.Lopez@digitalsales.com,87084.50,store manager
+138,Patrick,Daniels,00 Harper Avenue,Suffolk,VA,23436,2007054805,Patrick.Daniels@digitalsales.com,60142.69,salesperson
+139,Jerry,Hernandez,38 Ridgeway Court,Sparks,NV,89436,7581373244,Jerry.Hernandez@digitalsales.com,23551.73,salesperson
+140,Mary,Larson,6286 Monica Drive,Mobile,AL,36670,4012831018,Mary.Larson@digitalsales.com,94843.85,store manager
+141,Annie,Castillo,52232 Schlimgen Way,Greensboro,NC,27499,7314166762,Annie.Castillo@digitalsales.com,53601.76,salesperson
+142,Anthony,Stevens,62 Onsgard Terrace,Orlando,FL,32813,9658035231,Anthony.Stevens@digitalsales.com,63863.27,salesperson
+143,Jesse,Garrett,642 Stoughton Street,Richmond,VA,23228,7848345101,Jesse.Garrett@digitalsales.com,25077.46,salesperson
+144,Shirley,Palmer,0 Acker Place,Boston,MA,2203,5599013860,Shirley.Palmer@digitalsales.com,66947.69,salesperson
+145,Nancy,Campbell,4741 Sullivan Trail,Las Vegas,NV,89160,5243281601,Nancy.Campbell@digitalsales.com,63826.01,salesperson
+146,Donald,Willis,8371 Swallow Hill,Arlington,VA,22225,2571208984,Donald.Willis@digitalsales.com,83529.65,salesperson
+147,Charles,Fields,2565 Miller Hill,Tacoma,WA,98417,8815460841,Charles.Fields@digitalsales.com,20139.04,salesperson
+148,Arthur,Mcdonald,4252 Leroy Circle,Philadelphia,PA,19160,2156537047,Arthur.Mcdonald@digitalsales.com,38076.22,salesperson
+149,Antonio,Clark,96919 Pankratz Way,Baltimore,MD,21290,8851778803,Antonio.Clark@digitalsales.com,74481.99,salesperson
+150,Cheryl,Cole,29 Katie Pass,Abilene,TX,79699,3838833813,Cheryl.Cole@digitalsales.com,91986.99,store manager
+151,Patricia,Jackson,45 Cherokee Center,Sacramento,CA,95838,5745677146,Patricia.Jackson@digitalsales.com,88159.38,store manager
+152,Thomas,Gibson,4 Dexter Lane,Tucson,AZ,85725,5596990415,Thomas.Gibson@digitalsales.com,36162.87,salesperson
+153,Charles,Garrett,2712 High Crossing Lane,Saint Paul,MN,55103,2777818046,Charles.Garrett@digitalsales.com,63578.79,salesperson
+154,Beverly,Henry,69944 Derek Drive,Pensacola,FL,32590,6882884899,Beverly.Henry@digitalsales.com,84640.40,store manager
+155,Cheryl,Collins,29569 Dayton Alley,Omaha,NE,68164,1083436352,Cheryl.Collins@digitalsales.com,25910.96,salesperson
+156,Victor,Castillo,57899 Anhalt Alley,Fort Myers,FL,33994,2934195713,Victor.Castillo@digitalsales.com,99004.99,region manager
+157,Janice,Fox,09995 Vermont Street,Colorado Springs,CO,80995,4303420322,Janice.Fox@digitalsales.com,28215.37,salesperson
+158,Sean,Hunt,0955 Gulseth Drive,Flushing,NY,11388,4619501087,Sean.Hunt@digitalsales.com,66693.36,salesperson
+159,Susan,Franklin,66 Roxbury Alley,Shreveport,LA,71105,7525824736,Susan.Franklin@digitalsales.com,79708.97,salesperson
+160,Andrea,Howell,7945 Express Hill,Racine,WI,53405,7667321702,Andrea.Howell@digitalsales.com,74685.48,salesperson
+161,Maria,Williamson,88 Green Ridge Alley,Garden Grove,CA,92645,8541903175,Maria.Williamson@digitalsales.com,43940.89,salesperson
+162,Anthony,Carr,1 Sherman Place,Boulder,CO,80310,4165982882,Anthony.Carr@digitalsales.com,48678.39,salesperson
+163,Dorothy,Harris,8914 Del Mar Pass,Fargo,ND,58106,8812524867,Dorothy.Harris@digitalsales.com,96824.04,region manager
+164,Carl,Jordan,31101 Merrick Avenue,Rochester,MN,55905,1758058332,Carl.Jordan@digitalsales.com,40736.52,salesperson
+165,Willie,Wagner,2969 Merchant Road,Lafayette,LA,70593,2654362353,Willie.Wagner@digitalsales.com,58793.27,salesperson
+166,Sharon,Henderson,59 Grover Alley,Charleston,WV,25305,6556418280,Sharon.Henderson@digitalsales.com,73019.65,salesperson
+167,Brenda,Stewart,20 Monica Pass,Pompano Beach,FL,33069,2520421486,Brenda.Stewart@digitalsales.com,54426.12,salesperson
+168,Stephen,Weaver,6577 Schiller Crossing,Chattanooga,TN,37405,3594646401,Stephen.Weaver@digitalsales.com,69258.03,salesperson
+169,Judith,Owens,36632 Scoville Terrace,Littleton,CO,80126,2634471842,Judith.Owens@digitalsales.com,70154.09,salesperson
+170,Jerry,Kelley,423 4th Center,Bethlehem,PA,18018,2901365511,Jerry.Kelley@digitalsales.com,50704.88,salesperson
+171,Henry,Watkins,19 Nova Plaza,Salt Lake City,UT,84130,7281681547,Henry.Watkins@digitalsales.com,44973.16,salesperson
+172,Marie,Garrett,15376 Homewood Road,Chicago,IL,60604,2872039233,Marie.Garrett@digitalsales.com,34984.09,salesperson
+173,Amanda,Torres,967 Hagan Road,Salt Lake City,UT,84135,1850563088,Amanda.Torres@digitalsales.com,84676.74,store manager
+174,Scott,Graham,5733 Arrowood Trail,Newark,NJ,7104,5019751478,Scott.Graham@digitalsales.com,39481.91,salesperson
+175,Jeffrey,Harrison,9 Linden Junction,Murfreesboro,TN,37131,6228431623,Jeffrey.Harrison@digitalsales.com,77949.54,salesperson
+176,Annie,Phillips,13456 Granby Trail,Washington,DC,20535,7236254583,Annie.Phillips@digitalsales.com,67542.12,salesperson
+177,Chris,Palmer,6 Cardinal Court,Oakland,CA,94627,1695375871,Chris.Palmer@digitalsales.com,44422.36,salesperson
+178,Philip,Freeman,5 Packers Pass,Elmira,NY,14905,1364045743,Philip.Freeman@digitalsales.com,86059.63,store manager
+179,Gloria,Hunter,341 6th Crossing,Santa Fe,NM,87592,5114057923,Gloria.Hunter@digitalsales.com,33029.59,salesperson
+180,Earl,Palmer,59 Walton Avenue,Washington,DC,20535,4895950314,Earl.Palmer@digitalsales.com,50770.49,salesperson
+181,Cheryl,Nguyen,30746 Gulseth Point,Sacramento,CA,95833,2333280329,Cheryl.Nguyen@digitalsales.com,58232.26,salesperson
+182,Walter,Perry,92 Laurel Alley,Portland,ME,4109,4036497023,Walter.Perry@digitalsales.com,50177.88,salesperson
+183,Louise,Lewis,87766 Delladonna Lane,Indianapolis,IN,46247,2789196336,Louise.Lewis@digitalsales.com,98555.10,region manager
+184,Thomas,Johnson,12116 Sunnyside Plaza,San Francisco,CA,94142,585854974,Thomas.Johnson@digitalsales.com,92537.22,store manager
+185,Jane,Hernandez,24144 Golden Leaf Court,Terre Haute,IN,47812,9580789872,Jane.Hernandez@digitalsales.com,31608.86,salesperson
+186,Dorothy,Webb,82036 Colorado Hill,Philadelphia,PA,19125,9610559282,Dorothy.Webb@digitalsales.com,82851.50,salesperson
+187,Nancy,Stephens,3306 Banding Terrace,Los Angeles,CA,90005,8372803177,Nancy.Stephens@digitalsales.com,25982.78,salesperson
+188,Paul,Jacobs,3 Sage Trail,Richmond,VA,23277,3916969571,Paul.Jacobs@digitalsales.com,57743.05,salesperson
+189,Mary,Cole,0088 Holy Cross Way,Katy,TX,77493,1806097704,Mary.Cole@digitalsales.com,69360.31,salesperson
+190,Johnny,Alexander,78163 Sauthoff Pass,Lakeland,FL,33811,4916382121,Johnny.Alexander@digitalsales.com,41358.42,salesperson
+191,Thomas,Armstrong,98 Clarendon Way,Prescott,AZ,86305,3494953776,Thomas.Armstrong@digitalsales.com,66092.28,salesperson
+192,Cheryl,Stone,3070 Larry Crossing,El Paso,TX,79955,2863228750,Cheryl.Stone@digitalsales.com,73248.84,salesperson
+193,Samuel,Perez,2 Bay Pass,Dallas,TX,75210,3989452490,Samuel.Perez@digitalsales.com,60727.13,salesperson
+194,Julie,Mccoy,51188 Knutson Drive,Jeffersonville,IN,47134,6817535311,Julie.Mccoy@digitalsales.com,77371.75,salesperson
+195,Donald,Rivera,8311 Bartillon Court,Washington,DC,20525,2637339251,Donald.Rivera@digitalsales.com,80859.61,salesperson
+196,Denise,Shaw,84245 Sunnyside Street,Washington,DC,20041,1435269398,Denise.Shaw@digitalsales.com,33491.67,salesperson
+197,Laura,Simpson,56619 Fuller Parkway,Shawnee Mission,KS,66286,957673620,Laura.Simpson@digitalsales.com,57171.06,salesperson
+198,Carolyn,Griffin,135 Meadow Ridge Street,Honolulu,HI,96840,5824374584,Carolyn.Griffin@digitalsales.com,61199.87,salesperson
+199,Brandon,Sullivan,2258 Alpine Trail,Seattle,WA,98109,1356100796,Brandon.Sullivan@digitalsales.com,45596.84,salesperson
+200,Gary,Austin,3838 Bartillon Lane,San Francisco,CA,94105,9632868550,Gary.Austin@digitalsales.com,99511.94,region manager
+201,Anna,Austin,10 Fair Oaks Road,San Jose,CA,95150,9019438781,Anna.Austin@digitalsales.com,23207.83,salesperson
+202,Victor,Matthews,6434 Summer Ridge Alley,Albuquerque,NM,87110,1965784192,Victor.Matthews@digitalsales.com,81379.18,salesperson
+203,Evelyn,Stanley,0710 Westerfield Way,Richmond,VA,23272,946709133,Evelyn.Stanley@digitalsales.com,20531.11,salesperson
+204,Andrea,George,49 Crest Line Pass,Waterbury,CT,6726,977818042,Andrea.George@digitalsales.com,20346.56,salesperson
+205,Gloria,Howell,93 North Alley,Houston,TX,77065,6865492861,Gloria.Howell@digitalsales.com,84363.65,store manager
+206,Keith,Sims,8038 Rutledge Terrace,Wilmington,DE,19810,6754931178,Keith.Sims@digitalsales.com,80352.53,salesperson
+207,Evelyn,Garrett,41 International Place,Washington,DC,20535,2760998390,Evelyn.Garrett@digitalsales.com,26711.05,salesperson
+208,Barbara,Carter,51280 Montana Point,Concord,CA,94522,4293224375,Barbara.Carter@digitalsales.com,47599.52,salesperson
+209,Catherine,Taylor,5 Ruskin Way,Charlotte,NC,28299,2289174247,Catherine.Taylor@digitalsales.com,82672.27,salesperson
+210,Juan,Carroll,92548 Holy Cross Park,Maple Plain,MN,55579,2046928801,Juan.Carroll@digitalsales.com,28055.63,salesperson
+211,Ernest,Green,4 Clove Point,Wilmington,DE,19897,9768547413,Ernest.Green@digitalsales.com,71837.56,salesperson
+212,Russell,Warren,6449 Hazelcrest Circle,Las Vegas,NV,89110,8362290404,Russell.Warren@digitalsales.com,68703.61,salesperson
+213,Anthony,Nguyen,1 Dayton Circle,Baton Rouge,LA,70836,7021747867,Anthony.Nguyen@digitalsales.com,77998.13,salesperson
+214,Fred,Richardson,0 Merchant Street,Little Rock,AR,72215,4149052114,Fred.Richardson@digitalsales.com,51257.50,salesperson
+215,John,Jordan,4 Holy Cross Court,Richmond,VA,23242,8902446443,John.Jordan@digitalsales.com,90882.26,store manager
+216,Carolyn,Williamson,16371 Moulton Crossing,Gainesville,FL,32610,5012940085,Carolyn.Williamson@digitalsales.com,81187.77,salesperson
+217,Sara,Cole,1593 Dexter Terrace,Salt Lake City,UT,84115,2250590094,Sara.Cole@digitalsales.com,25209.59,salesperson
+218,Angela,Butler,870 Monterey Park,Kansas City,MO,64101,8858640532,Angela.Butler@digitalsales.com,66501.17,salesperson
+219,Linda,Matthews,997 Judy Trail,Roanoke,VA,24014,2301290273,Linda.Matthews@digitalsales.com,73465.06,salesperson
+220,Jennifer,Elliott,0047 Lakewood Gardens Lane,Houston,TX,77281,6172946192,Jennifer.Elliott@digitalsales.com,46876.32,salesperson
+221,Martha,Owens,28377 Westend Avenue,Flint,MI,48505,908990560,Martha.Owens@digitalsales.com,43588.82,salesperson
+222,Kenneth,Fernandez,6388 Iowa Drive,Norfolk,VA,23509,366726581,Kenneth.Fernandez@digitalsales.com,85885.91,store manager
+223,Brian,Torres,848 Thierer Place,Miami,FL,33147,269234748,Brian.Torres@digitalsales.com,39138.56,salesperson
+224,Tammy,Carpenter,50034 Jay Avenue,Atlanta,GA,31190,9381223097,Tammy.Carpenter@digitalsales.com,54575.93,salesperson
+225,Scott,Ford,667 Village Street,Lincoln,NE,68505,4857563744,Scott.Ford@digitalsales.com,98958.04,region manager
+226,Gary,Kelley,3 Lien Alley,New Orleans,LA,70129,6869356822,Gary.Kelley@digitalsales.com,30617.15,salesperson
+227,Jack,Chapman,72 Declaration Street,Houston,TX,77240,9563712402,Jack.Chapman@digitalsales.com,81755.49,salesperson
+228,Marilyn,Lee,2260 Reindahl Way,Palmdale,CA,93591,1637322994,Marilyn.Lee@digitalsales.com,71352.94,salesperson
+229,Brenda,Ford,4534 Pankratz Trail,Fort Lauderdale,FL,33325,668486808,Brenda.Ford@digitalsales.com,86391.13,store manager
+230,Gregory,Martin,3 Logan Place,Las Vegas,NV,89120,7105001740,Gregory.Martin@digitalsales.com,77364.38,salesperson
+231,David,Lewis,12952 Service Court,Tulsa,OK,74156,3283674445,David.Lewis@digitalsales.com,57808.23,salesperson
+232,Peter,Collins,06216 Maple Hill,Macon,GA,31217,7103249183,Peter.Collins@digitalsales.com,45666.80,salesperson
+233,Virginia,Hernandez,98029 Thierer Avenue,Beaumont,TX,77713,2719653159,Virginia.Hernandez@digitalsales.com,45202.85,salesperson
+234,Lori,Palmer,83 Marquette Terrace,San Antonio,TX,78230,5164442732,Lori.Palmer@digitalsales.com,60309.77,salesperson
+235,Amanda,Jackson,78602 Dennis Junction,Warren,MI,48092,4429126954,Amanda.Jackson@digitalsales.com,55511.75,salesperson
+236,Patricia,Daniels,71 Cody Park,Long Beach,CA,90831,7090699374,Patricia.Daniels@digitalsales.com,54880.15,salesperson
+237,Jessica,Lynch,400 Nelson Pass,Falls Church,VA,22047,7469135215,Jessica.Lynch@digitalsales.com,31094.10,salesperson
+238,Melissa,Chapman,13008 Park Meadow Terrace,Washington,DC,20205,2908655783,Melissa.Chapman@digitalsales.com,62019.92,salesperson
+239,Harry,Hughes,86 Vernon Trail,Baton Rouge,LA,70805,6366653059,Harry.Hughes@digitalsales.com,53603.67,salesperson
+240,Ralph,Hart,2 Summit Park,Roanoke,VA,24024,2664706057,Ralph.Hart@digitalsales.com,59070.66,salesperson
+241,Martha,Greene,69858 Barby Crossing,Kansas City,MO,64153,4943324286,Martha.Greene@digitalsales.com,43918.60,salesperson
+242,Anthony,Gordon,346 Sloan Trail,Honolulu,HI,96850,3198734683,Anthony.Gordon@digitalsales.com,46929.09,salesperson
+243,Melissa,Miller,2134 Westridge Center,Atlanta,GA,30336,426157647,Melissa.Miller@digitalsales.com,79731.04,salesperson
+244,Julie,Perez,79319 Barnett Pass,Saint Paul,MN,55188,8960437746,Julie.Perez@digitalsales.com,43031.09,salesperson
+245,Nicole,Chapman,58142 Gina Circle,Jersey City,NJ,7310,6334026695,Nicole.Chapman@digitalsales.com,63671.66,salesperson
+246,Jeremy,Chapman,69160 Eastlawn Terrace,Sioux Falls,SD,57105,4557405377,Jeremy.Chapman@digitalsales.com,23490.75,salesperson
+247,Emily,Diaz,55039 Packers Avenue,Bronx,NY,10469,7102973937,Emily.Diaz@digitalsales.com,91910.87,store manager
+248,Louise,Dean,74 Coolidge Terrace,Cleveland,OH,44177,8299127141,Louise.Dean@digitalsales.com,79692.17,salesperson
+249,Kenneth,Payne,80 Fisk Street,Miami,FL,33164,7712786596,Kenneth.Payne@digitalsales.com,27344.80,salesperson
+250,Jeremy,Taylor,95254 Bayside Lane,Sioux Falls,SD,57193,7535788245,Jeremy.Taylor@digitalsales.com,67424.68,salesperson
+251,Tina,Ellis,88 Division Court,Harrisburg,PA,17110,9904464087,Tina.Ellis@digitalsales.com,34370.53,salesperson
+252,Samuel,Jordan,86624 Dixon Plaza,Richmond,VA,23213,609879472,Samuel.Jordan@digitalsales.com,55224.62,salesperson
+253,Kevin,Collins,3 Dorton Alley,Fort Worth,TX,76178,5043396307,Kevin.Collins@digitalsales.com,67415.82,salesperson
+254,Stephanie,Rose,7064 Lawn Park,Brockton,MA,2405,3824060738,Stephanie.Rose@digitalsales.com,49796.28,salesperson
+255,Diana,Powell,00350 Blackbird Plaza,Cleveland,OH,44125,3985147649,Diana.Powell@digitalsales.com,98728.33,region manager
+256,Ernest,Medina,1158 Bayside Trail,Honolulu,HI,96840,5788841171,Ernest.Medina@digitalsales.com,76135.45,salesperson
+257,Amy,Gonzales,731 Hazelcrest Junction,Washington,DC,20036,4246259711,Amy.Gonzales@digitalsales.com,92795.03,store manager
+258,Brian,Fernandez,73659 Portage Place,Kansas City,MO,64109,8721710998,Brian.Fernandez@digitalsales.com,80450.89,salesperson
+259,Cheryl,Jenkins,7209 Vera Street,Hollywood,FL,33023,5496362715,Cheryl.Jenkins@digitalsales.com,77225.27,salesperson
+260,Kathleen,Reid,7271 Granby Center,Atlanta,GA,30306,3009663559,Kathleen.Reid@digitalsales.com,51881.26,salesperson
+261,Walter,Meyer,54 Walton Street,Madison,WI,53726,6661968904,Walter.Meyer@digitalsales.com,77111.37,salesperson
+262,Tammy,Thomas,7762 Sachs Alley,Brooklyn,NY,11231,7321450412,Tammy.Thomas@digitalsales.com,97978.48,region manager
+263,Samuel,Day,6898 Lotheville Parkway,Charlotte,NC,28215,249788882,Samuel.Day@digitalsales.com,89745.91,store manager
+264,Diane,Olson,9 Dapin Hill,Young America,MN,55564,7848659287,Diane.Olson@digitalsales.com,20939.74,salesperson
+265,Roger,Adams,0 Myrtle Crossing,Springfield,MA,1114,2976545483,Roger.Adams@digitalsales.com,44520.39,salesperson
+266,Irene,Stephens,6 Melody Road,El Paso,TX,79940,6664701150,Irene.Stephens@digitalsales.com,71720.13,salesperson
+267,Juan,Lawson,6 Anzinger Center,Mansfield,OH,44905,5321832404,Juan.Lawson@digitalsales.com,53594.36,salesperson
+268,Christine,Hunter,3195 Rowland Point,Saint Louis,MO,63104,3484464413,Christine.Hunter@digitalsales.com,90295.84,store manager
+269,James,Dean,3102 3rd Center,Terre Haute,IN,47812,4801796078,James.Dean@digitalsales.com,89092.07,store manager
+270,Elizabeth,Morales,4 Elgar Avenue,Winston Salem,NC,27105,2081942812,Elizabeth.Morales@digitalsales.com,56220.40,salesperson
+271,Kenneth,Myers,2 Saint Paul Hill,Columbus,OH,43268,6007262046,Kenneth.Myers@digitalsales.com,62229.53,salesperson
+272,Jane,Reed,0 Sage Place,Baltimore,MD,21211,9157677479,Jane.Reed@digitalsales.com,50923.35,salesperson
+273,Ruby,Nguyen,05899 Commercial Way,New York City,NY,10203,744283193,Ruby.Nguyen@digitalsales.com,89068.08,store manager
+274,Emily,Hayes,3485 Havey Terrace,Amarillo,TX,79188,934183157,Emily.Hayes@digitalsales.com,52235.68,salesperson
+275,Charles,Simmons,7 Monica Pass,Young America,MN,55564,2215674786,Charles.Simmons@digitalsales.com,92204.64,store manager
+276,Carl,Grant,99 Vernon Point,San Jose,CA,95173,3607663036,Carl.Grant@digitalsales.com,69148.15,salesperson
+277,Michelle,Berry,6 Corry Lane,Montgomery,AL,36177,7441145182,Michelle.Berry@digitalsales.com,23966.48,salesperson
+278,Barbara,Garrett,7691 Charing Cross Point,Kansas City,MO,64153,1008261302,Barbara.Garrett@digitalsales.com,21232.04,salesperson
+279,Daniel,Fernandez,35651 Arkansas Circle,Valley Forge,PA,19495,3990305874,Daniel.Fernandez@digitalsales.com,75474.54,salesperson
+280,Thomas,Campbell,12133 Lake View Lane,Birmingham,AL,35236,337094145,Thomas.Campbell@digitalsales.com,76487.26,salesperson
+281,Tina,Owens,96 Fuller Court,Bloomington,IL,61709,1105904764,Tina.Owens@digitalsales.com,50413.13,salesperson
+282,Raymond,Nelson,4235 Mayfield Street,Washington,DC,20430,5761222216,Raymond.Nelson@digitalsales.com,91109.66,store manager
+283,Sandra,Peterson,24510 Mariners Cove Court,Honolulu,HI,96850,9004211380,Sandra.Peterson@digitalsales.com,91501.42,store manager
+284,Brenda,Ramirez,4 Burning Wood Crossing,Lubbock,TX,79405,6481448271,Brenda.Ramirez@digitalsales.com,37451.01,salesperson
+285,Teresa,Ruiz,37169 Pawling Court,Des Moines,IA,50330,189469075,Teresa.Ruiz@digitalsales.com,63457.67,salesperson
+286,Ruth,Harrison,8778 South Way,Atlanta,GA,31196,4845847469,Ruth.Harrison@digitalsales.com,34248.31,salesperson
+287,Evelyn,Rivera,0 Dovetail Terrace,Fort Wayne,IN,46852,5201342588,Evelyn.Rivera@digitalsales.com,76902.41,salesperson
+288,Gary,Hansen,5372 West Drive,El Paso,TX,79968,2667514790,Gary.Hansen@digitalsales.com,68760.02,salesperson
+289,Linda,Hawkins,90524 Becker Parkway,Phoenix,AZ,85020,3430780957,Linda.Hawkins@digitalsales.com,72687.81,salesperson
+290,Billy,Richards,16591 Kensington Junction,San Bernardino,CA,92415,3162442759,Billy.Richards@digitalsales.com,49511.27,salesperson
+291,Martha,Garrett,595 1st Place,Atlanta,GA,31165,5459367966,Martha.Garrett@digitalsales.com,27282.27,salesperson
+292,Laura,Morris,2 Valley Edge Hill,Portland,OR,97206,9361148271,Laura.Morris@digitalsales.com,63024.30,salesperson
+293,Frank,Parker,24894 Warrior Place,El Paso,TX,88530,1423979518,Frank.Parker@digitalsales.com,48030.66,salesperson
+294,Benjamin,Johnson,86433 Barnett Circle,Berkeley,CA,94712,864445245,Benjamin.Johnson@digitalsales.com,36039.93,salesperson
+295,Anthony,Wilson,89 Michigan Circle,Charleston,WV,25326,5743584094,Anthony.Wilson@digitalsales.com,64909.97,salesperson
+296,Phillip,Ramos,54 Commercial Parkway,Van Nuys,CA,91499,1480496077,Phillip.Ramos@digitalsales.com,63514.87,salesperson
+297,Joe,Butler,5 Heath Circle,Van Nuys,CA,91406,4948854153,Joe.Butler@digitalsales.com,45015.34,salesperson
+298,Shawn,Wheeler,5 Anniversary Lane,Juneau,AK,99812,5795746888,Shawn.Wheeler@digitalsales.com,63716.84,salesperson
+299,Andrew,Long,39 Morningstar Parkway,Dallas,TX,75265,1432725880,Andrew.Long@digitalsales.com,63939.43,salesperson
+300,Anne,Flores,53929 Rutledge Point,London,KY,40745,4505346098,Anne.Flores@digitalsales.com,69998.94,salesperson
+301,Jessica,Turner,71669 Wayridge Terrace,Reno,NV,89550,3762258963,Jessica.Turner@digitalsales.com,41777.42,salesperson
+302,Philip,Powell,78071 Welch Alley,New York City,NY,10203,6423736983,Philip.Powell@digitalsales.com,32989.09,salesperson
+303,Victor,Hall,78922 Memorial Crossing,Providence,RI,2912,7876635053,Victor.Hall@digitalsales.com,95311.30,store manager
+304,Alan,Kelley,0 Sachs Terrace,Oklahoma City,OK,73129,40106612,Alan.Kelley@digitalsales.com,59056.37,salesperson
+305,Doris,Crawford,36469 Jay Alley,Baltimore,MD,21282,7155469104,Doris.Crawford@digitalsales.com,81277.65,salesperson
+306,Aaron,Mcdonald,06462 Lakewood Gardens Lane,Omaha,NE,68110,8037149543,Aaron.Mcdonald@digitalsales.com,96445.45,region manager
+307,Robin,Ford,4 Independence Parkway,Des Moines,IA,50393,9419144739,Robin.Ford@digitalsales.com,26094.73,salesperson
+308,James,Ramos,5607 Donald Way,Ocala,FL,34474,5321871315,James.Ramos@digitalsales.com,27707.83,salesperson
+309,Dorothy,Hall,917 Dorton Pass,Palm Bay,FL,32909,5821194261,Dorothy.Hall@digitalsales.com,94839.64,store manager
+310,David,Medina,0 Carey Alley,Topeka,KS,66667,3256358678,David.Medina@digitalsales.com,22513.27,salesperson
+311,Sara,Ford,406 Oriole Park,Pensacola,FL,32505,7510646702,Sara.Ford@digitalsales.com,52525.67,salesperson
+312,Diana,Pierce,779 Magdeline Place,Boston,MA,2109,3913719849,Diana.Pierce@digitalsales.com,32967.85,salesperson
+313,Julia,Kim,609 Dennis Alley,Ocala,FL,34479,7184230990,Julia.Kim@digitalsales.com,67530.77,salesperson
+314,Dennis,Scott,8702 Welch Crossing,Anchorage,AK,99512,7296878355,Dennis.Scott@digitalsales.com,97939.89,region manager
+315,Steve,Lane,653 Bayside Alley,Evansville,IN,47737,204343568,Steve.Lane@digitalsales.com,43110.82,salesperson
+316,Bonnie,Weaver,9 Mariners Cove Circle,Wichita,KS,67220,4198623098,Bonnie.Weaver@digitalsales.com,48415.76,salesperson
+317,Amanda,Watkins,1 Hanover Place,Jackson,MS,39216,6378863358,Amanda.Watkins@digitalsales.com,94446.76,store manager
+318,Theresa,Hicks,29325 Kennedy Road,Birmingham,AL,35295,8915198745,Theresa.Hicks@digitalsales.com,61286.13,salesperson
+319,Kelly,Burton,296 1st Junction,Portland,OR,97229,5340133249,Kelly.Burton@digitalsales.com,74681.52,salesperson
+320,Irene,Sanders,1 Chinook Place,Brooklyn,NY,11254,5600539016,Irene.Sanders@digitalsales.com,30862.43,salesperson
+321,Henry,Snyder,3 Fisk Crossing,Irvine,CA,92612,5103634678,Henry.Snyder@digitalsales.com,72169.76,salesperson
+322,Douglas,Martinez,09420 Longview Plaza,Washington,DC,20380,5023756123,Douglas.Martinez@digitalsales.com,85725.64,store manager
+323,Charles,Roberts,650 Esch Road,Saint Paul,MN,55127,8083063901,Charles.Roberts@digitalsales.com,73333.55,salesperson
+324,Daniel,Cook,2913 Ryan Point,Washington,DC,20041,5052610562,Daniel.Cook@digitalsales.com,39854.56,salesperson
+325,Timothy,Garrett,14 Farmco Junction,Brooklyn,NY,11205,401777841,Timothy.Garrett@digitalsales.com,97149.89,region manager
+326,Sarah,Washington,3405 Calypso Avenue,Newark,DE,19725,122041977,Sarah.Washington@digitalsales.com,35061.95,salesperson
+327,Laura,Burton,30 Algoma Pass,Asheville,NC,28815,7411700079,Laura.Burton@digitalsales.com,76792.91,salesperson
+328,Robert,Perez,2998 Utah Drive,Waco,TX,76705,9817244055,Robert.Perez@digitalsales.com,20862.29,salesperson
+329,Pamela,Lawrence,59 Ilene Hill,Danbury,CT,6816,1319841883,Pamela.Lawrence@digitalsales.com,79938.27,salesperson
+330,Robert,Willis,19414 3rd Terrace,Winter Haven,FL,33884,3680454568,Robert.Willis@digitalsales.com,69803.10,salesperson
+331,Raymond,George,5 Westridge Road,Montgomery,AL,36125,5257191432,Raymond.George@digitalsales.com,76566.19,salesperson
+332,Julie,Evans,89 Schmedeman Park,Bryan,TX,77806,8991684120,Julie.Evans@digitalsales.com,53000.91,salesperson
+333,Annie,Morgan,22 Coolidge Alley,Richmond,VA,23237,1880305051,Annie.Morgan@digitalsales.com,56177.67,salesperson
+334,Alice,Morrison,862 Cottonwood Parkway,Dallas,TX,75231,8127026746,Alice.Morrison@digitalsales.com,80435.97,salesperson
+335,Adam,Webb,0884 Dawn Circle,Lexington,KY,40586,3385893638,Adam.Webb@digitalsales.com,96518.12,region manager
+336,Craig,Scott,90 Cody Way,Youngstown,OH,44555,5990703354,Craig.Scott@digitalsales.com,49077.53,salesperson
+337,Christine,Bailey,0 New Castle Drive,Columbia,SC,29203,520119609,Christine.Bailey@digitalsales.com,84169.79,salesperson
+338,Arthur,Reed,26 Dawn Center,Madison,WI,53779,9195960170,Arthur.Reed@digitalsales.com,20144.32,salesperson
+339,Brenda,Evans,38 Bonner Court,Philadelphia,PA,19151,8798547739,Brenda.Evans@digitalsales.com,67778.64,salesperson
+340,Ruth,Reed,8422 Springview Terrace,Saint Louis,MO,63180,3870639029,Ruth.Reed@digitalsales.com,64616.63,salesperson
+341,Juan,Peters,981 Saint Paul Hill,El Paso,TX,79999,964791872,Juan.Peters@digitalsales.com,89385.13,store manager
+342,Gloria,Mills,20553 Meadow Vale Place,Carol Stream,IL,60351,1901727714,Gloria.Mills@digitalsales.com,21024.90,salesperson
+343,Jane,Crawford,407 Bay Hill,Shreveport,LA,71105,9249828446,Jane.Crawford@digitalsales.com,97895.23,region manager
+344,Martha,Jordan,14498 Thierer Pass,Bakersfield,CA,93381,573142374,Martha.Jordan@digitalsales.com,92987.43,store manager
+345,Juan,Daniels,5446 Dunning Alley,Mansfield,OH,44905,8598035732,Juan.Daniels@digitalsales.com,68171.87,salesperson
+346,Patrick,Davis,0272 Fair Oaks Trail,Columbia,MO,65218,6888512738,Patrick.Davis@digitalsales.com,29876.56,salesperson
+347,Johnny,Cox,1 Sauthoff Hill,Waterloo,IA,50706,8900496179,Johnny.Cox@digitalsales.com,37254.99,salesperson
+348,Linda,Shaw,8 Erie Drive,Bloomington,IL,61709,7002841895,Linda.Shaw@digitalsales.com,28742.28,salesperson
+349,Joshua,Stephens,4 Pawling Trail,Mansfield,OH,44905,6039797514,Joshua.Stephens@digitalsales.com,74488.58,salesperson
+350,Kathleen,Williams,6 Mayfield Road,Fort Worth,TX,76134,6159513237,Kathleen.Williams@digitalsales.com,72084.11,salesperson
+351,Billy,Bell,2184 Melvin Plaza,Huntington,WV,25726,8050161454,Billy.Bell@digitalsales.com,31102.05,salesperson
+352,Denise,Watkins,31 Holmberg Terrace,Sacramento,CA,94237,7170870818,Denise.Watkins@digitalsales.com,85568.36,store manager
+353,Craig,Howell,363 Brentwood Circle,Redwood City,CA,94064,7947132037,Craig.Howell@digitalsales.com,43484.92,salesperson
+354,Johnny,Hunt,5621 Loftsgordon Park,Pueblo,CO,81010,8799664298,Johnny.Hunt@digitalsales.com,77671.79,salesperson
+355,Aaron,Washington,18 Northview Hill,San Antonio,TX,78250,3871575348,Aaron.Washington@digitalsales.com,72561.13,salesperson
+356,Randy,Johnson,46 Hanson Pass,Grand Junction,CO,81505,2650292491,Randy.Johnson@digitalsales.com,59228.01,salesperson
+357,Harold,Bishop,531 Dwight Terrace,Brooklyn,NY,11247,8609762086,Harold.Bishop@digitalsales.com,87900.55,store manager
+358,Jonathan,Ortiz,55068 Dahle Parkway,Mobile,AL,36689,7608408853,Jonathan.Ortiz@digitalsales.com,91804.08,store manager
+359,Jane,Duncan,4665 Division Pass,Philadelphia,PA,19136,6316915165,Jane.Duncan@digitalsales.com,92014.47,store manager
+360,Eric,Jackson,3 Iowa Park,Fort Smith,AR,72905,3009567799,Eric.Jackson@digitalsales.com,44469.99,salesperson
+361,Randy,Boyd,75239 Victoria Drive,Honolulu,HI,96850,2798585810,Randy.Boyd@digitalsales.com,31047.75,salesperson
+362,Melissa,Moreno,58832 Rusk Pass,San Francisco,CA,94177,4201941690,Melissa.Moreno@digitalsales.com,49178.08,salesperson
+363,Katherine,Watkins,087 Rowland Drive,New York City,NY,10029,6389564060,Katherine.Watkins@digitalsales.com,85485.27,store manager
+364,Jeremy,Miller,837 Acker Circle,Tampa,FL,33686,1928042358,Jeremy.Miller@digitalsales.com,86721.25,store manager
+365,Philip,Hamilton,0 Troy Terrace,Fort Lauderdale,FL,33305,9082050002,Philip.Hamilton@digitalsales.com,61539.65,salesperson
+366,Carol,Murphy,2985 Kennedy Lane,Baton Rouge,LA,70826,5701528015,Carol.Murphy@digitalsales.com,74923.74,salesperson
+367,Andrew,Hawkins,65358 Swallow Alley,Columbus,OH,43268,9176233,Andrew.Hawkins@digitalsales.com,34812.60,salesperson
+368,Susan,Coleman,0062 International Hill,San Antonio,TX,78278,2298020817,Susan.Coleman@digitalsales.com,45349.72,salesperson
+369,Shirley,Stevens,2 Kings Road,Las Vegas,NV,89110,2406156652,Shirley.Stevens@digitalsales.com,23046.87,salesperson
+370,Kathy,Hunter,8893 Lakeland Avenue,El Paso,TX,88546,7148745126,Kathy.Hunter@digitalsales.com,82866.15,salesperson
+371,Linda,Reed,36975 Upham Way,Iowa City,IA,52245,2524296061,Linda.Reed@digitalsales.com,67604.62,salesperson
+372,Susan,Weaver,96 Colorado Trail,Richmond,VA,23277,7262620107,Susan.Weaver@digitalsales.com,81106.09,salesperson
+373,Diane,Johnson,56835 Sachtjen Street,Trenton,NJ,8650,5701137554,Diane.Johnson@digitalsales.com,78834.22,salesperson
+374,Laura,Willis,6368 Rieder Road,Boston,MA,2114,6167093443,Laura.Willis@digitalsales.com,81070.13,salesperson
+375,Joseph,Garcia,05604 Rowland Way,Chicago,IL,60614,386607336,Joseph.Garcia@digitalsales.com,64596.23,salesperson
+376,Steven,Burton,1 Bluestem Pass,Melbourne,FL,32919,2269243035,Steven.Burton@digitalsales.com,27252.55,salesperson
+377,Mary,Watson,2 Birchwood Lane,Albuquerque,NM,87110,5850623746,Mary.Watson@digitalsales.com,85380.10,store manager
+378,Alan,Garrett,682 Esker Center,Miami,FL,33134,6059079555,Alan.Garrett@digitalsales.com,96096.19,region manager
+379,Jason,Price,45155 Charing Cross Pass,Carol Stream,IL,60158,8669363340,Jason.Price@digitalsales.com,98582.82,region manager
+380,Theresa,Mendoza,83 Shelley Plaza,New Orleans,LA,70149,2895147334,Theresa.Mendoza@digitalsales.com,82264.96,salesperson
+381,Linda,Myers,968 Towne Trail,Boise,ID,83732,963242366,Linda.Myers@digitalsales.com,44131.67,salesperson
+382,Frances,Harvey,9 Bunker Hill Alley,San Diego,CA,92196,6952660468,Frances.Harvey@digitalsales.com,50835.18,salesperson
+383,Alice,Payne,23538 Kennedy Terrace,Fort Worth,TX,76198,652709219,Alice.Payne@digitalsales.com,92027.70,store manager
+384,Janet,Roberts,0372 Anniversary Junction,Irving,TX,75037,3241860763,Janet.Roberts@digitalsales.com,79030.06,salesperson
+385,Anthony,Russell,0055 Meadow Valley Parkway,Nashville,TN,37210,8646106520,Anthony.Russell@digitalsales.com,58200.00,salesperson
+386,Adam,Reynolds,6858 Anderson Court,Boise,ID,83711,4717601891,Adam.Reynolds@digitalsales.com,43856.07,salesperson
+387,Linda,Patterson,58 Del Mar Pass,Hialeah,FL,33013,7163684588,Linda.Patterson@digitalsales.com,88194.88,store manager
+388,Jeremy,Miller,88 Emmet Way,Charleston,SC,29403,3047353783,Jeremy.Miller@digitalsales.com,70060.14,salesperson
+389,Nicholas,Parker,0 Waubesa Drive,Hot Springs National Park,AR,71914,1632281022,Nicholas.Parker@digitalsales.com,45603.25,salesperson
+390,Roy,Jackson,756 Carioca Parkway,Lexington,KY,40576,118850765,Roy.Jackson@digitalsales.com,73016.81,salesperson
+391,Samuel,Nelson,38775 Pine View Plaza,Miami,FL,33283,6676550165,Samuel.Nelson@digitalsales.com,69567.29,salesperson
+392,Billy,Martinez,98874 Susan Way,Crawfordsville,IN,47937,1883791429,Billy.Martinez@digitalsales.com,69473.72,salesperson
+393,Michelle,Mendoza,20467 Northport Terrace,Fort Wayne,IN,46862,416843058,Michelle.Mendoza@digitalsales.com,94191.01,store manager
+394,Larry,West,75 Elmside Street,New York City,NY,10275,5920737786,Larry.West@digitalsales.com,28902.19,salesperson
+395,Charles,Hawkins,58315 Hudson Parkway,Memphis,TN,38181,3473782961,Charles.Hawkins@digitalsales.com,68260.67,salesperson
+396,Aaron,Pierce,9 Independence Place,Sarasota,FL,34276,5261465024,Aaron.Pierce@digitalsales.com,58318.29,salesperson
+397,Martin,Price,421 Fisk Way,Berkeley,CA,94712,9823103276,Martin.Price@digitalsales.com,30173.02,salesperson
+398,Terry,Snyder,6030 Granby Hill,Philadelphia,PA,19141,2733065146,Terry.Snyder@digitalsales.com,88216.13,store manager
+399,Tammy,Price,98852 Harper Lane,Yonkers,NY,10705,9982573019,Tammy.Price@digitalsales.com,53510.23,salesperson
+400,Julie,Dixon,361 Troy Terrace,Lexington,KY,40510,341866729,Julie.Dixon@digitalsales.com,41004.28,salesperson
+401,Marilyn,Kelly,14050 Barby Road,Nashville,TN,37250,8316102036,Marilyn.Kelly@digitalsales.com,23555.92,salesperson
+402,Anthony,Marshall,68560 Harbort Center,Norwalk,CT,6854,3940523551,Anthony.Marshall@digitalsales.com,79146.68,salesperson
+403,Jeffrey,Jones,37791 Sage Center,Tallahassee,FL,32399,2076618826,Jeffrey.Jones@digitalsales.com,71121.62,salesperson
+404,Cynthia,Martin,43 Thompson Drive,Anchorage,AK,99517,9286125400,Cynthia.Martin@digitalsales.com,78454.63,salesperson
+405,Kenneth,Burke,338 Sutherland Avenue,Louisville,KY,40293,9815702472,Kenneth.Burke@digitalsales.com,72567.17,salesperson
+406,Marilyn,Gonzalez,43 Spaight Plaza,Monroe,LA,71213,2214756864,Marilyn.Gonzalez@digitalsales.com,50460.66,salesperson
+407,Jennifer,Ruiz,57 Arapahoe Street,Frankfort,KY,40618,527918624,Jennifer.Ruiz@digitalsales.com,85376.49,store manager
+408,Barbara,Murray,46651 Mifflin Plaza,Grand Rapids,MI,49505,5378585708,Barbara.Murray@digitalsales.com,71141.59,salesperson
+409,Edward,Jones,49 Hintze Circle,Albany,NY,12232,8964109191,Edward.Jones@digitalsales.com,27226.48,salesperson
+410,Phillip,Porter,22717 Saint Paul Park,Jacksonville,FL,32215,934349828,Phillip.Porter@digitalsales.com,61625.04,salesperson
+411,Chris,Wright,8974 Granby Lane,El Paso,TX,79994,7010329894,Chris.Wright@digitalsales.com,70327.08,salesperson
+412,Timothy,Coleman,34 Merchant Alley,Santa Monica,CA,90405,7399195829,Timothy.Coleman@digitalsales.com,84915.61,store manager
+413,Christine,Sanchez,38 Ridgeway Parkway,Seattle,WA,98148,8600397335,Christine.Sanchez@digitalsales.com,66835.49,salesperson
+414,Jonathan,Wagner,4501 Hoard Court,Spring Hill,FL,34611,370683101,Jonathan.Wagner@digitalsales.com,40889.86,salesperson
+415,Barbara,Stone,12 Goodland Crossing,San Francisco,CA,94177,9216945323,Barbara.Stone@digitalsales.com,82682.88,salesperson
+416,Louise,Rogers,6 Ridge Oak Alley,Salinas,CA,93907,8356657383,Louise.Rogers@digitalsales.com,26710.15,salesperson
+417,Helen,Mason,851 Comanche Pass,Des Moines,IA,50320,4576179530,Helen.Mason@digitalsales.com,54284.02,salesperson
+418,Russell,Young,42305 Quincy Center,Los Angeles,CA,90081,1129731949,Russell.Young@digitalsales.com,92993.05,store manager
+419,Shirley,Hansen,68 8th Drive,Washington,DC,20551,8807478735,Shirley.Hansen@digitalsales.com,99591.44,region manager
+420,Carolyn,Perez,68276 Dennis Park,Denton,TX,76205,4567982807,Carolyn.Perez@digitalsales.com,63229.92,salesperson
+421,Justin,Holmes,20110 Northfield Pass,Durham,NC,27717,1143086596,Justin.Holmes@digitalsales.com,70698.60,salesperson
+422,Anna,Hicks,91724 Delladonna Park,Newark,NJ,7195,6478980229,Anna.Hicks@digitalsales.com,87531.29,store manager
+423,Maria,Hughes,7 Maryland Road,Denver,CO,80228,7125926754,Maria.Hughes@digitalsales.com,91618.52,store manager
+424,Brenda,Ford,167 Haas Lane,Los Angeles,CA,90087,1027897552,Brenda.Ford@digitalsales.com,48120.66,salesperson
+425,Ann,Meyer,10 Sachs Alley,Maple Plain,MN,55579,1804127636,Ann.Meyer@digitalsales.com,56192.58,salesperson
+426,Joshua,Hayes,26551 Reinke Alley,Washington,DC,20430,9967884400,Joshua.Hayes@digitalsales.com,25735.10,salesperson
+427,Doris,Foster,1400 Banding Park,Bronx,NY,10459,5690096623,Doris.Foster@digitalsales.com,28903.81,salesperson
+428,Henry,Reyes,81 Evergreen Terrace,Denver,CO,80291,7885400507,Henry.Reyes@digitalsales.com,92330.93,store manager
+429,Terry,Dunn,0816 7th Circle,Houston,TX,77070,57339667,Terry.Dunn@digitalsales.com,64995.05,salesperson
+430,Roger,Dean,1202 Old Gate Court,Brooklyn,NY,11241,8220351735,Roger.Dean@digitalsales.com,46655.86,salesperson
+431,Eugene,Green,720 Autumn Leaf Park,Portland,OR,97232,3289514878,Eugene.Green@digitalsales.com,98473.38,region manager
+432,Jessica,Jackson,6 Magdeline Junction,Austin,TX,78754,6051089911,Jessica.Jackson@digitalsales.com,65312.05,salesperson
+433,Martha,Richards,127 Emmet Center,Sioux Falls,SD,57110,994055086,Martha.Richards@digitalsales.com,95256.81,store manager
+434,Christopher,Williamson,274 Grover Place,Palmdale,CA,93591,3465075573,Christopher.Williamson@digitalsales.com,59318.06,salesperson
+435,Mark,Little,20 Artisan Alley,San Antonio,TX,78240,9750070173,Mark.Little@digitalsales.com,94078.92,store manager
+436,Evelyn,Wheeler,54750 Novick Center,Austin,TX,78710,1351920828,Evelyn.Wheeler@digitalsales.com,28088.04,salesperson
+437,Harry,Ortiz,771 Killdeer Drive,Tampa,FL,33610,5874329709,Harry.Ortiz@digitalsales.com,76940.37,salesperson
+438,Nicole,Bryant,4346 Hayes Avenue,San Bernardino,CA,92424,4017849159,Nicole.Bryant@digitalsales.com,91595.67,store manager
+439,Aaron,Dean,40059 7th Plaza,Burbank,CA,91520,9423346155,Aaron.Dean@digitalsales.com,44226.93,salesperson
+440,Virginia,Foster,5362 Summer Ridge Alley,Sarasota,FL,34276,9299245430,Virginia.Foster@digitalsales.com,79619.28,salesperson
+441,Carl,Phillips,87599 Cambridge Street,Great Neck,NY,11024,2713012155,Carl.Phillips@digitalsales.com,25463.11,salesperson
+442,Antonio,Schmidt,421 Fulton Lane,Seattle,WA,98166,7354239967,Antonio.Schmidt@digitalsales.com,82205.70,salesperson
+443,Rebecca,Bryant,964 Morning Court,Sacramento,CA,94237,8943877447,Rebecca.Bryant@digitalsales.com,45495.16,salesperson
+444,Deborah,Stone,2 Hovde Center,Miami,FL,33245,9328111702,Deborah.Stone@digitalsales.com,72395.68,salesperson
+445,Timothy,Black,54 Pierstorff Place,San Jose,CA,95155,2197349126,Timothy.Black@digitalsales.com,58684.28,salesperson
+446,Jane,Baker,4573 Eagle Crest Junction,Atlanta,GA,30336,360629379,Jane.Baker@digitalsales.com,96451.54,region manager
+447,Debra,Sanders,10393 Armistice Trail,Merrifield,VA,22119,3067982436,Debra.Sanders@digitalsales.com,78411.09,salesperson
+448,Janet,Carr,9587 Buena Vista Park,Metairie,LA,70033,5801004480,Janet.Carr@digitalsales.com,27919.92,salesperson
+449,Phyllis,Harvey,8649 Fallview Trail,Bloomington,IN,47405,6388237660,Phyllis.Harvey@digitalsales.com,66078.00,salesperson
+450,Jerry,Watkins,790 Tomscot Center,Anniston,AL,36205,3335223321,Jerry.Watkins@digitalsales.com,66915.52,salesperson
+451,Catherine,Butler,39 Sugar Lane,Washington,DC,20546,2486007793,Catherine.Butler@digitalsales.com,52906.83,salesperson
+452,Kathleen,Myers,7 Cordelia Point,Columbus,OH,43231,8399364647,Kathleen.Myers@digitalsales.com,84331.78,store manager
+453,Adam,Arnold,614 Sutherland Terrace,Dallas,TX,75387,8269697250,Adam.Arnold@digitalsales.com,47762.13,salesperson
+454,Theresa,Taylor,1727 Atwood Way,Chula Vista,CA,91913,9644011661,Theresa.Taylor@digitalsales.com,70501.15,salesperson
+455,John,Robertson,063 Arizona Lane,Washington,DC,20268,5436838301,John.Robertson@digitalsales.com,49189.95,salesperson
+456,Steven,Roberts,1 Nelson Parkway,Inglewood,CA,90310,3188437459,Steven.Roberts@digitalsales.com,84029.36,salesperson
+457,Cheryl,Robertson,82576 Larry Way,Newport News,VA,23612,7970746168,Cheryl.Robertson@digitalsales.com,80431.13,salesperson
+458,Eric,Thompson,322 Mitchell Junction,Topeka,KS,66611,8735966727,Eric.Thompson@digitalsales.com,59380.96,salesperson
+459,Lawrence,Wood,12 Southridge Place,Harrisburg,PA,17126,5156764853,Lawrence.Wood@digitalsales.com,65025.63,salesperson
+460,Brenda,Burton,2776 American Ash Lane,Alhambra,CA,91841,8285451388,Brenda.Burton@digitalsales.com,20281.91,salesperson
+461,Teresa,George,8500 Bluejay Trail,Kansas City,MO,64193,2330304149,Teresa.George@digitalsales.com,96775.69,region manager
+462,Robin,Hamilton,77 Dawn Lane,Memphis,TN,38131,5901854656,Robin.Hamilton@digitalsales.com,40756.47,salesperson
+463,Paul,Knight,5 Bartillon Road,Cincinnati,OH,45208,3776826914,Paul.Knight@digitalsales.com,27278.27,salesperson
+464,Jack,Watson,9 High Crossing Junction,North Hollywood,CA,91616,7063806304,Jack.Watson@digitalsales.com,32562.68,salesperson
+465,William,Cunningham,49 Clarendon Terrace,Lexington,KY,40591,1866442716,William.Cunningham@digitalsales.com,36143.80,salesperson
+466,Johnny,Daniels,895 Memorial Court,Washington,DC,20392,8769176774,Johnny.Daniels@digitalsales.com,67584.03,salesperson
+467,Kathryn,Perry,243 Eagan Alley,Anaheim,CA,92805,804005148,Kathryn.Perry@digitalsales.com,32888.45,salesperson
+468,Theresa,Day,8156 Mccormick Crossing,Terre Haute,IN,47812,2097375803,Theresa.Day@digitalsales.com,28898.56,salesperson
+469,Stephanie,Bennett,376 Shelley Crossing,Salt Lake City,UT,84130,5832398311,Stephanie.Bennett@digitalsales.com,80605.85,salesperson
+470,Anne,Greene,3504 Clyde Gallagher Drive,Dallas,TX,75260,7920412430,Anne.Greene@digitalsales.com,38629.42,salesperson
+471,Russell,Hayes,8299 Service Plaza,New York City,NY,10014,7840749141,Russell.Hayes@digitalsales.com,31974.45,salesperson
+472,Randy,Woods,5223 Reinke Avenue,Missoula,MT,59806,9529011741,Randy.Woods@digitalsales.com,70163.16,salesperson
+473,Shawn,Burke,60743 Dayton Terrace,Dayton,OH,45470,6736178418,Shawn.Burke@digitalsales.com,32865.80,salesperson
+474,Diane,Tucker,63 Browning Crossing,Syracuse,NY,13205,8188398415,Diane.Tucker@digitalsales.com,69537.41,salesperson
+475,Keith,Thompson,6439 Grayhawk Junction,Fort Lauderdale,FL,33336,9851209979,Keith.Thompson@digitalsales.com,22421.73,salesperson
+476,Stephen,Daniels,9796 Del Sol Court,Saint Louis,MO,63180,7758961232,Stephen.Daniels@digitalsales.com,37307.20,salesperson
+477,Ryan,Carpenter,6 Spohn Plaza,Warren,OH,44485,8929466021,Ryan.Carpenter@digitalsales.com,21353.01,salesperson
+478,Eric,Fisher,352 Charing Cross Road,Vero Beach,FL,32964,7724332451,Eric.Fisher@digitalsales.com,39501.64,salesperson
+479,Lori,Barnes,194 Vera Drive,Albuquerque,NM,87180,3805182510,Lori.Barnes@digitalsales.com,83367.66,salesperson
+480,Benjamin,Burton,256 Granby Terrace,Mesa,AZ,85215,7271607951,Benjamin.Burton@digitalsales.com,72522.83,salesperson
+481,Sarah,Gordon,8003 Sycamore Pass,Louisville,KY,40233,5565790544,Sarah.Gordon@digitalsales.com,73333.68,salesperson
+482,Victor,Smith,34315 Straubel Road,Norman,OK,73071,6599904541,Victor.Smith@digitalsales.com,61553.95,salesperson
+483,Samuel,Morales,95 Straubel Point,Billings,MT,59105,2784181936,Samuel.Morales@digitalsales.com,98877.20,region manager
+484,Keith,Perkins,36339 Sommers Point,Oklahoma City,OK,73167,8148229989,Keith.Perkins@digitalsales.com,36342.29,salesperson
+485,Margaret,Morgan,90405 Walton Trail,Houston,TX,77250,2164049841,Margaret.Morgan@digitalsales.com,91508.81,store manager
+486,Helen,Holmes,222 Del Sol Lane,Largo,FL,34643,3296376173,Helen.Holmes@digitalsales.com,56637.56,salesperson
+487,Jennifer,Romero,1 Village Green Avenue,Ann Arbor,MI,48107,2385826680,Jennifer.Romero@digitalsales.com,64711.47,salesperson
+488,Wanda,Roberts,608 Delladonna Park,Columbus,OH,43204,889529321,Wanda.Roberts@digitalsales.com,78976.61,salesperson
+489,Ruth,Fisher,8703 Melvin Pass,Corpus Christi,TX,78470,5756170986,Ruth.Fisher@digitalsales.com,84273.82,store manager
+490,Eugene,West,95 8th Crossing,Pasadena,TX,77505,3621685046,Eugene.West@digitalsales.com,76435.46,salesperson
+491,Ashley,Murray,569 Rieder Drive,Phoenix,AZ,85045,3627264354,Ashley.Murray@digitalsales.com,26706.45,salesperson
+492,Christopher,Myers,96016 Sherman Point,Tempe,AZ,85284,1256647862,Christopher.Myers@digitalsales.com,72020.12,salesperson
+493,Ryan,Spencer,52 7th Plaza,Denver,CO,80262,5873932478,Ryan.Spencer@digitalsales.com,78272.88,salesperson
+494,Ralph,Russell,183 Brown Parkway,Hartford,CT,6183,8165922733,Ralph.Russell@digitalsales.com,99546.68,region manager
+495,James,Henderson,00012 Menomonie Plaza,Anaheim,CA,92812,5445127830,James.Henderson@digitalsales.com,62255.89,salesperson
+496,Chris,Oliver,15951 Claremont Point,Decatur,GA,30089,5116162639,Chris.Oliver@digitalsales.com,73242.68,salesperson
+497,Jason,Snyder,8 Southridge Place,Des Moines,IA,50393,9921831800,Jason.Snyder@digitalsales.com,83980.44,salesperson
+498,Nicholas,Dean,3046 Cardinal Drive,Lexington,KY,40591,6596109327,Nicholas.Dean@digitalsales.com,27968.47,salesperson
+499,Clarence,King,9813 Swallow Place,Plano,TX,75074,8218281934,Clarence.King@digitalsales.com,31156.31,salesperson
+500,Irene,James,4431 Esch Parkway,New Orleans,LA,70187,5227569124,Irene.James@digitalsales.com,85773.38,store manager
+501,Frances,Carr,2 Brickson Park Terrace,Tuscaloosa,AL,35487,4951628658,Frances.Carr@digitalsales.com,22135.91,salesperson
+502,Janet,Tucker,6244 Kinsman Drive,Saint Louis,MO,63180,6804013133,Janet.Tucker@digitalsales.com,21507.68,salesperson
+503,Eric,Scott,1 Armistice Trail,Shreveport,LA,71161,3408777005,Eric.Scott@digitalsales.com,91963.78,store manager
+504,Jennifer,Bell,6 Mendota Junction,Indianapolis,IN,46221,7830091929,Jennifer.Bell@digitalsales.com,26205.01,salesperson
+505,Denise,Warren,3033 Bowman Terrace,Chattanooga,TN,37410,5628251789,Denise.Warren@digitalsales.com,26665.43,salesperson
+506,Maria,Diaz,394 South Park,Baton Rouge,LA,70805,5953842885,Maria.Diaz@digitalsales.com,96156.52,region manager
+507,Albert,James,4657 Pearson Alley,Anchorage,AK,99512,7964188466,Albert.James@digitalsales.com,59223.48,salesperson
+508,Tammy,Duncan,5749 Jackson Road,Loretto,MN,55598,2550759642,Tammy.Duncan@digitalsales.com,83255.15,salesperson
+509,Jennifer,Ramirez,25320 Corry Trail,Tacoma,WA,98447,2927967249,Jennifer.Ramirez@digitalsales.com,22922.39,salesperson
+510,Janice,Perry,10686 Randy Junction,Richmond,VA,23228,8247775245,Janice.Perry@digitalsales.com,30914.58,salesperson
+511,Kathy,Rogers,61 Brentwood Court,Kansas City,MO,64179,8842405031,Kathy.Rogers@digitalsales.com,48255.60,salesperson
+512,Dorothy,Banks,363 Roth Hill,Baton Rouge,LA,70820,1634700267,Dorothy.Banks@digitalsales.com,25951.20,salesperson
+513,Judy,Kelly,4519 Rutledge Place,Atlanta,GA,30328,3153287218,Judy.Kelly@digitalsales.com,87219.91,store manager
+514,Nancy,Richards,1460 Corben Trail,Charlotte,NC,28247,4791704556,Nancy.Richards@digitalsales.com,91363.60,store manager
+515,Ronald,Allen,62 Kropf Avenue,Amarillo,TX,79171,148190393,Ronald.Allen@digitalsales.com,93315.03,store manager
+516,Pamela,Armstrong,316 Bunker Hill Hill,Louisville,KY,40280,7312500833,Pamela.Armstrong@digitalsales.com,29696.62,salesperson
+517,James,Bennett,7725 Farwell Point,Anniston,AL,36205,7731103669,James.Bennett@digitalsales.com,70234.95,salesperson
+518,Edward,Grant,3 Sunbrook Park,Pinellas Park,FL,34665,6506469496,Edward.Grant@digitalsales.com,97236.18,region manager
+519,Christine,Taylor,11253 Holmberg Hill,El Paso,TX,79977,1243278097,Christine.Taylor@digitalsales.com,20752.73,salesperson
+520,Phillip,Perkins,44 Mccormick Way,Oceanside,CA,92056,972837143,Phillip.Perkins@digitalsales.com,70686.57,salesperson
+521,Frances,Taylor,1 Dexter Court,Huntsville,AL,35810,4549548029,Frances.Taylor@digitalsales.com,54985.65,salesperson
+522,Louise,Porter,2644 Doe Crossing Parkway,Pittsburgh,PA,15255,2964013367,Louise.Porter@digitalsales.com,55821.48,salesperson
+523,Carol,Bradley,4 Holy Cross Road,Saint Louis,MO,63169,9913377118,Carol.Bradley@digitalsales.com,42748.42,salesperson
+524,Justin,Hughes,118 Heath Point,Colorado Springs,CO,80930,770292574,Justin.Hughes@digitalsales.com,48030.86,salesperson
+525,Kenneth,Ross,204 Hansons Circle,Lafayette,LA,70593,4484823931,Kenneth.Ross@digitalsales.com,26136.24,salesperson
+526,Eugene,Rogers,5 Sunbrook Way,Wichita Falls,TX,76305,9467016024,Eugene.Rogers@digitalsales.com,46323.92,salesperson
+527,Andrew,Olson,847 Bunker Hill Lane,Topeka,KS,66629,6142666779,Andrew.Olson@digitalsales.com,45038.52,salesperson
+528,Jonathan,Montgomery,20499 Pankratz Trail,Charleston,SC,29411,4869879135,Jonathan.Montgomery@digitalsales.com,99440.92,region manager
+529,Juan,Hernandez,4333 Alpine Junction,Rochester,NY,14639,9916406105,Juan.Hernandez@digitalsales.com,42933.96,salesperson
+530,Robert,Cunningham,97314 Novick Road,Fort Pierce,FL,34949,5245214041,Robert.Cunningham@digitalsales.com,52570.27,salesperson
+531,Arthur,Jordan,00 American Ash Junction,Sterling,VA,20167,7925350011,Arthur.Jordan@digitalsales.com,87619.08,store manager
+532,Frances,Gibson,6 Summit Plaza,Washington,DC,20260,9055088412,Frances.Gibson@digitalsales.com,94628.96,store manager
+533,Gloria,Bowman,471 Shasta Hill,Amarillo,TX,79116,5308399835,Gloria.Bowman@digitalsales.com,38920.20,salesperson
+534,Ralph,Patterson,52423 Jay Way,Greensboro,NC,27455,5417597488,Ralph.Patterson@digitalsales.com,49089.28,salesperson
+535,Kenneth,Black,3 Schlimgen Crossing,Brooklyn,NY,11236,2264418180,Kenneth.Black@digitalsales.com,32843.84,salesperson
+536,Michelle,Rogers,14 Longview Court,Orlando,FL,32835,5187725473,Michelle.Rogers@digitalsales.com,49769.23,salesperson
+537,Norma,Hunter,8 Tony Junction,Fullerton,CA,92835,5432150896,Norma.Hunter@digitalsales.com,57387.87,salesperson
+538,Diane,Chavez,06 Stoughton Alley,Phoenix,AZ,85062,3254698405,Diane.Chavez@digitalsales.com,69365.94,salesperson
+539,Howard,Grant,285 Fair Oaks Court,Amarillo,TX,79171,2659385932,Howard.Grant@digitalsales.com,59766.03,salesperson
+540,Antonio,Harris,499 Milwaukee Way,Oklahoma City,OK,73104,320582872,Antonio.Harris@digitalsales.com,44810.20,salesperson
+541,Barbara,Davis,1289 Ruskin Trail,Muncie,IN,47306,8532893380,Barbara.Davis@digitalsales.com,55499.15,salesperson
+542,Tammy,Hanson,16 Parkside Pass,Fort Lauderdale,FL,33345,2905738283,Tammy.Hanson@digitalsales.com,37255.34,salesperson
+543,Richard,Armstrong,3 Steensland Circle,Dallas,TX,75392,4043970606,Richard.Armstrong@digitalsales.com,30725.58,salesperson
+544,Shirley,Hamilton,944 Oak Valley Avenue,Joliet,IL,60435,3782712719,Shirley.Hamilton@digitalsales.com,53941.15,salesperson
+545,Benjamin,Gomez,9659 Jana Pass,Norfolk,VA,23520,6145901858,Benjamin.Gomez@digitalsales.com,76260.79,salesperson
+546,Joe,Simmons,8 Brown Place,San Jose,CA,95133,3608010257,Joe.Simmons@digitalsales.com,65223.31,salesperson
+547,Theresa,Schmidt,968 Londonderry Junction,San Antonio,TX,78250,6620389044,Theresa.Schmidt@digitalsales.com,87051.97,store manager
+548,Melissa,Lane,1 Laurel Avenue,Cincinnati,OH,45208,4431901829,Melissa.Lane@digitalsales.com,31749.11,salesperson
+549,Kimberly,Phillips,261 Messerschmidt Park,Washington,DC,20520,1278676456,Kimberly.Phillips@digitalsales.com,37635.93,salesperson
+550,Lois,Willis,364 Grasskamp Place,Omaha,NE,68117,6209980656,Lois.Willis@digitalsales.com,28480.14,salesperson
+551,Ernest,Ferguson,7000 Kennedy Place,Dayton,OH,45490,7949523229,Ernest.Ferguson@digitalsales.com,26828.32,salesperson
+552,Harry,Cole,28 Luster Hill,Houston,TX,77266,5951134651,Harry.Cole@digitalsales.com,50281.69,salesperson
+553,Linda,Kim,4854 Glacier Hill Circle,Shawnee Mission,KS,66225,6116487971,Linda.Kim@digitalsales.com,69889.78,salesperson
+554,Walter,Richardson,6 High Crossing Plaza,Jefferson City,MO,65105,7590712969,Walter.Richardson@digitalsales.com,79645.14,salesperson
+555,Elizabeth,Ward,914 Crest Line Terrace,Portland,OR,97286,3230817937,Elizabeth.Ward@digitalsales.com,71491.09,salesperson
+556,Edward,Henry,57 Sugar Road,San Diego,CA,92132,8380769626,Edward.Henry@digitalsales.com,44518.54,salesperson
+557,Rachel,Baker,3923 Rieder Park,Phoenix,AZ,85099,1149912896,Rachel.Baker@digitalsales.com,33903.20,salesperson
+558,Janet,Roberts,2 Hansons Place,Ridgely,MD,21684,2159997438,Janet.Roberts@digitalsales.com,44890.97,salesperson
+559,Gregory,Ortiz,95 Mitchell Alley,Rochester,NY,14619,4713056721,Gregory.Ortiz@digitalsales.com,54920.86,salesperson
+560,Philip,Harris,11405 Nova Park,Fullerton,CA,92835,8852826956,Philip.Harris@digitalsales.com,58213.50,salesperson
+561,Susan,Long,14 Mallory Place,Rockford,IL,61110,313024543,Susan.Long@digitalsales.com,27110.52,salesperson
+562,John,Rogers,2620 Bayside Avenue,Philadelphia,PA,19093,2517679027,John.Rogers@digitalsales.com,50459.03,salesperson
+563,Lori,Gutierrez,246 Fuller Center,Lake Charles,LA,70607,2437963454,Lori.Gutierrez@digitalsales.com,27565.00,salesperson
+564,Shawn,Cox,19 Victoria Center,Oklahoma City,OK,73157,2213430568,Shawn.Cox@digitalsales.com,28169.11,salesperson
+565,Alan,Morgan,02131 Reindahl Street,Oklahoma City,OK,73114,5300096108,Alan.Morgan@digitalsales.com,99426.62,region manager
+566,Joan,White,75 Lien Alley,Carol Stream,IL,60158,388703356,Joan.White@digitalsales.com,38206.23,salesperson
+567,Bruce,Banks,911 American Terrace,Bismarck,ND,58505,2438480625,Bruce.Banks@digitalsales.com,69427.88,salesperson
+568,Christina,Arnold,4839 Raven Hill,Miami,FL,33124,6758974743,Christina.Arnold@digitalsales.com,34176.56,salesperson
+569,Arthur,Montgomery,3 Moose Crossing,Fresno,CA,93773,6917547995,Arthur.Montgomery@digitalsales.com,44877.34,salesperson
+570,Christine,Moreno,4731 Daystar Crossing,Annapolis,MD,21405,4567777714,Christine.Moreno@digitalsales.com,28963.58,salesperson
+571,Jean,Garrett,81743 Hansons Junction,Anchorage,AK,99522,8979501252,Jean.Garrett@digitalsales.com,38609.71,salesperson
+572,Roger,Baker,05 6th Point,Newport News,VA,23605,2912990164,Roger.Baker@digitalsales.com,21277.46,salesperson
+573,Keith,Stevens,4700 Beilfuss Way,Cincinnati,OH,45228,6503800723,Keith.Stevens@digitalsales.com,83253.95,salesperson
+574,Wayne,Warren,4 Saint Paul Way,Lubbock,TX,79410,366734151,Wayne.Warren@digitalsales.com,79041.33,salesperson
+575,Howard,Bennett,61 Dorton Lane,San Jose,CA,95173,7042883974,Howard.Bennett@digitalsales.com,73649.26,salesperson
+576,Phyllis,Perry,83828 East Trail,Boca Raton,FL,33499,3829410001,Phyllis.Perry@digitalsales.com,91524.26,store manager
+577,Anne,Stephens,6 Hintze Street,Syracuse,NY,13224,7605693305,Anne.Stephens@digitalsales.com,86540.27,store manager
+578,Juan,Ray,7488 Pleasure Center,San Francisco,CA,94169,6163009250,Juan.Ray@digitalsales.com,42887.03,salesperson
+579,Jane,Rodriguez,47 Moulton Alley,Montgomery,AL,36119,5197848634,Jane.Rodriguez@digitalsales.com,66273.93,salesperson
+580,Christopher,Collins,6 Acker Lane,Frankfort,KY,40618,6155406412,Christopher.Collins@digitalsales.com,91810.35,store manager
+581,Stephen,Elliott,78189 Dwight Parkway,Washington,DC,20016,4401292862,Stephen.Elliott@digitalsales.com,77792.01,salesperson
+582,Deborah,Diaz,7638 Manley Alley,Chico,CA,95973,6652249169,Deborah.Diaz@digitalsales.com,62986.36,salesperson
+583,Keith,Ford,6698 Troy Circle,Saint Joseph,MO,64504,118148681,Keith.Ford@digitalsales.com,28789.46,salesperson
+584,Jacqueline,Stanley,5 Marcy Way,Baltimore,MD,21265,9271682685,Jacqueline.Stanley@digitalsales.com,75346.95,salesperson
+585,Jack,Long,6 Ridge Oak Trail,Colorado Springs,CO,80935,6924958433,Jack.Long@digitalsales.com,38985.31,salesperson
+586,George,Owens,110 Bayside Pass,Norfolk,VA,23551,6156005299,George.Owens@digitalsales.com,26196.30,salesperson
+587,Theresa,Allen,4511 Eliot Way,Dallas,TX,75241,3589448269,Theresa.Allen@digitalsales.com,51888.42,salesperson
+588,Lori,Lawson,7479 Sachs Center,Pueblo,CO,81015,3742560728,Lori.Lawson@digitalsales.com,75252.36,salesperson
+589,Fred,Ferguson,008 Golf Park,El Paso,TX,88553,6687034614,Fred.Ferguson@digitalsales.com,91716.53,store manager
+590,Robert,Gomez,99863 Hovde Drive,Chicago,IL,60614,3001543800,Robert.Gomez@digitalsales.com,33840.30,salesperson
+591,Alan,Williams,2161 Jay Circle,Fresno,CA,93709,4763040039,Alan.Williams@digitalsales.com,51192.93,salesperson
+592,Jeffrey,Perry,9 Orin Circle,Mesa,AZ,85205,3421077859,Jeffrey.Perry@digitalsales.com,91576.25,store manager
+593,Melissa,Frazier,14 Kensington Road,Saint Paul,MN,55123,8353669124,Melissa.Frazier@digitalsales.com,52039.10,salesperson
+594,Matthew,Hayes,55 Milwaukee Way,Arlington,TX,76011,1021172276,Matthew.Hayes@digitalsales.com,61326.91,salesperson
+595,Brian,Cox,01 Little Fleur Park,Seattle,WA,98109,9577424956,Brian.Cox@digitalsales.com,53387.32,salesperson
+596,David,Freeman,5024 Basil Circle,Fayetteville,NC,28314,5291414532,David.Freeman@digitalsales.com,25742.40,salesperson
+597,Ralph,Torres,7 Ridgeway Park,Los Angeles,CA,90035,2849061845,Ralph.Torres@digitalsales.com,38401.18,salesperson
+598,Nancy,Robinson,5 Linden Avenue,Amarillo,TX,79188,4009511255,Nancy.Robinson@digitalsales.com,54695.90,salesperson
+599,Robin,Thompson,4543 Anthes Point,Sacramento,CA,94297,7409598830,Robin.Thompson@digitalsales.com,43143.63,salesperson
+600,Melissa,Scott,57018 Montana Crossing,Portland,OR,97286,8724405464,Melissa.Scott@digitalsales.com,27530.25,salesperson
+601,Donald,Perez,3 Tennyson Center,Arlington,VA,22225,7466227275,Donald.Perez@digitalsales.com,63130.68,salesperson
+602,Joyce,Hughes,8 Forest Run Parkway,Atlanta,GA,30375,7642699426,Joyce.Hughes@digitalsales.com,66743.24,salesperson
+603,Ann,Wilson,83488 Rutledge Drive,Milwaukee,WI,53234,4815055292,Ann.Wilson@digitalsales.com,21015.64,salesperson
+604,Joseph,Fisher,134 Logan Way,Palm Bay,FL,32909,7545609777,Joseph.Fisher@digitalsales.com,30751.90,salesperson
+605,Judith,Williams,312 Susan Lane,Saint Louis,MO,63180,2543684300,Judith.Williams@digitalsales.com,28091.94,salesperson
+606,Jose,Daniels,5 Ronald Regan Parkway,Saint Paul,MN,55188,8103000196,Jose.Daniels@digitalsales.com,86435.72,store manager
+607,Rose,Perez,86577 Florence Avenue,Madison,WI,53716,3582455411,Rose.Perez@digitalsales.com,45894.83,salesperson
+608,Marilyn,Stephens,414 La Follette Junction,Boston,MA,2203,7766299587,Marilyn.Stephens@digitalsales.com,82369.99,salesperson
+609,Victor,Martin,3598 Badeau Plaza,Silver Spring,MD,20904,7086469406,Victor.Martin@digitalsales.com,46430.65,salesperson
+610,Jack,Bennett,104 Packers Lane,Columbus,OH,43210,5575414871,Jack.Bennett@digitalsales.com,76851.06,salesperson
+611,Frances,Kelley,035 Macpherson Road,Huntington,WV,25726,8526510509,Frances.Kelley@digitalsales.com,92931.05,store manager
+612,Judith,Turner,60 Florence Crossing,Bronx,NY,10459,9010259700,Judith.Turner@digitalsales.com,31831.90,salesperson
+613,Lois,Rose,3600 Bellgrove Lane,Houston,TX,77206,203932940,Lois.Rose@digitalsales.com,98495.59,region manager
+614,Louis,Davis,9008 Duke Point,Daytona Beach,FL,32123,5386285336,Louis.Davis@digitalsales.com,67346.07,salesperson
+615,Frank,Sanchez,29 Rigney Way,Philadelphia,PA,19109,5610989569,Frank.Sanchez@digitalsales.com,21171.53,salesperson
+616,Frances,Reyes,319 Calypso Lane,Topeka,KS,66629,7254128354,Frances.Reyes@digitalsales.com,72270.59,salesperson
+617,Jessica,Hughes,4 American Ash Street,Lincoln,NE,68583,7294496298,Jessica.Hughes@digitalsales.com,25719.10,salesperson
+618,Carl,Russell,83797 Springs Court,Brooklyn,NY,11241,9897883104,Carl.Russell@digitalsales.com,76128.17,salesperson
+619,Marie,Burton,52 Huxley Junction,Chicago,IL,60691,8697648463,Marie.Burton@digitalsales.com,65224.42,salesperson
+620,Harold,Carr,359 Maryland Lane,Jacksonville,FL,32277,6688646449,Harold.Carr@digitalsales.com,81360.38,salesperson
+621,George,Frazier,088 Bayside Hill,Pittsburgh,PA,15261,5474474169,George.Frazier@digitalsales.com,89814.76,store manager
+622,Jonathan,Boyd,20 Toban Road,Springfield,IL,62776,9215674037,Jonathan.Boyd@digitalsales.com,78838.19,salesperson
+623,Marie,Jordan,80 Summit Alley,Odessa,TX,79764,9352046945,Marie.Jordan@digitalsales.com,94656.73,store manager
+624,Kelly,Gutierrez,2898 Ohio Lane,Garden Grove,CA,92844,9938347675,Kelly.Gutierrez@digitalsales.com,79992.27,salesperson
+625,Bonnie,Reid,081 Monterey Crossing,South Lake Tahoe,CA,96154,3081879633,Bonnie.Reid@digitalsales.com,99213.87,region manager
+626,Melissa,Ray,4 Hoepker Street,Alpharetta,GA,30022,7494261175,Melissa.Ray@digitalsales.com,81959.34,salesperson
+627,Carl,Green,035 Dovetail Road,Las Cruces,NM,88006,3892634151,Carl.Green@digitalsales.com,55566.07,salesperson
+628,Marie,Romero,3 Derek Center,Tampa,FL,33633,495360472,Marie.Romero@digitalsales.com,25941.22,salesperson
+629,Benjamin,Stone,6550 Kipling Drive,Sacramento,CA,94280,6347239888,Benjamin.Stone@digitalsales.com,44610.43,salesperson
+630,Bonnie,Gray,703 Carioca Lane,Philadelphia,PA,19184,3005254226,Bonnie.Gray@digitalsales.com,41348.08,salesperson
+631,Alice,Nelson,007 American Plaza,Mountain View,CA,94042,7137565751,Alice.Nelson@digitalsales.com,29303.54,salesperson
+632,Tammy,King,4 Jenna Trail,Watertown,MA,2472,9991838518,Tammy.King@digitalsales.com,68047.09,salesperson
+633,Kathryn,Hernandez,72 Mallard Lane,Washington,DC,20231,4159960554,Kathryn.Hernandez@digitalsales.com,23871.46,salesperson
+634,Richard,Schmidt,8 Carpenter Hill,Humble,TX,77346,623585171,Richard.Schmidt@digitalsales.com,99306.88,region manager
+635,Kevin,Bradley,25 Everett Center,San Diego,CA,92110,1067062876,Kevin.Bradley@digitalsales.com,82860.34,salesperson
+636,Melissa,Hamilton,284 Ronald Regan Road,Houston,TX,77055,91375588,Melissa.Hamilton@digitalsales.com,78653.94,salesperson
+637,Amanda,Riley,194 Dapin Junction,Mc Keesport,PA,15134,1225705700,Amanda.Riley@digitalsales.com,27834.75,salesperson
+638,Gloria,Patterson,04 Ohio Alley,Bloomington,IL,61709,9334760966,Gloria.Patterson@digitalsales.com,93258.15,store manager
+639,Adam,Baker,8883 Emmet Parkway,Washington,DC,20046,4767806467,Adam.Baker@digitalsales.com,77874.41,salesperson
+640,Donald,Patterson,8029 Mandrake Way,Portland,OR,97255,7757887292,Donald.Patterson@digitalsales.com,26896.12,salesperson
+641,Samuel,Washington,53510 Clemons Street,Washington,DC,20244,9247280054,Samuel.Washington@digitalsales.com,44958.97,salesperson
+642,Terry,Evans,14 Longview Parkway,South Bend,IN,46614,7916705205,Terry.Evans@digitalsales.com,45552.95,salesperson
+643,Stephanie,Watkins,6 Chive Way,Memphis,TN,38168,4886344595,Stephanie.Watkins@digitalsales.com,62884.21,salesperson
+644,Helen,Peterson,21 Commercial Alley,Boise,ID,83722,3833563042,Helen.Peterson@digitalsales.com,98410.40,region manager
+645,Amanda,Wood,4485 Schmedeman Pass,Baltimore,MD,21239,6660521909,Amanda.Wood@digitalsales.com,90339.54,store manager
+646,George,Ruiz,04 Esch Park,Pittsburgh,PA,15240,3344479312,George.Ruiz@digitalsales.com,91259.74,store manager
+647,Judy,Burton,562 Granby Drive,Washington,DC,20046,9667354202,Judy.Burton@digitalsales.com,57765.31,salesperson
+648,Andrea,Crawford,7 Blackbird Road,Chicago,IL,60663,1492347902,Andrea.Crawford@digitalsales.com,84707.91,store manager
+649,Steve,Fisher,39 Briar Crest Lane,Washington,DC,20430,4168105505,Steve.Fisher@digitalsales.com,26466.84,salesperson
+650,Diane,Hunt,03 Daystar Circle,San Antonio,TX,78291,8622188550,Diane.Hunt@digitalsales.com,26618.38,salesperson
+651,Clarence,Garcia,9 Petterle Court,Southfield,MI,48076,4822259389,Clarence.Garcia@digitalsales.com,68862.02,salesperson
+652,Earl,Harris,95625 Red Cloud Park,Allentown,PA,18105,6498277986,Earl.Harris@digitalsales.com,64396.98,salesperson
+653,Ruth,Garcia,998 Pepper Wood Crossing,Shreveport,LA,71166,8199842130,Ruth.Garcia@digitalsales.com,62164.30,salesperson
+654,Lori,Sanchez,3 Autumn Leaf Road,Nashville,TN,37215,1214680105,Lori.Sanchez@digitalsales.com,50425.33,salesperson
+655,Norma,Fuller,990 Parkside Avenue,Raleigh,NC,27605,1846804813,Norma.Fuller@digitalsales.com,63794.13,salesperson
+656,Kathleen,Hunt,2 Coolidge Avenue,Washington,DC,20051,3408540083,Kathleen.Hunt@digitalsales.com,79057.60,salesperson
+657,Ashley,Fox,5 Manufacturers Hill,New York City,NY,10249,188242586,Ashley.Fox@digitalsales.com,66067.61,salesperson
+658,Lisa,Henderson,8943 Steensland Avenue,Madison,WI,53726,4766650961,Lisa.Henderson@digitalsales.com,24188.67,salesperson
+659,Joseph,Fisher,773 Ruskin Hill,Jacksonville,FL,32215,1025952007,Joseph.Fisher@digitalsales.com,52568.01,salesperson
+660,Timothy,Harvey,52 Heffernan Lane,Carol Stream,IL,60158,4236200685,Timothy.Harvey@digitalsales.com,77068.46,salesperson
+661,Juan,Alexander,7 Caliangt Place,Columbus,GA,31904,9955567975,Juan.Alexander@digitalsales.com,27088.72,salesperson
+662,Scott,Weaver,797 Sheridan Parkway,New York City,NY,10131,9365427509,Scott.Weaver@digitalsales.com,42963.38,salesperson
+663,Bruce,Richards,42 Hauk Center,San Jose,CA,95160,5999085245,Bruce.Richards@digitalsales.com,90136.43,store manager
+664,William,Davis,13 Blue Bill Park Circle,Greensboro,NC,27404,4547614376,William.Davis@digitalsales.com,35277.36,salesperson
+665,Steve,Gutierrez,24 Jay Plaza,El Paso,TX,88535,8300889987,Steve.Gutierrez@digitalsales.com,29009.33,salesperson
+666,Phillip,Holmes,3 Northport Road,Santa Monica,CA,90405,8957754661,Phillip.Holmes@digitalsales.com,75029.93,salesperson
+667,Kathleen,Nelson,03 Armistice Center,Philadelphia,PA,19172,136309463,Kathleen.Nelson@digitalsales.com,99379.21,region manager
+668,Janice,Rogers,4339 Eggendart Alley,Decatur,IL,62525,8090604546,Janice.Rogers@digitalsales.com,52631.49,salesperson
+669,Emily,Stanley,30109 Sauthoff Trail,Mobile,AL,36689,5513709265,Emily.Stanley@digitalsales.com,71955.18,salesperson
+670,Kathy,Hawkins,7 Eastlawn Plaza,Jacksonville,FL,32225,1030591469,Kathy.Hawkins@digitalsales.com,41911.37,salesperson
+671,Judith,Dunn,04 Fieldstone Center,Visalia,CA,93291,2119118503,Judith.Dunn@digitalsales.com,71700.57,salesperson
+672,Rachel,Perez,163 Orin Terrace,Schaumburg,IL,60193,1906027218,Rachel.Perez@digitalsales.com,61946.43,salesperson
+673,Virginia,Davis,64811 Crownhardt Place,New Haven,CT,6520,3877252701,Virginia.Davis@digitalsales.com,30130.23,salesperson
+674,Janice,Cook,19903 Stuart Hill,San Antonio,TX,78205,3653083381,Janice.Cook@digitalsales.com,40093.99,salesperson
+675,Maria,Hicks,62 Spohn Hill,Hicksville,NY,11854,4494130657,Maria.Hicks@digitalsales.com,38537.57,salesperson
+676,Nancy,Burton,25092 Hoard Point,Bloomington,IN,47405,4056889218,Nancy.Burton@digitalsales.com,74912.67,salesperson
+677,Debra,Crawford,811 Pond Court,San Diego,CA,92115,8633711309,Debra.Crawford@digitalsales.com,74126.40,salesperson
+678,Paul,Greene,46494 Longview Parkway,Birmingham,AL,35295,2865993158,Paul.Greene@digitalsales.com,31557.92,salesperson
+679,Larry,Barnes,1 Laurel Trail,San Diego,CA,92196,6598223747,Larry.Barnes@digitalsales.com,37304.18,salesperson
+680,Ruby,Davis,30064 Waywood Court,Abilene,TX,79699,6663401598,Ruby.Davis@digitalsales.com,98227.66,region manager
+681,Ruby,Ruiz,19207 American Ash Hill,Largo,FL,34643,5627288583,Ruby.Ruiz@digitalsales.com,79671.93,salesperson
+682,Nicholas,Mccoy,99 Anniversary Trail,Miami,FL,33175,8097843903,Nicholas.Mccoy@digitalsales.com,79976.85,salesperson
+683,Marilyn,Hanson,88 Pankratz Park,Oklahoma City,OK,73135,7763568298,Marilyn.Hanson@digitalsales.com,98328.50,region manager
+684,Michael,Walker,1321 Miller Street,Athens,GA,30605,8922961201,Michael.Walker@digitalsales.com,78817.31,salesperson
+685,Carl,Kim,58 Havey Court,Apache Junction,AZ,85219,1785086486,Carl.Kim@digitalsales.com,20592.37,salesperson
+686,Frances,Sims,344 Judy Drive,South Bend,IN,46699,2621281787,Frances.Sims@digitalsales.com,51381.25,salesperson
+687,Aaron,Willis,4753 Shelley Junction,Spring,TX,77386,7616026474,Aaron.Willis@digitalsales.com,31250.26,salesperson
+688,Melissa,Gonzales,505 Carey Trail,Montgomery,AL,36104,5179957334,Melissa.Gonzales@digitalsales.com,68804.92,salesperson
+689,Melissa,Moore,8245 Golf View Alley,Boca Raton,FL,33487,8300094688,Melissa.Moore@digitalsales.com,58548.41,salesperson
+690,Frances,Knight,1 Dawn Road,Atlanta,GA,30311,4267768222,Frances.Knight@digitalsales.com,73366.08,salesperson
+691,Nicole,Hunt,09594 Shasta Terrace,Saint Louis,MO,63121,5723837939,Nicole.Hunt@digitalsales.com,22240.20,salesperson
+692,Harry,Hart,6 Carey Alley,Omaha,NE,68179,8340529798,Harry.Hart@digitalsales.com,27715.26,salesperson
+693,Wayne,Hall,65706 Straubel Alley,Salt Lake City,UT,84140,5360426174,Wayne.Hall@digitalsales.com,65851.14,salesperson
+694,Raymond,Harvey,92740 Duke Plaza,Youngstown,OH,44555,2997105942,Raymond.Harvey@digitalsales.com,27298.79,salesperson
+695,Andrea,Turner,61572 Summer Ridge Lane,Trenton,NJ,8638,606969431,Andrea.Turner@digitalsales.com,38295.05,salesperson
+696,Jacqueline,Barnes,0413 Commercial Circle,Wilmington,DE,19805,1852958620,Jacqueline.Barnes@digitalsales.com,32919.57,salesperson
+697,Paula,Walker,8 Dottie Alley,Miami Beach,FL,33141,1243658156,Paula.Walker@digitalsales.com,79616.44,salesperson
+698,Dorothy,Cox,20 Spenser Crossing,Herndon,VA,22070,8187527812,Dorothy.Cox@digitalsales.com,24235.06,salesperson
+699,Marie,Weaver,0 Blackbird Lane,Elmira,NY,14905,2179135844,Marie.Weaver@digitalsales.com,39273.53,salesperson
+700,Lawrence,Wood,3 Mcbride Trail,Harrisburg,PA,17121,5005282644,Lawrence.Wood@digitalsales.com,42938.97,salesperson
+701,Carlos,Welch,1992 Roxbury Park,Tampa,FL,33620,5542176477,Carlos.Welch@digitalsales.com,68287.15,salesperson
+702,Carl,Black,0438 Cascade Drive,Wichita,KS,67236,5448187176,Carl.Black@digitalsales.com,21641.67,salesperson
+703,Julia,Reed,687 Hintze Place,New Haven,CT,6538,5874379500,Julia.Reed@digitalsales.com,88552.98,store manager
+704,Martha,Andrews,6 Dawn Avenue,Las Vegas,NV,89105,887072530,Martha.Andrews@digitalsales.com,73242.03,salesperson
+705,Ryan,Shaw,921 5th Drive,Miami,FL,33124,6219889601,Ryan.Shaw@digitalsales.com,39101.57,salesperson
+706,Joshua,Lawrence,3274 Namekagon Lane,Washington,DC,20057,616977522,Joshua.Lawrence@digitalsales.com,31880.54,salesperson
+707,Douglas,Gonzalez,324 Meadow Ridge Street,Phoenix,AZ,85077,9104104674,Douglas.Gonzalez@digitalsales.com,33741.46,salesperson
+708,Julie,Gardner,88163 Atwood Parkway,Richmond,VA,23242,3832932388,Julie.Gardner@digitalsales.com,81702.62,salesperson
+709,Melissa,Nguyen,91 Hermina Pass,Bronx,NY,10474,1285150810,Melissa.Nguyen@digitalsales.com,44051.48,salesperson
+710,Jacqueline,Johnston,14 Sachtjen Terrace,Cincinnati,OH,45254,9326644600,Jacqueline.Johnston@digitalsales.com,72518.42,salesperson
+711,Jerry,Schmidt,21 Arizona Trail,Atlanta,GA,30323,199672859,Jerry.Schmidt@digitalsales.com,63994.90,salesperson
+712,Todd,Cook,0 Service Parkway,Saint Louis,MO,63104,6952017364,Todd.Cook@digitalsales.com,52956.93,salesperson
+713,Antonio,Cooper,1 8th Lane,Montgomery,AL,36177,6922923462,Antonio.Cooper@digitalsales.com,56091.84,salesperson
+714,Lisa,Wood,9408 Emmet Center,Naples,FL,34102,721977386,Lisa.Wood@digitalsales.com,76278.03,salesperson
+715,Wayne,Watson,6 Pierstorff Parkway,Denver,CO,80243,5975411435,Wayne.Watson@digitalsales.com,50440.00,salesperson
+716,Brenda,Thompson,9 Pine View Park,Saint Paul,MN,55103,7735716737,Brenda.Thompson@digitalsales.com,22768.01,salesperson
+717,Margaret,Smith,26 Spenser Court,El Paso,TX,88563,8140508006,Margaret.Smith@digitalsales.com,26352.11,salesperson
+718,Louis,Pierce,3203 Glendale Hill,Mobile,AL,36641,7275663956,Louis.Pierce@digitalsales.com,34889.25,salesperson
+719,Harold,Jackson,6414 Kings Park,Biloxi,MS,39534,4768262700,Harold.Jackson@digitalsales.com,81523.26,salesperson
+720,Dennis,Fowler,5378 Lighthouse Bay Street,Camden,NJ,8104,4498182348,Dennis.Fowler@digitalsales.com,28360.99,salesperson
+721,George,Carpenter,72825 Monica Place,Arlington,VA,22244,9255044262,George.Carpenter@digitalsales.com,68568.61,salesperson
+722,Jesse,Barnes,0 Sunnyside Court,Baltimore,MD,21275,7683639845,Jesse.Barnes@digitalsales.com,98887.94,region manager
+723,Victor,Wood,81 Londonderry Trail,Saint Paul,MN,55103,3079580810,Victor.Wood@digitalsales.com,85887.20,store manager
+724,Billy,Wheeler,99749 Lighthouse Bay Avenue,Boulder,CO,80328,1498642418,Billy.Wheeler@digitalsales.com,52981.93,salesperson
+725,Ralph,Welch,9 Utah Street,Long Beach,CA,90831,9009639481,Ralph.Welch@digitalsales.com,39894.38,salesperson
+726,Elizabeth,Weaver,08342 Clyde Gallagher Parkway,Saint Louis,MO,63169,5522342973,Elizabeth.Weaver@digitalsales.com,94057.45,store manager
+727,Mildred,Fields,95836 Waywood Alley,Herndon,VA,22070,2872478852,Mildred.Fields@digitalsales.com,46273.80,salesperson
+728,Todd,Kim,5104 Grayhawk Alley,Atlanta,GA,30328,7360446946,Todd.Kim@digitalsales.com,53677.75,salesperson
+729,Diana,Dixon,4 Goodland Street,Hialeah,FL,33018,8098430894,Diana.Dixon@digitalsales.com,89199.32,store manager
+730,Mildred,Austin,13 Knutson Parkway,Biloxi,MS,39534,1789066259,Mildred.Austin@digitalsales.com,97932.44,region manager
+731,Nicole,Black,5 Barby Drive,Rochester,NY,14619,9424429129,Nicole.Black@digitalsales.com,95845.82,store manager
+732,Laura,Miller,9160 American Ash Circle,Hartford,CT,6152,220089474,Laura.Miller@digitalsales.com,42869.34,salesperson
+733,Melissa,Edwards,38562 Toban Parkway,Las Vegas,NV,89125,4274010602,Melissa.Edwards@digitalsales.com,49031.66,salesperson
+734,Annie,Mills,079 Fisk Crossing,Pueblo,CO,81005,7327379736,Annie.Mills@digitalsales.com,96329.54,region manager
+735,Joe,Bailey,4467 Warbler Alley,Minneapolis,MN,55402,1446600386,Joe.Bailey@digitalsales.com,62338.76,salesperson
+736,Joshua,Snyder,78 Portage Pass,Boise,ID,83727,9828821703,Joshua.Snyder@digitalsales.com,23010.71,salesperson
+737,Janet,Graham,3 Petterle Parkway,Memphis,TN,38126,6429041521,Janet.Graham@digitalsales.com,43220.11,salesperson
+738,Patrick,Gilbert,0458 Pond Hill,Irvine,CA,92710,6267117418,Patrick.Gilbert@digitalsales.com,79959.49,salesperson
+739,Wanda,Cole,54 La Follette Crossing,Sacramento,CA,94257,6939825414,Wanda.Cole@digitalsales.com,82270.18,salesperson
+740,Joan,Flores,18 Southridge Park,Lancaster,PA,17605,3931607757,Joan.Flores@digitalsales.com,20629.42,salesperson
+741,Tina,Mcdonald,3024 Carberry Center,Saint Louis,MO,63110,71921333,Tina.Mcdonald@digitalsales.com,84594.96,store manager
+742,Denise,Ramirez,3927 Trailsway Trail,Staten Island,NY,10310,9794521434,Denise.Ramirez@digitalsales.com,25114.51,salesperson
+743,Douglas,Warren,4612 Blaine Park,Henderson,NV,89074,8798239512,Douglas.Warren@digitalsales.com,44125.12,salesperson
+744,Ann,Parker,22804 Crescent Oaks Place,Akron,OH,44393,3397436104,Ann.Parker@digitalsales.com,38467.67,salesperson
+745,Laura,Brown,41 Sage Court,Pensacola,FL,32520,9500847023,Laura.Brown@digitalsales.com,99854.91,region manager
+746,Antonio,Murphy,3 Hansons Drive,Baton Rouge,LA,70826,1909737655,Antonio.Murphy@digitalsales.com,79282.65,salesperson
+747,Betty,Barnes,9 Mallory Trail,San Diego,CA,92145,4588939898,Betty.Barnes@digitalsales.com,57706.96,salesperson
+748,Jimmy,Burton,8 Tony Way,West Palm Beach,FL,33411,1703266434,Jimmy.Burton@digitalsales.com,79640.87,salesperson
+749,Debra,Medina,92980 Farmco Place,Macon,GA,31205,6131473420,Debra.Medina@digitalsales.com,31973.10,salesperson
+750,Carol,Reid,286 Jenifer Hill,Irving,TX,75037,9426898399,Carol.Reid@digitalsales.com,75880.43,salesperson
+751,Stephanie,Harris,54936 Superior Lane,Bloomington,IL,61709,480735363,Stephanie.Harris@digitalsales.com,84641.58,store manager
+752,Timothy,Baker,935 Fulton Place,Las Vegas,NV,89150,654108105,Timothy.Baker@digitalsales.com,47870.96,salesperson
+753,Gerald,Gutierrez,6537 Westport Avenue,Albuquerque,NM,87180,8198093875,Gerald.Gutierrez@digitalsales.com,89065.26,store manager
+754,Bobby,Phillips,5 Schlimgen Trail,Arlington,VA,22217,3933167717,Bobby.Phillips@digitalsales.com,61862.99,salesperson
+755,William,Burke,991 Hudson Road,Mobile,AL,36622,6605714925,William.Burke@digitalsales.com,61634.44,salesperson
+756,Carlos,Edwards,88 2nd Place,Salt Lake City,UT,84199,8865063465,Carlos.Edwards@digitalsales.com,36969.98,salesperson
+757,Joyce,Gibson,957 Longview Court,Oklahoma City,OK,73129,5816089513,Joyce.Gibson@digitalsales.com,87863.54,store manager
+758,Douglas,Grant,98 Dovetail Road,San Rafael,CA,94913,837516213,Douglas.Grant@digitalsales.com,66254.79,salesperson
+759,Jessica,Carroll,6 Marcy Place,San Francisco,CA,94169,5789755739,Jessica.Carroll@digitalsales.com,56472.33,salesperson
+760,Douglas,Gardner,612 Logan Lane,Paterson,NJ,7544,6712410398,Douglas.Gardner@digitalsales.com,91341.94,store manager
+761,Angela,Harper,089 Becker Point,Brea,CA,92822,171238874,Angela.Harper@digitalsales.com,41925.73,salesperson
+762,Marie,West,9 Golf Course Circle,Peoria,AZ,85383,3628900300,Marie.West@digitalsales.com,53597.29,salesperson
+763,Benjamin,Henderson,6 Gateway Trail,Montpelier,VT,5609,5836797987,Benjamin.Henderson@digitalsales.com,29328.35,salesperson
+764,Christopher,Roberts,1 Kropf Terrace,Miami,FL,33196,6930015235,Christopher.Roberts@digitalsales.com,97785.48,region manager
+765,Angela,Larson,54 Nevada Road,Pompano Beach,FL,33069,1976270502,Angela.Larson@digitalsales.com,37891.86,salesperson
+766,Joan,Ellis,57769 Bluejay Avenue,Durham,NC,27717,2690720160,Joan.Ellis@digitalsales.com,50142.16,salesperson
+767,Jacqueline,Hudson,4779 Iowa Point,Santa Monica,CA,90405,6587741964,Jacqueline.Hudson@digitalsales.com,95836.43,store manager
+768,Norma,Hernandez,4234 Nobel Way,Chicago,IL,60646,4789754207,Norma.Hernandez@digitalsales.com,74438.02,salesperson
+769,Andrea,Fernandez,7 Banding Terrace,Fort Lauderdale,FL,33345,14154964,Andrea.Fernandez@digitalsales.com,30807.81,salesperson
+770,Christina,Duncan,59407 Forest Dale Place,Roanoke,VA,24014,6254173768,Christina.Duncan@digitalsales.com,70475.02,salesperson
+771,Henry,Mitchell,924 Russell Circle,Pittsburgh,PA,15220,7685198360,Henry.Mitchell@digitalsales.com,77684.29,salesperson
+772,Dorothy,Hayes,1 Holmberg Lane,Anchorage,AK,99599,9775145384,Dorothy.Hayes@digitalsales.com,82751.60,salesperson
+773,Anthony,Hansen,8437 Hoepker Drive,Corpus Christi,TX,78475,3348323261,Anthony.Hansen@digitalsales.com,32016.11,salesperson
+774,Jose,Rodriguez,770 Kedzie Center,Lakeland,FL,33805,9208374616,Jose.Rodriguez@digitalsales.com,27805.58,salesperson
+775,Walter,Bishop,0 Shoshone Court,Carol Stream,IL,60351,6285598035,Walter.Bishop@digitalsales.com,32003.03,salesperson
+776,Peter,Hunt,8610 Park Meadow Place,Evansville,IN,47725,440380236,Peter.Hunt@digitalsales.com,76772.63,salesperson
+777,Kenneth,White,06 Carey Way,Seattle,WA,98133,9659349100,Kenneth.White@digitalsales.com,39214.47,salesperson
+778,Billy,Garrett,52604 Mayfield Road,Bloomington,IL,61709,8922630979,Billy.Garrett@digitalsales.com,92363.03,store manager
+779,Linda,Moore,205 Helena Trail,Albany,NY,12227,7811409777,Linda.Moore@digitalsales.com,42904.82,salesperson
+780,Louis,Cruz,94 Autumn Leaf Alley,Rockville,MD,20851,1456122736,Louis.Cruz@digitalsales.com,24339.11,salesperson
+781,Craig,Lawrence,1025 Muir Plaza,New York City,NY,10203,400310689,Craig.Lawrence@digitalsales.com,49484.87,salesperson
+782,Andrew,Reed,88213 Summer Ridge Lane,Dallas,TX,75236,4059015054,Andrew.Reed@digitalsales.com,84350.89,store manager
+783,Todd,Nichols,3981 Manley Hill,Indianapolis,IN,46266,4278199088,Todd.Nichols@digitalsales.com,70365.01,salesperson
+784,Thomas,Grant,68147 Starling Court,Santa Fe,NM,87505,664197267,Thomas.Grant@digitalsales.com,54741.72,salesperson
+785,Arthur,Powell,05927 Riverside Circle,El Paso,TX,79940,2776100772,Arthur.Powell@digitalsales.com,36222.07,salesperson
+786,Betty,Ray,8 Helena Drive,Denver,CO,80243,9290808752,Betty.Ray@digitalsales.com,27107.38,salesperson
+787,Mary,Riley,4 Kings Center,Palm Bay,FL,32909,9808454154,Mary.Riley@digitalsales.com,37689.79,salesperson
+788,Michelle,Richards,18 Packers Park,Richmond,VA,23289,4203239176,Michelle.Richards@digitalsales.com,47253.12,salesperson
+789,Keith,Diaz,7184 Graedel Junction,Tulsa,OK,74156,2045245161,Keith.Diaz@digitalsales.com,42735.68,salesperson
+790,Samuel,Johnston,383 Lakewood Gardens Lane,Naples,FL,34114,8989617007,Samuel.Johnston@digitalsales.com,22684.78,salesperson
+791,Andrew,Andrews,6453 Golden Leaf Trail,Los Angeles,CA,90094,7688839386,Andrew.Andrews@digitalsales.com,82691.42,salesperson
+792,Ryan,Gilbert,9 Veith Hill,Bridgeport,CT,6673,49788179,Ryan.Gilbert@digitalsales.com,49683.16,salesperson
+793,Jane,Greene,45 Eagle Crest Pass,Cincinnati,OH,45296,8176134633,Jane.Greene@digitalsales.com,49089.19,salesperson
+794,Craig,Griffin,51294 Golf Course Alley,Florence,SC,29505,108339876,Craig.Griffin@digitalsales.com,80436.91,salesperson
+795,Paula,Robinson,348 Evergreen Lane,Evansville,IN,47732,2587166399,Paula.Robinson@digitalsales.com,96266.13,region manager
+796,Christine,Duncan,9 Sommers Place,Sacramento,CA,95838,915273876,Christine.Duncan@digitalsales.com,88597.77,store manager
+797,Elizabeth,Hamilton,7350 Emmet Terrace,Birmingham,AL,35263,6179156147,Elizabeth.Hamilton@digitalsales.com,29592.00,salesperson
+798,Henry,Fernandez,49 Bashford Court,Fresno,CA,93726,1994010394,Henry.Fernandez@digitalsales.com,43265.23,salesperson
+799,Ann,Lewis,1 Shopko Road,Atlanta,GA,30323,183711143,Ann.Lewis@digitalsales.com,59963.75,salesperson
+800,Rebecca,Romero,708 Sutherland Court,Kansas City,KS,66160,7805179225,Rebecca.Romero@digitalsales.com,77738.71,salesperson
+801,Randy,Simpson,854 Doe Crossing Alley,Sioux Falls,SD,57193,5016467850,Randy.Simpson@digitalsales.com,65312.38,salesperson
+802,Evelyn,Greene,01 Vahlen Street,Phoenix,AZ,85005,1396386436,Evelyn.Greene@digitalsales.com,89629.78,store manager
+803,Beverly,Gray,609 5th Hill,Houston,TX,77223,8108357942,Beverly.Gray@digitalsales.com,38693.11,salesperson
+804,Stephanie,Rogers,6012 Manitowish Junction,Bethesda,MD,20892,1831747171,Stephanie.Rogers@digitalsales.com,69681.85,salesperson
+805,Jose,Perez,4445 Hollow Ridge Avenue,Salt Lake City,UT,84152,6820149140,Jose.Perez@digitalsales.com,66478.15,salesperson
+806,Heather,Wallace,61859 Bartelt Way,Albuquerque,NM,87190,3114293934,Heather.Wallace@digitalsales.com,90158.28,store manager
+807,Gerald,Howell,89740 Canary Street,Portland,OR,97232,1159981751,Gerald.Howell@digitalsales.com,91625.37,store manager
+808,Clarence,Richardson,51555 Melrose Avenue,Charleston,WV,25321,5600497687,Clarence.Richardson@digitalsales.com,20964.57,salesperson
+809,Louise,Wallace,2 Briar Crest Park,Sacramento,CA,94207,736338113,Louise.Wallace@digitalsales.com,99926.40,region manager
+810,Brenda,Freeman,24817 Pepper Wood Hill,Trenton,NJ,8650,9443534065,Brenda.Freeman@digitalsales.com,73060.02,salesperson
+811,Lisa,Phillips,8 Summerview Street,New York City,NY,10099,3255189294,Lisa.Phillips@digitalsales.com,50417.00,salesperson
+812,Nicole,Baker,74 Delladonna Parkway,Fayetteville,NC,28305,8886789250,Nicole.Baker@digitalsales.com,40328.35,salesperson
+813,Ernest,Schmidt,7093 Kenwood Way,Kansas City,MO,64187,1429364806,Ernest.Schmidt@digitalsales.com,39539.98,salesperson
+814,James,Rice,9 Stoughton Place,Saginaw,MI,48604,548248245,James.Rice@digitalsales.com,59680.44,salesperson
+815,Howard,Dunn,75 Toban Road,Miami,FL,33283,7402228169,Howard.Dunn@digitalsales.com,80816.46,salesperson
+816,Bonnie,Weaver,9361 Warner Terrace,Seattle,WA,98158,7887793921,Bonnie.Weaver@digitalsales.com,53330.19,salesperson
+817,Christina,Burton,20 Mcguire Avenue,Largo,FL,33777,9646652743,Christina.Burton@digitalsales.com,65128.15,salesperson
+818,Stephanie,Patterson,58 Vermont Alley,Kansas City,MO,64199,3194543224,Stephanie.Patterson@digitalsales.com,78155.30,salesperson
+819,Lori,Howard,460 Donald Way,Houston,TX,77240,7560975542,Lori.Howard@digitalsales.com,29459.89,salesperson
+820,Kenneth,Castillo,06 Harper Avenue,Van Nuys,CA,91499,8281756014,Kenneth.Castillo@digitalsales.com,32162.45,salesperson
+821,Kimberly,Murphy,1444 Meadow Vale Avenue,Los Angeles,CA,90076,1447372401,Kimberly.Murphy@digitalsales.com,49506.30,salesperson
+822,Julie,Mitchell,178 Buhler Parkway,Cleveland,OH,44177,7028045915,Julie.Mitchell@digitalsales.com,29989.99,salesperson
+823,Rachel,Reed,7 Merrick Park,Jersey City,NJ,7310,6394287946,Rachel.Reed@digitalsales.com,39893.31,salesperson
+824,Richard,Morris,804 Sommers Avenue,Los Angeles,CA,90101,9236466202,Richard.Morris@digitalsales.com,88371.02,store manager
+825,Ruth,Morales,4 Declaration Lane,Milwaukee,WI,53263,6818823582,Ruth.Morales@digitalsales.com,72279.74,salesperson
+826,Beverly,Cooper,724 Hollow Ridge Junction,Petaluma,CA,94975,8430351909,Beverly.Cooper@digitalsales.com,59750.23,salesperson
+827,Aaron,Bennett,1 Elka Point,Tacoma,WA,98417,1026086110,Aaron.Bennett@digitalsales.com,63966.13,salesperson
+828,Lillian,Elliott,5437 Lukken Way,Memphis,TN,38150,1505712567,Lillian.Elliott@digitalsales.com,93917.83,store manager
+829,Heather,Greene,2 Mccormick Road,Kalamazoo,MI,49006,8869125798,Heather.Greene@digitalsales.com,82349.94,salesperson
+830,Robin,Gordon,960 Golf Place,Springfield,MA,1105,178345852,Robin.Gordon@digitalsales.com,26358.68,salesperson
+831,Pamela,Hayes,133 Fisk Avenue,Washington,DC,20220,5542686892,Pamela.Hayes@digitalsales.com,29317.12,salesperson
+832,Betty,Brooks,66647 Heath Center,Cincinnati,OH,45264,5109390455,Betty.Brooks@digitalsales.com,24133.46,salesperson
+833,Bonnie,Austin,82 Macpherson Point,Boise,ID,83757,2833833026,Bonnie.Austin@digitalsales.com,64809.13,salesperson
+834,Barbara,Payne,0 Norway Maple Park,Tucson,AZ,85725,8788303794,Barbara.Payne@digitalsales.com,82665.54,salesperson
+835,Denise,Willis,0383 Armistice Street,Charlotte,NC,28247,875222624,Denise.Willis@digitalsales.com,36066.44,salesperson
+836,Lawrence,Ramos,5 Chive Point,Fort Worth,TX,76192,4285437032,Lawrence.Ramos@digitalsales.com,32097.62,salesperson
+837,Sandra,Frazier,93 Del Mar Terrace,Lancaster,PA,17605,543170328,Sandra.Frazier@digitalsales.com,86690.37,store manager
+838,Harold,Mitchell,7 Eastwood Circle,Pittsburgh,PA,15255,1813223613,Harold.Mitchell@digitalsales.com,50290.18,salesperson
+839,Kathryn,Cook,876 Reinke Lane,Spokane,WA,99260,6119811131,Kathryn.Cook@digitalsales.com,69831.88,salesperson
+840,Paul,Carter,22 Mccormick Drive,New York City,NY,10175,9152793510,Paul.Carter@digitalsales.com,76719.29,salesperson
+841,Jacqueline,Fields,4 Monterey Terrace,Melbourne,FL,32941,9502593525,Jacqueline.Fields@digitalsales.com,20428.43,salesperson
+842,Emily,Howell,6086 Eliot Avenue,Washington,DC,20442,5718589678,Emily.Howell@digitalsales.com,82272.58,salesperson
+843,Patrick,Hicks,88809 Talmadge Hill,Fresno,CA,93715,4170264364,Patrick.Hicks@digitalsales.com,78792.36,salesperson
+844,Lillian,Olson,034 Schlimgen Circle,Trenton,NJ,8608,2353652856,Lillian.Olson@digitalsales.com,75193.15,salesperson
+845,Emily,Graham,72328 Hoard Parkway,Corpus Christi,TX,78410,4758248653,Emily.Graham@digitalsales.com,99845.12,region manager
+846,Edward,Evans,203 Sugar Street,Sacramento,CA,95865,2092490924,Edward.Evans@digitalsales.com,71006.64,salesperson
+847,Frank,Moreno,368 Graceland Parkway,Tuscaloosa,AL,35405,6541755139,Frank.Moreno@digitalsales.com,36149.68,salesperson
+848,Ronald,Tucker,9 Bonner Street,Boca Raton,FL,33499,9524102838,Ronald.Tucker@digitalsales.com,25204.60,salesperson
+849,Patrick,Walker,5893 Drewry Center,Des Moines,IA,50981,1320145189,Patrick.Walker@digitalsales.com,86862.63,store manager
+850,Nicole,Marshall,94535 Kim Drive,New York City,NY,10150,4388632949,Nicole.Marshall@digitalsales.com,20643.27,salesperson
+851,Catherine,Watson,87986 Erie Street,Columbus,OH,43226,2014651624,Catherine.Watson@digitalsales.com,99611.61,region manager
+852,Rose,Nelson,1 Corben Way,Phoenix,AZ,85072,7789778401,Rose.Nelson@digitalsales.com,93376.27,store manager
+853,Christine,Sims,444 Lotheville Plaza,Des Moines,IA,50393,617836407,Christine.Sims@digitalsales.com,48664.19,salesperson
+854,Dennis,Ferguson,3641 Bartelt Hill,Des Moines,IA,50936,8472291779,Dennis.Ferguson@digitalsales.com,43448.11,salesperson
+855,Wayne,Ramos,7 Dryden Crossing,Durham,NC,27717,4355996452,Wayne.Ramos@digitalsales.com,25291.34,salesperson
+856,Jane,Dixon,7672 Bobwhite Drive,Topeka,KS,66667,6029755229,Jane.Dixon@digitalsales.com,29658.02,salesperson
+857,Kathryn,Williamson,177 Barnett Avenue,Memphis,TN,38131,4505300964,Kathryn.Williamson@digitalsales.com,62439.14,salesperson
+858,Carol,Dunn,28 Blackbird Pass,Visalia,CA,93291,1927023693,Carol.Dunn@digitalsales.com,92257.03,store manager
+859,Emily,Morrison,6993 Dryden Park,Lexington,KY,40510,6212195990,Emily.Morrison@digitalsales.com,46821.72,salesperson
+860,Andrew,Henderson,4 Magdeline Way,Austin,TX,78737,8086143161,Andrew.Henderson@digitalsales.com,63155.54,salesperson
+861,Carl,Oliver,21 Dennis Alley,Houston,TX,77005,1875533107,Carl.Oliver@digitalsales.com,48669.88,salesperson
+862,Alice,Mitchell,7 Dovetail Junction,Richmond,VA,23260,8120306172,Alice.Mitchell@digitalsales.com,91473.74,store manager
+863,George,Hunter,01717 Rusk Hill,Alexandria,LA,71307,9468850579,George.Hunter@digitalsales.com,28899.02,salesperson
+864,William,Webb,832 Starling Drive,Staten Island,NY,10310,3844149111,William.Webb@digitalsales.com,94587.32,store manager
+865,Robin,Knight,26 Fordem Point,Colorado Springs,CO,80945,7854986821,Robin.Knight@digitalsales.com,73066.70,salesperson
+866,Melissa,Flores,36 Elmside Street,Orlando,FL,32859,6948393944,Melissa.Flores@digitalsales.com,64837.41,salesperson
+867,Mildred,Kennedy,1141 Express Center,Pensacola,FL,32526,7230794908,Mildred.Kennedy@digitalsales.com,32285.22,salesperson
+868,Stephen,Reid,03264 John Wall Point,Miami,FL,33261,9581627456,Stephen.Reid@digitalsales.com,34518.26,salesperson
+869,Carolyn,Castillo,8019 Hanover Terrace,Hayward,CA,94544,1522826508,Carolyn.Castillo@digitalsales.com,68137.09,salesperson
+870,Jerry,Frazier,555 Cardinal Street,Washington,DC,20036,2480520839,Jerry.Frazier@digitalsales.com,64380.84,salesperson
+871,Judith,Myers,77 2nd Parkway,Seattle,WA,98185,8413244033,Judith.Myers@digitalsales.com,34478.95,salesperson
+872,Donald,Myers,76484 Golf Place,Youngstown,OH,44511,6068441033,Donald.Myers@digitalsales.com,78660.56,salesperson
+873,Beverly,Robinson,54852 Novick Terrace,Asheville,NC,28815,8562860216,Beverly.Robinson@digitalsales.com,39133.88,salesperson
+874,Lois,Fisher,2 Ramsey Pass,Myrtle Beach,SC,29579,9583509228,Lois.Fisher@digitalsales.com,63786.04,salesperson
+875,Eugene,Coleman,9356 Carberry Drive,Jamaica,NY,11480,7679705321,Eugene.Coleman@digitalsales.com,82861.45,salesperson
+876,Walter,Reynolds,067 Rockefeller Terrace,Vero Beach,FL,32964,4759667788,Walter.Reynolds@digitalsales.com,23478.38,salesperson
+877,Earl,Vasquez,3718 Reinke Park,Washington,DC,20215,1154086187,Earl.Vasquez@digitalsales.com,80487.07,salesperson
+878,Paula,Cooper,80 Fair Oaks Junction,Tulsa,OK,74193,6649532051,Paula.Cooper@digitalsales.com,73013.89,salesperson
+879,Peter,Perez,562 Northwestern Hill,Bridgeport,CT,6673,966938324,Peter.Perez@digitalsales.com,37754.64,salesperson
+880,Kathleen,Allen,3286 Golden Leaf Parkway,Santa Ana,CA,92705,2670177712,Kathleen.Allen@digitalsales.com,77255.88,salesperson
+881,Adam,Dunn,345 Sutherland Trail,Atlanta,GA,30368,3853378911,Adam.Dunn@digitalsales.com,36622.52,salesperson
+882,Christopher,Ramirez,09379 Onsgard Terrace,Palo Alto,CA,94302,4342223810,Christopher.Ramirez@digitalsales.com,22366.12,salesperson
+883,George,Sims,55 Darwin Point,Fort Wayne,IN,46814,5278428928,George.Sims@digitalsales.com,42014.57,salesperson
+884,Ruth,Williamson,4 Service Hill,El Paso,TX,79945,639595702,Ruth.Williamson@digitalsales.com,95549.44,store manager
+885,Randy,Murphy,19 Johnson Court,San Antonio,TX,78278,2770544117,Randy.Murphy@digitalsales.com,26327.22,salesperson
+886,Kathleen,Johnson,9649 Maple Wood Road,North Little Rock,AR,72199,6338720755,Kathleen.Johnson@digitalsales.com,62018.13,salesperson
+887,Dorothy,Bryant,912 Jackson Terrace,Garden Grove,CA,92645,4786732211,Dorothy.Bryant@digitalsales.com,96925.59,region manager
+888,Michelle,Cruz,573 Ramsey Drive,Houston,TX,77030,786356978,Michelle.Cruz@digitalsales.com,71047.17,salesperson
+889,Rachel,Campbell,86695 Dwight Junction,Charlotte,NC,28230,8175368874,Rachel.Campbell@digitalsales.com,49553.34,salesperson
+890,Paula,Henderson,07 Canary Way,Lafayette,LA,70505,1293495287,Paula.Henderson@digitalsales.com,76737.47,salesperson
+891,Melissa,Griffin,5 Carioca Pass,Fort Collins,CO,80525,4708318756,Melissa.Griffin@digitalsales.com,78952.46,salesperson
+892,Clarence,Price,3742 Straubel Point,Knoxville,TN,37919,3181806482,Clarence.Price@digitalsales.com,71979.15,salesperson
+893,Jeffrey,Medina,1221 Cascade Drive,Palatine,IL,60078,6908746,Jeffrey.Medina@digitalsales.com,87257.55,store manager
+894,Karen,Clark,8177 Forest Run Street,Charlottesville,VA,22903,9202652866,Karen.Clark@digitalsales.com,50244.95,salesperson
+895,Mildred,Hawkins,71 Schiller Avenue,Harrisburg,PA,17110,1934488003,Mildred.Hawkins@digitalsales.com,78267.18,salesperson
+896,Ryan,Nichols,686 Troy Pass,Milwaukee,WI,53263,9735672337,Ryan.Nichols@digitalsales.com,78820.87,salesperson
+897,Harry,Little,841 2nd Place,Sioux Falls,SD,57193,6981858728,Harry.Little@digitalsales.com,49795.39,salesperson
+898,Aaron,Harris,6 Del Sol Center,Lafayette,IN,47905,3423635663,Aaron.Harris@digitalsales.com,69219.78,salesperson
+899,David,Lopez,673 Bluestem Way,Dallas,TX,75241,1383047785,David.Lopez@digitalsales.com,52686.34,salesperson
+900,Eugene,Evans,5914 Artisan Plaza,Greensboro,NC,27415,1590468667,Eugene.Evans@digitalsales.com,35446.36,salesperson
+901,Wanda,Peters,103 Gateway Lane,Round Rock,TX,78682,2616510305,Wanda.Peters@digitalsales.com,50383.26,salesperson
+902,Wanda,Powell,94062 Fordem Center,Torrance,CA,90505,9125206958,Wanda.Powell@digitalsales.com,73144.89,salesperson
+903,Margaret,Ford,195 Sheridan Trail,Lake Worth,FL,33467,1205471536,Margaret.Ford@digitalsales.com,96739.32,region manager
+904,Deborah,Turner,399 Dexter Court,Detroit,MI,48211,7086010235,Deborah.Turner@digitalsales.com,94917.02,store manager
+905,Jerry,Miller,5 Lakewood Gardens Place,New York City,NY,10131,8718923449,Jerry.Miller@digitalsales.com,40453.26,salesperson
+906,Terry,Stanley,12732 Bunting Parkway,Washington,DC,20551,3060382744,Terry.Stanley@digitalsales.com,55166.21,salesperson
+907,Anna,Mills,44 Comanche Court,Saint Petersburg,FL,33705,6693402771,Anna.Mills@digitalsales.com,76465.68,salesperson
+908,Amanda,Alexander,790 Lillian Parkway,Jamaica,NY,11480,2712564631,Amanda.Alexander@digitalsales.com,67585.62,salesperson
+909,Daniel,Hunter,4 Dahle Avenue,San Antonio,TX,78220,7770115815,Daniel.Hunter@digitalsales.com,53526.32,salesperson
+910,Norma,Lee,99123 Grim Way,Miami,FL,33153,9183109519,Norma.Lee@digitalsales.com,22918.01,salesperson
+911,Lawrence,Reyes,719 Manley Point,Albany,NY,12222,4464133889,Lawrence.Reyes@digitalsales.com,45031.96,salesperson
+912,Cynthia,Olson,84757 Jenna Place,Las Vegas,NV,89135,4227653917,Cynthia.Olson@digitalsales.com,30566.61,salesperson
+913,Mark,Harris,0 Holmberg Trail,Lansing,MI,48901,3961082736,Mark.Harris@digitalsales.com,91504.24,store manager
+914,Anna,Butler,32764 Ilene Park,Amarillo,TX,79105,6907982560,Anna.Butler@digitalsales.com,35714.22,salesperson
+915,Roy,Hunt,0794 Carpenter Court,Omaha,NE,68117,2957492403,Roy.Hunt@digitalsales.com,27764.71,salesperson
+916,Joseph,Stanley,582 Summer Ridge Alley,Saint Paul,MN,55146,131983367,Joseph.Stanley@digitalsales.com,90094.70,store manager
+917,Philip,Stephens,2180 Raven Junction,Topeka,KS,66667,251647090,Philip.Stephens@digitalsales.com,28981.01,salesperson
+918,Rachel,Freeman,399 Hintze Junction,Birmingham,AL,35242,8419165080,Rachel.Freeman@digitalsales.com,80786.53,salesperson
+919,Andrea,Lewis,77 Duke Road,Chattanooga,TN,37405,5883194050,Andrea.Lewis@digitalsales.com,98260.25,region manager
+920,Samuel,Alvarez,577 Truax Trail,Staten Island,NY,10305,3887141409,Samuel.Alvarez@digitalsales.com,55436.51,salesperson
+921,Jerry,Miller,7 Daystar Lane,Littleton,CO,80126,3864199885,Jerry.Miller@digitalsales.com,62658.76,salesperson
+922,Bonnie,Peters,597 Eggendart Drive,Waterbury,CT,6726,6282076280,Bonnie.Peters@digitalsales.com,34666.26,salesperson
+923,Mark,Johnson,47 Thackeray Street,Milwaukee,WI,53225,9464701047,Mark.Johnson@digitalsales.com,49846.32,salesperson
+924,Lillian,Thomas,69709 Ilene Drive,Miami,FL,33147,2535880311,Lillian.Thomas@digitalsales.com,46951.99,salesperson
+925,Stephanie,Harper,09 Annamark Drive,Minneapolis,MN,55448,4924538159,Stephanie.Harper@digitalsales.com,65479.75,salesperson
+926,Bonnie,Cox,6590 Mcguire Alley,Louisville,KY,40250,8167095075,Bonnie.Cox@digitalsales.com,75126.30,salesperson
+927,Kathryn,Ross,381 Carpenter Circle,Cleveland,OH,44125,1915989745,Kathryn.Ross@digitalsales.com,53108.99,salesperson
+928,Michelle,Hill,18 Dennis Hill,Charlotte,NC,28299,8948582682,Michelle.Hill@digitalsales.com,90165.37,store manager
+929,Eugene,Stanley,75263 Elgar Terrace,Orange,CA,92668,1585914067,Eugene.Stanley@digitalsales.com,23651.35,salesperson
+930,Phillip,Wright,763 Sachtjen Street,West Palm Beach,FL,33411,9493322355,Phillip.Wright@digitalsales.com,37358.94,salesperson
+931,Matthew,Miller,26 Redwing Center,Cincinnati,OH,45254,5220824695,Matthew.Miller@digitalsales.com,53001.52,salesperson
+932,Stephanie,Perry,824 Macpherson Pass,Fort Lauderdale,FL,33315,592581424,Stephanie.Perry@digitalsales.com,46510.89,salesperson
+933,Amy,Anderson,4600 Crowley Place,Dayton,OH,45419,152824078,Amy.Anderson@digitalsales.com,54199.07,salesperson
+934,Phillip,Young,2 Westend Lane,Sioux Falls,SD,57105,9399381217,Phillip.Young@digitalsales.com,24280.39,salesperson
+935,Jeffrey,Little,881 Sundown Parkway,Las Vegas,NV,89178,5100503035,Jeffrey.Little@digitalsales.com,39183.38,salesperson
+936,Ruby,Rogers,1687 Pond Court,Charlotte,NC,28256,1904396377,Ruby.Rogers@digitalsales.com,37138.01,salesperson
+937,Patrick,Morales,6099 Northridge Parkway,Albany,GA,31704,5604616887,Patrick.Morales@digitalsales.com,75460.25,salesperson
+938,Arthur,Hunt,077 Redwing Point,New York City,NY,10009,403193417,Arthur.Hunt@digitalsales.com,27990.52,salesperson
+939,Kelly,Richardson,46 Lillian Road,Hattiesburg,MS,39404,4656685902,Kelly.Richardson@digitalsales.com,73030.62,salesperson
+940,Doris,Bradley,1943 Columbus Point,Appleton,WI,54915,3555573121,Doris.Bradley@digitalsales.com,95105.92,store manager
+941,Betty,Reynolds,093 Crescent Oaks Junction,Tulsa,OK,74133,2856815819,Betty.Reynolds@digitalsales.com,99368.92,region manager
+942,Robin,Garrett,580 Manufacturers Street,Tallahassee,FL,32309,7915153886,Robin.Garrett@digitalsales.com,32848.86,salesperson
+943,Tina,Cole,052 Lyons Alley,Memphis,TN,38114,9285547710,Tina.Cole@digitalsales.com,89187.60,store manager
+944,Frances,Mason,410 Blue Bill Park Circle,Oklahoma City,OK,73119,134832045,Frances.Mason@digitalsales.com,23274.64,salesperson
+945,Theresa,Burke,10 Oak Center,Murfreesboro,TN,37131,464371937,Theresa.Burke@digitalsales.com,50792.27,salesperson
+946,Ralph,Warren,7970 Moulton Lane,Las Vegas,NV,89178,1986057847,Ralph.Warren@digitalsales.com,63950.07,salesperson
+947,Daniel,Franklin,46 Schurz Plaza,New York City,NY,10131,6781647246,Daniel.Franklin@digitalsales.com,34229.49,salesperson
+948,Albert,Griffin,94454 Hauk Avenue,Arlington,TX,76004,8818791282,Albert.Griffin@digitalsales.com,75355.18,salesperson
+949,Fred,Weaver,36297 Nancy Trail,Brooklyn,NY,11254,9421022120,Fred.Weaver@digitalsales.com,64894.82,salesperson
+950,Angela,Oliver,3 Colorado Terrace,Rochester,MN,55905,323261544,Angela.Oliver@digitalsales.com,40067.95,salesperson
+951,Deborah,Ortiz,564 Commercial Way,Jacksonville,FL,32225,8242646273,Deborah.Ortiz@digitalsales.com,55711.59,salesperson
+952,Mary,Torres,495 Amoth Avenue,Phoenix,AZ,85025,3552046649,Mary.Torres@digitalsales.com,73813.72,salesperson
+953,Wayne,Nichols,63150 Veith Circle,Roanoke,VA,24014,9609617492,Wayne.Nichols@digitalsales.com,35877.67,salesperson
+954,Charles,Dunn,9 Logan Point,El Paso,TX,88519,7013174497,Charles.Dunn@digitalsales.com,30786.78,salesperson
+955,Teresa,Young,99756 Sherman Way,Charleston,WV,25336,3121303230,Teresa.Young@digitalsales.com,93747.17,store manager
+956,Julie,Reed,32 Ridge Oak Alley,Billings,MT,59105,9252220948,Julie.Reed@digitalsales.com,81958.75,salesperson
+957,Nicole,Reynolds,340 Erie Terrace,Nashville,TN,37240,3933201952,Nicole.Reynolds@digitalsales.com,98127.02,region manager
+958,Charles,Wright,91 Village Court,Salt Lake City,UT,84189,9591630894,Charles.Wright@digitalsales.com,25552.37,salesperson
+959,Jose,Austin,80 Nelson Avenue,Richmond,VA,23220,7150307068,Jose.Austin@digitalsales.com,73188.72,salesperson
+960,Evelyn,Grant,707 Lakeland Center,Saint Louis,MO,63110,6481386781,Evelyn.Grant@digitalsales.com,41605.35,salesperson
+961,Amanda,Stevens,9 Park Meadow Alley,Charleston,WV,25356,5771972008,Amanda.Stevens@digitalsales.com,69764.09,salesperson
+962,Thomas,Simpson,00 Nancy Pass,Johnson City,TN,37605,5501158814,Thomas.Simpson@digitalsales.com,59696.64,salesperson
+963,Frank,Fernandez,6 Stuart Drive,Bakersfield,CA,93305,4656238423,Frank.Fernandez@digitalsales.com,78405.02,salesperson
+964,Debra,Gutierrez,4694 High Crossing Center,Beaverton,OR,97075,2938788288,Debra.Gutierrez@digitalsales.com,94751.37,store manager
+965,Matthew,Powell,479 Hovde Plaza,Pueblo,CO,81010,8493615776,Matthew.Powell@digitalsales.com,44477.41,salesperson
+966,Amy,Rivera,213 Forest Run Lane,Maple Plain,MN,55572,8363722050,Amy.Rivera@digitalsales.com,56438.24,salesperson
+967,Doris,Garcia,79425 Dottie Lane,Waco,TX,76796,9969107522,Doris.Garcia@digitalsales.com,91505.81,store manager
+968,Gregory,Bennett,638 Amoth Terrace,El Paso,TX,79989,6871464571,Gregory.Bennett@digitalsales.com,71324.31,salesperson
+969,Frank,Ruiz,88059 Valley Edge Circle,New Orleans,LA,70124,7017316509,Frank.Ruiz@digitalsales.com,28077.15,salesperson
+970,Karen,Austin,5 Hudson Place,Oceanside,CA,92056,9538879471,Karen.Austin@digitalsales.com,94243.40,store manager
+971,Jeremy,Franklin,76998 Northridge Drive,Seattle,WA,98121,9739105731,Jeremy.Franklin@digitalsales.com,63228.75,salesperson
+972,Louise,Wood,762 Donald Court,Baton Rouge,LA,70815,8083935814,Louise.Wood@digitalsales.com,47196.90,salesperson
+973,Brandon,Garcia,7 Moose Lane,Pueblo,CO,81005,5148965748,Brandon.Garcia@digitalsales.com,50079.67,salesperson
+974,Thomas,Smith,44581 Hoard Place,Littleton,CO,80161,3200451966,Thomas.Smith@digitalsales.com,24574.18,salesperson
+975,Eric,Holmes,71213 Pearson Point,Lansing,MI,48956,5771233124,Eric.Holmes@digitalsales.com,57688.85,salesperson
+976,Wanda,Garrett,13 Caliangt Road,New York City,NY,10115,6689844012,Wanda.Garrett@digitalsales.com,34097.44,salesperson
+977,Kevin,Lane,0005 Gina Alley,Van Nuys,CA,91499,9288575350,Kevin.Lane@digitalsales.com,91478.44,store manager
+978,Steve,Simmons,8 Dunning Hill,Houston,TX,77060,5051866078,Steve.Simmons@digitalsales.com,51545.41,salesperson
+979,Sean,Knight,96565 4th Circle,Boston,MA,2298,8735318494,Sean.Knight@digitalsales.com,36706.19,salesperson
+980,Teresa,King,05156 Clarendon Lane,Asheville,NC,28805,1740319989,Teresa.King@digitalsales.com,68449.83,salesperson
+981,Nicole,Hudson,3 Becker Point,Louisville,KY,40287,8212562335,Nicole.Hudson@digitalsales.com,51358.78,salesperson
+982,Patrick,Frazier,25 Pennsylvania Drive,Miami,FL,33283,2561177568,Patrick.Frazier@digitalsales.com,43511.36,salesperson
+983,Evelyn,Hanson,42 David Road,Los Angeles,CA,90035,1132362138,Evelyn.Hanson@digitalsales.com,39281.69,salesperson
+984,Stephen,Hanson,3181 Westridge Park,Pittsburgh,PA,15250,270687998,Stephen.Hanson@digitalsales.com,45568.15,salesperson
+985,Christine,Woods,601 Beilfuss Plaza,Houston,TX,77299,6503984943,Christine.Woods@digitalsales.com,98416.56,region manager
+986,Roger,Adams,8496 Ridgeway Center,Denver,CO,80262,9856472567,Roger.Adams@digitalsales.com,57015.22,salesperson
+987,Edward,Rodriguez,64785 Starling Court,Wichita,KS,67205,1688220555,Edward.Rodriguez@digitalsales.com,60448.11,salesperson
+988,Ruby,Henry,1 Forest Dale Street,Washington,DC,20319,7723403714,Ruby.Henry@digitalsales.com,59320.50,salesperson
+989,Teresa,Alexander,48 Cherokee Court,El Paso,TX,79940,402133505,Teresa.Alexander@digitalsales.com,60209.96,salesperson
+990,Lawrence,Burns,879 Chinook Point,Naples,FL,33961,3974483606,Lawrence.Burns@digitalsales.com,34196.54,salesperson
+991,Chris,Murphy,94 Graedel Park,Evansville,IN,47712,6139087988,Chris.Murphy@digitalsales.com,49877.51,salesperson
+992,Wanda,Stephens,24196 Knutson Center,Englewood,CO,80150,430487937,Wanda.Stephens@digitalsales.com,31344.45,salesperson
+993,Frank,Carpenter,61602 Onsgard Center,Saginaw,MI,48609,4202202657,Frank.Carpenter@digitalsales.com,68933.15,salesperson
+994,Brandon,Peters,76 Ridgeview Place,El Paso,TX,88574,550941550,Brandon.Peters@digitalsales.com,84917.13,store manager
+995,Melissa,Frazier,40279 Pawling Junction,Sioux City,IA,51110,7837398597,Melissa.Frazier@digitalsales.com,69614.76,salesperson
+996,Paula,Garrett,55 Mendota Lane,San Francisco,CA,94169,2241916438,Paula.Garrett@digitalsales.com,66337.86,salesperson
+997,Ruth,Roberts,5292 Morning Trail,Miami,FL,33283,598949368,Ruth.Roberts@digitalsales.com,21242.41,salesperson
+998,Shirley,Stanley,09 Washington Court,Jacksonville,FL,32236,7705506326,Shirley.Stanley@digitalsales.com,42782.32,salesperson
+999,Beverly,Thomas,3125 Anzinger Lane,Austin,TX,78744,6319135823,Beverly.Thomas@digitalsales.com,69592.18,salesperson
+1000,Ashley,Mason,098 Waxwing Alley,East Saint Louis,IL,62205,5518182476,Ashley.Mason@digitalsales.com,28902.58,salesperson

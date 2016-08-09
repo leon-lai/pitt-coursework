@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="message_getUnpublishedQuestionnaireTitles_error_read">
+  </string>
+  <string name="message_getUnpublishedQuestionnaireTitles_success">
+  </string>
+  <string name="message_getUnpublishedQuestionnaire_error_read">
+  </string>
+  <string name="message_getUnpublishedQuestionnaire_success">
+  </string>
+  <string name="message_removeUnpublishedQuestionnaire_error_write">
+  </string>
+  <string name="message_removeUnpublishedQuestionnaire_success">
+  </string>
+  <string name="message_saveUnpublishedQuestionnaire_error_write">
+  </string>
+  <string name="message_saveUnpublishedQuestionnaire_success">
+  </string>
+  <string name="message_publishQuestionnaire_error_write_request">
+    Couldn\'t send your questionnaire to our server. Please try again.
+  </string>
+  <string name="message_publishQuestionnaire_error_read_response">
+    Couldn\'t get response from our server. However, your questionnaire has
+    been published!
+  </string>
+  <string name="message_publishQuestionnaire_error_parse_response">
+    Error parsing response from our server. However, your questionnaire has
+    been published!
+  </string>
+  <string name="message_publishQuestionnaire_success">
+    Your questionnaire has been published!
+  </string>
+  <string name="message_getPublicQuestionnaireTitles_error_read_response">
+    Couldn\'t get response from our server. Please try again.
+  </string>
+  <string name="message_getPublicQuestionnaireTitles_error_parse_response">
+    Error parsing response from our server. Please try again.
+  </string>
+  <string name="message_getPublicQuestionnaireTitles_success">
+  </string>
+  <string name="message_getPublicQuestionnaire_error_read_response">
+    Couldn\'t get response from our server. Please try again.
+  </string>
+  <string name="message_getPublicQuestionnaire_error_parse_response">
+    Error parsing response from our server. Please try again.
+  </string>
+  <string name="message_getPublicQuestionnaire_success">
+  </string>
+  <string name="message_sendAnsweredQuestionnaire_error_write_request">
+    Couldn\'t send your answers to our server. Please try again.
+  </string>
+  <string name="message_sendAnsweredQuestionnaire_error_read_response">
+    Couldn\'t get response from our server. However, your answers have been
+    sent!
+  </string>
+  <string name="message_sendAnsweredQuestionnaire_error_parse_response">
+    Error parsing response from our server. However, your answers have been
+    sent!
+  </string>
+  <string name="message_sendAnsweredQuestionnaire_success">
+    Your answers have been sent!
+  </string>
+  <string name="message_getAnsweredQuestionnaires_error_read_response">
+  </string>
+  <string name="message_getAnsweredQuestionnaires_error_parse_response">
+  </string>
+  <string name="message_getAnsweredQuestionnaires_success">
+  </string>
+</resources>

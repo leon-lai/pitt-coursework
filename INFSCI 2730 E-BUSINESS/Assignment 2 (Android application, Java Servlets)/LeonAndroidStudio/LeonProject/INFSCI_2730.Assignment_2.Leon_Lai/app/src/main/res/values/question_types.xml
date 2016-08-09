@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="question_type_CheckBox">CheckBox</string>
+  <string name="question_type_SeekBar">SeekBar</string>
+  <string name="question_type_RatingBar">RatingBar</string>
+  <string name="question_type_Spinner">Spinner</string>
+  <string name="question_type_EditText">Text Field</string>
+  <string name="question_type_DatePicker">DatePicker</string>
+  <string name="question_type_TimePicker">TimePicker</string>
+</resources>

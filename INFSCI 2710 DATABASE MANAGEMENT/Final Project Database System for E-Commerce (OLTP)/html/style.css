@@ -1,0 +1,60 @@
+/* 2015-04-13 Leon Lai <Leon.Lai@pitt.edu> */
+
+@import url(http://fonts.googleapis.com/css?family=Audiowide);
+@import url(http://fonts.googleapis.com/css?family=Patua+One);
+
+body                { margin: 0; border: 0; padding: 0;
+                      font: 100%/120% sans-serif;
+                      color: #222; background: #FFF8E7; }
+h1                  { margin: 1.2em 0; border: 0; padding: 0;
+                      color: #444;
+                      font: 200%/120% "Patua One", serif; }
+h2                  { margin: 1.2em 0; border: 0; padding: 0;
+                      color: #333;
+                      font: 150%/120% "Patua One", serif; }
+a                   { transition: 0.3333333333s; }
+.logo a,
+.nav a              { text-decoration: inherit; }
+a:link,
+a:visited           { color: inherit; }
+a:hover,
+a:active,
+a:focus             { background: #FFF; }
+table               { margin: 0 auto 0.6em; border: 0; padding: 0;
+                      text-align: left;
+                      border-collapse: collapse; }
+th,
+td                  { border: 1px solid; padding: 0.3em; }
+.logo               { margin: 0; border: 0; padding: 2em 0 0.1875em;
+                      font: 300%/120% "Audiowide", sans-serif;
+                      text-align: center; }
+.nav                { margin: 0; border: 0; padding: 0.25em 0;
+                      color: #333;
+                      font: 150%/120% "Patua One", serif;
+                      text-align: center; }
+.nav li             { margin: 0; border: 0; padding: 0.25em 0;
+                      display: block;
+                      list-style: none; }
+.nav li:before,
+.nav li:after       { content: " ★ "; }
+#header             { border-bottom: 1px solid; }
+#footer             { border-top: 1px solid; }
+#header,
+#footer             { padding: 0.125em; text-align: center; }
+.menu .logo         { padding: 0; display: inline;
+                      font: 100%/120% "Audiowide", sans-serif; }
+.menu .nav          { padding: 0; display: inline;
+                      font: 100%/120% "Patua One", serif; }
+.menu .nav li       { padding: 0; display: inline; }
+.menu .nav li:after { content: normal; }
+#footer.menu        { position: fixed; bottom: 0px;
+                      width: 100%;
+                      background: inherit;
+                      box-sizing: border-box; }
+#content            { padding: 1.2em 0.125em 2.525em; text-align: center; }
+#content form       { margin: 0 0 0.6em; }
+#content legend     { margin: 0; border: 0; padding: 0;
+                      color: #333;
+                      font: 150%/120% "Patua One", serif; }
+#output             {  }
+#input              {  }

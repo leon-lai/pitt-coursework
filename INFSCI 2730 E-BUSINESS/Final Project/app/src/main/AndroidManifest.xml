@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="edu.pitt.sis.ceipts"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <uses-permission android:name="android.permission.CAMERA"/>
+  <uses-permission android:name="android.permission.FLASHLIGHT"/>
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+
+  <application
+   android:allowBackup="true"
+   android:label="@string/app_name"
+   android:supportsRtl="true"
+   android:theme="@style/AppTheme">
+    <activity android:name=".activity_home">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity
+     android:name=".activity_take_picture"
+     android:label="@string/activity_take_picture"/>
+    <activity
+     android:name=".activity_picture_to_receipt"
+     android:label="@string/activity_picture_to_receipt">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW"/>
+      </intent-filter>
+    </activity>
+    <activity
+     android:name=".activity_new_receipt"
+     android:label="@string/activity_new_receipt"/>
+    <activity
+     android:name=".activity_receipts_list"
+     android:label="@string/activity_receipts_list"/>
+    <activity
+     android:name=".activity_existing_receipt"
+     android:label="@string/activity_existing_receipt"/>
+    <activity
+     android:name=".activity_spending_log"
+     android:label="@string/activity_spending_log"/>
+  </application>
+
+</manifest>

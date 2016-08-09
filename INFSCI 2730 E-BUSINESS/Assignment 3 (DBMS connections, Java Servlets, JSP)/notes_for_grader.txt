@@ -1,0 +1,33 @@
+For this assignment I did a Business Component. It is an unconventional online shopping cart that tries to model physical shopping experience. Unlike in normal online shopping sites, where users are presented with models to choose from, my website presents all the individual items in inventory to grab, much like seeing all the vegetables on the vegetable shelves while in a grocery store.
+
+Setup instructions
+1. Extract "INFSCI_2730.Assignment_3.Leon_Lai.zip"
+2. Open NetBeans
+3. Set Java DB Database Location to the folder "LeonDB" extracted from "INFSCI_2730.Assignment_3.Leon_Lai.zip"
+4. Open Project that is the folder "LeonProject/INFSCI_2730.Assignment_3.Leon_Lai" extracted from "INFSCI_2730.Assignment_3.Leon_Lai.zip"
+5. Start Java DB server
+5. Run Project
+
+This project contains the following components:
+ ‣ Database connectivity
+    ‣ Database Connection Pool as data source, configured in context.xml
+    ‣ 8 database tables
+    ‣ 5 select SQL statements, 5 insert/update/delete SQL statements
+ ‣ Servlets & JSPs
+    ‣ MVC
+       ‣ requests are processed by servlets
+       ‣ request attributes are set and requests are forwarded from servlets to JSPs
+       ‣ responses are written by JSPs
+    ‣ A pair of JSPs and two modes of operation for each servlet:
+       ‣ Simple mode: JSP writes JSON strings, e.g. receipt object (Content-Type: application/json;charset=UTF-8)
+          ‣ Used for XMLHttpRequests and useful as Web API
+       ‣ Normal mode: JSP writes HTML content
+ ‣ JavaScript, DOM, AJAX, HTML, CSS
+    ‣ Well-formed XHTML 1.1 and CSS
+    ‣ accesskey attributes for keyboard shortcuts
+    ‣ responsive design
+       ‣ Three different looks for three different widths
+       ‣ Additionally print media for GetReceipts
+   ‣ XMLHttpRequests for moving shelf items to cart and moving cart items back to shelf
+   ‣ Form validation to check blank account or password and input constraints
+   ‣ Tested with Firefox, and Chrome

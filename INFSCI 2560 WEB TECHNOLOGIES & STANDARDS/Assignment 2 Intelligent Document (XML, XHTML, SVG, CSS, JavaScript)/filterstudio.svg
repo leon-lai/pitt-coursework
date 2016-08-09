@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="filterstudio.css"?>
+<svg
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xml:lang="en"
+ version="1.1">
+
+	<title>Filter Studio Front-end</title>
+	<desc>
+		SVG filters are a pretty neat feature. I had used a Chrome extension
+		called High Contrast (djcfdncoelnlbldjfhinnjlhdjlikmph) to invert the
+		colors of pages with dark text on light background so that they are not
+		so bright and uncomfortable to my eyes. It inverted the colors of images
+		as well, which puzzled me as to how it did that with presumably CSS
+		injection or what JavaScript library it used. It was only last month
+		that I found out that this extension actually injects SVG filters to
+		accomplish all the color modifications. Before then I did not know that
+		one could declare image filters in webpages or even that modern web
+		browsers have these functions. Given this assignment to build a dynamic
+		and interactive webpage, I wanted to make a tool with which I could play
+		around with this newfound feature in web design standards.
+		------------------------------------------------------------------------
+		This intellidoc lets users specify a base image and add SVG filter
+		primitives to construct an SVG filter to operate on that image. Users
+		can create, delete, and alter filter primitives.
+		------------------------------------------------------------------------
+		This SVG document serves as the front-end of Filter Studio. It contains
+		a filter element and a foreignObject element containing XHTML. The
+		filter element is where filter primitives reside, and the XHTML elements
+		are where groups of controls to configure the filter primitives reside.
+		This front-end is styled with CSS, by the corresponding CSS file. The
+		back-end is described and implemented in the corresponding JavaScript
+		file.
+	</desc>
+
+	<defs>
+		<filter id="filter" x="0" y="0" width="100%" height="100%" />
+	</defs>
+
+	<script xlink:href="filterstudio.js" />
+
+	<image width="70%" height="100%" filter="url(#filter)" />
+
+	<foreignObject x="70%" width="30%" height="100%">
+		<body xmlns="http://www.w3.org/1999/xhtml">
+			<div id="form">
+				<fieldset>
+					<label>image href: <input id="imagehref" /></label>
+				</fieldset>
+			</div>
+			<!--<fieldset>
+				<legend>Forms</legend>
+				<input type="text" />
+				<input type="password" />
+				<input type="checkbox" />
+				<input type="radio" />
+				<input type="submit" />
+				<input type="reset" />
+				<input type="file" />
+				<input type="hidden" />
+				<input type="image" src="" />
+				<input type="button" />
+				<button>new</button>
+				<textarea rows="1">HELLO</textarea>
+			</fieldset>-->
+		</body>
+	</foreignObject>
+
+</svg>
+
+<!--
+	References
+		http://w3.org/TR/SVG/intro.html
+		http://w3.org/TR/SVG/struct.html
+		http://w3.org/TR/SVG/filters.html
+		http://w3.org/TR/SVG/extend.html
+-->

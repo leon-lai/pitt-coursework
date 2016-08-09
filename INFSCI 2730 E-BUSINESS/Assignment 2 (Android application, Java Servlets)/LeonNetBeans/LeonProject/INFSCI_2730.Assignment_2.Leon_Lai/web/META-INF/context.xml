@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context
+ path="">
+  <Resource
+   name="connection_pool"
+   auth="Container"
+   type="javax.sql.DataSource"
+   factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+   username="leon"
+   password="123"
+   driverClassName="org.apache.derby.jdbc.ClientDriver"
+   url="jdbc:derby://localhost:1527/INFSCI_2730.Assignment_2.Leon_Lai" />
+</Context>

@@ -1,0 +1,13 @@
+<resources>
+  <!-- Base application theme. -->
+  <style
+   name="AppTheme"
+   parent="android:Theme.DeviceDefault.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+  </style>
+  <style name="TableHeader">
+    <item name="android:textSize">16sp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:typeface">monospace</item>
+  </style>
+</resources>

@@ -1,0 +1,86 @@
+product_ID,product_name,size,unit,price,inventory,category
+1,Werther's Original Caramel Filled,12,pack,22.57,1574,Hard Candies
+2,Werther's Original Apple Filled,6,pack,11.29,1148,Hard Candies
+3,Werther's Original Apple Filled,12,pack,15.85,1338,Hard Candies
+4,Werther's Original Caramel Coffee,12,pack,22.57,608,Hard Candies
+5,Nik-L-Nips,2,lb,12.89,728,Gummy Candies
+6,Nik-L-Nips,5,lb,24.43,717,Gummy Candies
+7,Circus peanuts,1,lb,8.95,604,Marshmallows
+8,Circus peanuts,2,lb,10.94,1021,Marshmallows
+9,Wax lips,24,pack,24.35,903,Gummy Candies
+10,Sugar Daddy,24,count,26.91,1481,Suckers and Lollipops
+11,Pop Rocks,1,dozen,11.49,655,Sour Candies
+12,Necco wafers,1,lb,8.98,891,Wafer
+13,Necco wafers,3,lb,22.29,1627,Wafer
+14,Nerds Grape & Strawberry,36,pack,24.99,833,Hard Candies
+15,Nerds Watermelon & Wild Cherry,36,pack,23.94,1160,Hard Candies
+16,Pocky Match Green Tea,2.47,oz,5.43,1672,Chocolate Cookies
+17,Pocky Chocolate Banana,0.88,oz,4.20,1828,Chocolate Cookies
+18,Pocky Mix Package,1.41,oz,3.99,1120,Chocolate Cookies
+19,Jawbreakers Individual Wrapped,5,lb,17.62,733,Hard Candies
+20,Jawbreakers Jumbo,4,pack,12.32,681,Hard Candies
+21,Candy cigarettes Retro King Size,12,count,17.50,1263,Joke Toys
+22,Candy cigarettes,24,count,15.99,1719,Joke Toys
+23,Salt water taffy,3,lb,14.67,1933,Taffy Candies
+24,Salt water taffy,5,lb,22.17,1104,Taffy Candies
+25,Red Vines,64,oz,7.35,1506,Gummy Candies
+26,Jolly Ranchers,60,oz,8.98,1547,Hard Candies
+27,Toblerone 4 varieties,200,g,6.99,1108,Chocolate Bars
+28,Mr. Goodbar Candy Bar Extra Large,4.4,oz,19.65,1540,Chocolate Bars
+29,Smarties Candy Rolls,1,lb,7.27,605,Hard Candies
+30,Smarties Candy Rolls,2,lb,10.10,1877,Hard Candies
+31,Smarties Candy Rolls,5,lb,17.77,872,Hard Candies
+32,Pez Candy Refills,1,lb,9.34,1669,Hard Candies
+33,Pez Candy Refills,2,lb,12.72,1236,Hard Candies
+34,Milk Duds 5-Ounce Package,12,pack,12.00,542,Chocolate Bars
+35,Milk Duds 10-Ounce Package,12,pack,22.12,1677,Chocolate Bars
+36,Pixy Sticks,1,lb,9.45,522,Suckers and Lollipops
+37,Blow Pops Assorted,100,count,15.49,1612,Suckers and Lollipops
+38,Almond Joy 11.3-Ounce Package,6,pack,26.87,696,Chocolate Bars
+39,Almond Joy 1.61-Ounce Bars,36,pack,24.36,1593,Chocolate Bars
+40,Sour Patch Kids,3.5,lb,14.97,745,Gummy Candies
+41,Atomic Fireball Wrapped,5,lb,16.54,1968,Hard Candies
+42,Atomic Fireball 240 Pieces,4.05,lb,17.21,749,Hard Candies
+43,Starburst,54,oz,14.99,693,Fruit Candies
+44,Baby Ruth Chocolate Bars,11.5,oz,10.49,1661,Chocolate Bars
+45,Payday Peanut Caramel Bar Jumbo Bag,20.3,oz,13.99,1946,Peanut Butter
+46,Payday Peanut Caramel Bar 11.6-Ounce Packages,6,pack,15.48,553,Peanut Butter
+47,Peeps Marshmallow Yellow,10,count,4.44,932,Marshmallows
+48,Peeps Marshmallow Variety Pack ,5,pack,17.95,1067,Marshmallows
+49,Reese's pieces Peanut Butter 10.5-Ounce Pouches,6,pack,14.14,576,Peanut Butter
+50,Reese's Peanut Butter Cups 1.5-Ounce Packages,36,pack,23.46,1619,Peanut Butter
+51,Reese's pieces Candy Bulk 5-Pound Bag,1,count,27.99,1867,Peanut Butter
+52,Junior Mints 72-Pack,31.68,oz,18.44,1266,Mints Candies
+53,Charms Fluffy Cotton Candy 1-Ounce Bag,12,pack,13.99,1822,Suckers and Lollipops
+54,Swedish Fish,3.5,lb,14.39,1764,Gummy Candies
+55,Milky Way 11.24-Ounce Bag,6,pack,14.15,713,Chocolate Bars
+56,Milky Way 1.84-Ounce Bag,36,pack,22.99,1483,Chocolate Bars
+57,Cadbury Creme Eggs 1.2-Ounce Eggs,48,pack,29.99,1194,Chocolate Candies
+58,Skittles,54,oz,12.68,970,Fruit Candies
+59,Skittles 41-Ounce Bag,2,pack,13.26,1679,Fruit Candies
+60,Tootsie Roll pops,100,Pop,17.13,1669,Suckers and Lollipops
+61,York Peppermint Patties,175,count,24.49,1569,Mints Candies
+62,Branch's Candy Corn,72,oz,17.50,509,Chocolate Candies
+63,3 Musketeers 1.92-Ounce Bar,36,pack,27.26,754,Chocolate Bars
+64,Jelly Belly 49 Flavor Assorted,1,lb,10.45,1479,Jelly Beans
+65,Hershey Bar 1.55-Ounce Bar,36,pack,15.15,1160,Chocolate Bars
+66,Twix Chcolate King Size,24,pack,14.49,1433,Chocolate Bars
+67,Twix Chcolate Caramel 1.79-Ounce Bar,36,count,29.52,596,Chocolate Bars
+68,Butterfinger Chocolate Bars Fun Size,11.5,oz,8.49,699,Chocolate Bars
+69,Haribo Gummi bears 5-Ounce Bag,12,pack,9.02,1648,Gummy Candies
+70,Kit-Kat Minis Pouch,8,oz,2.99,988,Chocolate Bars
+71,Kit-Kat 1.5-Ounce Bar,36,pack,28.40,745,Chocolate Bars
+72,Twizzlers Cherry Pull-n-Peel,6.1,oz,1.46,1447,Gummy Candies
+73,Twizzlers Strawberry 16-Ounce Bag,6,pack,11.30,986,Gummy Candies
+74,Snickers Fun Size,22.55,oz,6.32,1889,Chocolate Bars
+75,Hershey's Kiss 12-Ounce Bag,4,pack,11.36,1151,Chocolate Bars
+76,M&M's Mixed Singles Packges,18,count,11.25,807,Chocolate Candies
+77,Rold Gold Pretzel Sticks,16,oz,2.50,1184,Pretzels
+78,Snack Factory Original Pretzel Crisp,32,oz,12.11,1654,Pretzels
+79,Snyders Mini Pretzels Tub,40,oz,14.79,1001,Pretzels
+80,San Francisco Sourdough Pretzels,1.47,kg,18.99,1320,Pretzels
+81,Lay's Potato Chips Party Size Classic,15.75,oz,2.48,1569,Chips and Crisps
+82,Ruffles Potato Chips,14.5,oz,4.38,1093,Chips and Crisps
+83,Pringles Original 1.3-Ounce,12,pack,7.87,1686,Chips and Crisps
+84,Lay's Kettle Chips Variety Pack 1.375-Ounce Bag,30,count,15.00,709,Chips and Crisps
+85,Good Health Kettle Style Potato Chips5-Ounce Bag,12,pack,28.99,1151,Chips and Crisps

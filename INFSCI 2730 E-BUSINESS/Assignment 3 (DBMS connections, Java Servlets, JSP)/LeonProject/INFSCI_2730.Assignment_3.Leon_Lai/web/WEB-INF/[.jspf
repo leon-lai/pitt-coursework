@@ -1,0 +1,16 @@
+<%@page 
+  contentType="application/xhtml+xml"
+  pageEncoding="UTF-8"
+  import="java.util.LinkedList,java.util.Date,java.text.SimpleDateFormat,edu.pitt.sis.INFSCI_2730.Assignment_3.Leon_Lai.DataManipulator.*"
+%><%
+  final String NAME = this.getClass().getSimpleName().replaceFirst("_jsp$", "");;
+%><?xml version="1.0" encoding="UTF-8"?><!--DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN" "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd"-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="<%=NAME%>">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml;charset=UTF-8" />
+<meta http-equiv="Cache-Control" content="no-cache" />
+<title><%=NAME%> | General Item Reservation System</title>
+<link rel="stylesheet" type="text/css" href="common.css" />
+<script type="text/javascript" src="<%=NAME%>.js"></script>
+</head>
+<body>

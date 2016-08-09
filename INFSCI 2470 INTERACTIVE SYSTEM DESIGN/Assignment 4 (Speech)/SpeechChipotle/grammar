@@ -1,0 +1,60 @@
+<grammar version="1.0" xml:lang="en-US" root="playCommands"
+ xmlns="http://www.w3.org/2001/06/grammar">
+ 
+<rule id="firstStep">
+<one-of>
+  <item > bowl </item>
+  <item > burrito </item>
+  <item> burrito bowl </item>
+</one-of>
+</rule>
+<rule id="beans">
+<one-of>
+  <item > pinto </item>
+  <item > black </item>
+</one-of>
+</rule>
+<rule id="rice">
+<one-of>
+  <item > white </item>
+  <item > brown </item>
+</one-of>
+</rule>
+<rule id="fajita">
+<one-of>
+  <item > fajita </item>
+  <item> fajita veggies </item>
+</one-of>
+</rule>
+<rule id="meat">
+<one-of>
+  <item > chicken </item>
+  <item > steak </item>
+  <item > beef </item>
+  <item > barbacoa </item>
+  <item > carnitas </item>
+  <item > sofritas </item>
+</one-of>
+</rule>
+<rule id="salsa">
+<one-of>
+  <item> mild </item>
+  <item> medium </item>
+  <item> hot </item>
+  <item> corn </item>
+</one-of>
+</rule>
+<rule id="cheese">
+<one-of>
+  <item> sour cream </item>
+  <item> cheese </item>
+</one-of>
+</rule>
+<rule id="lettuce">
+<one-of>
+  <item> guacamole </item>
+  <item> lettuce </item>
+</one-of>
+</rule>
+
+</grammar>

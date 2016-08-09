@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">Ceipts</string>
+  <string name="activity_take_picture">Confirm receipt</string>
+  <string name="activity_picture_to_receipt">Receipt</string>
+  <string name="activity_new_receipt">New receipt</string>
+  <string name="activity_receipts_list">Receipts List</string>
+  <string name="activity_existing_receipt">Existing receipt</string>
+  <string name="activity_spending_log">Spending Log</string>
+  <string name="whenGUIHeader">Date</string>
+  <string name="itemDescriptionGUIHeader">Item Description</string>
+  <string name="itemPriceGUIHeader">Price</string>=
+  <string name="add">+</string>
+  <string name="remove">×</string>
+  <string name="save">Save</string>
+  <string name="nosave">Discard</string>
+  <string name="delete">Delete</string>
+  <string name="showOriginalPicture">Show original picture</string>
+  <string name="showPreprocessedPicture">Show preprocessed picture</string>
+  <string name="showTranscription">Show transcription</string>
+</resources>

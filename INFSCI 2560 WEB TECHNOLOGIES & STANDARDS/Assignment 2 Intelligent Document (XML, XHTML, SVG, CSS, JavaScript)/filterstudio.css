@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	border: none;
+	padding: 0;
+	color: inherit;
+	background: transparent;
+	font: inherit;
+}
+foreignObject {
+	border-left: 1px solid;
+}
+svg {
+	background: #333;
+}
+body {
+	height: 100%;
+	overflow: auto;
+	font: 100%/150% "Noto Sans", sans-serif;
+	color: #000;
+	background: #fff;
+}
+input, button, select, optgroup, option, textarea {
+	border: 1px solid;
+	padding: 0 0.25em;
+	background: #ddd;
+}
+label {
+	display: block;
+}
+label.compact {
+	display: inline-block;
+}
+fieldset {
+	border-bottom: 1px solid;
+	padding: 0.375em;
+}
+fieldset fieldset {
+	border: 1px solid;
+	padding: 0.375em;
+}
+legend {
+	float: left; /* Makes legend completely inside of fieldset */
+	width: 100%; /* Clears elements otherwise right of legend */
+}
+select.createMenu {
+	margin: 0.375em;
+}

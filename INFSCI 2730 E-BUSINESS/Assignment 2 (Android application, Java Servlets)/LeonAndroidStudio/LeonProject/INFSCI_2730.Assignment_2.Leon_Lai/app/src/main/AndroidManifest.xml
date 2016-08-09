@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+ package="edu.pitt.sis.INFSCI_2730.Assignment_2.Leon_Lai">
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:allowBackup="true"
+   android:icon="@mipmap/ic_launcher"
+   android:label="@string/app_name"
+   android:supportsRtl="true"
+   android:theme="@style/AppTheme">
+    <activity android:name=".Index" android:label="@string/app_name">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name=".Make"
+     android:label="@string/title_activity_make" />
+    <activity android:name=".Take"
+     android:label="@string/title_activity_take" />
+    <activity android:name=".IndexMake"
+     android:label="@string/title_activity_indexmake" />
+    <activity android:name=".IndexTake"
+     android:label="@string/title_activity_indextake" />
+  </application>
+</manifest>

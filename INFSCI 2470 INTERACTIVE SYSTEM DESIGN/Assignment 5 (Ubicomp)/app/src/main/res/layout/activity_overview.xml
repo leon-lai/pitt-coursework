@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent"
+ tools:context="edu.pitt.sis.slight.Overview">
+
+ <Button
+  android:id="@+id/button"
+  android:layout_width="fill_parent"
+  android:layout_height="384dp"
+  android:background="#fff8e7"
+  android:fontFamily="serif"
+  android:gravity="center_vertical|center_horizontal"
+  android:onClick="buttonClick"
+  android:text="T"
+  android:textSize="200dp"/>
+
+ <TextView
+  android:id="@+id/status"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:layout_below="@+id/button"
+  android:gravity="center_vertical|center_horizontal"
+  android:textAppearance="?android:attr/textAppearanceMedium"/>
+</RelativeLayout>

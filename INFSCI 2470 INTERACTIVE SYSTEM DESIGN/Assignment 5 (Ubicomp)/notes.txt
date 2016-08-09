@@ -1,0 +1,90 @@
+1. Start a new Android Studio project
+	New Project
+		Application name: Slight
+		Company Domain: sis.pitt.edu
+		(Project location: /home/leon/LeonAndroidStudio/LeonProjects/Slight)
+	Target Android Devices
+		Phone and Tablet
+			Minimum SDK: API 12
+	Add an activity to Mobile
+		Empty Activity
+	Customize the Activity
+		Activity Name: Overview
+2. In Overview.java
+	Copy import statements from Siddharth's detectLight.java
+	Copy everything in class detectLight except onCreate, onCreateOptionsMenu, and onOptionsItemSelected from Siddharth's detectLight.java
+		but do copy camera = Camera.open(); from Siddharth's detectLight.java
+		in onStop, comment out camera.release because otherwise when the app leaves the focus the camera torch won't respond.
+3. In activity_overview.xml
+	Replace the TextView element with children of the RelativeLayout element in Siddharth's activity_detect_light.xml
+4. In AndroidManifest.xml
+	Add <uses-feature android:name="android.hardware.camera" android:required="true" /> as a child of manifest element
+	Add <uses-permission android:name="android.permission.CAMERA" /> as a child of manifest element
+5. Try to get illuminance periodically instead of on change
+	https://encrypted.google.com/search?q=android+timer
+		https://stackoverflow.com/questions/4597690/android-timer-how
+	https://encrypted.google.com/search?q=android+get+sensor+value
+		https://stackoverflow.com/questions/6433889/getting-light-sensor-value
+			"...it isn't possible to directly get the current sensor value and, while some more recent versions of Android will generate an onSensorChanged event..."
+	Verdict: Keep using on-change.
+6. Try to move code from onStart into onCreate
+	https://encrypted.google.com/search?q=oncreate+vs+onstart
+		https://stackoverflow.com/questions/12468614/oncreate-vs-onstart
+	Verdict: OK.
+7. Create an exit input as an options menu item (Turki did this)
+	Methods in overview activity source:
+		onCreateOptionsMenu
+		onOptionsItemSelected
+	Files:
+		res/menu/menu_main.xml
+8. Make threshold time-variant to simulate users getting used to the ambient illuminance.
+	Threshold = average of last five illuminances.
+9. Implemented threshold update logic
+	Successful, but...
+10. PROBLEM FACED:
+	When it is completely dark and the illuminance is 0, it is unlikely that illuminance changes at all, therefore the threshold value is not updated.
+	Reconsidering periodic update (instead of onchange)
+	Solution: Have change event listener set a field, then periodically get that field's value and set threshold.
+11. Reimplemented threshold update logic
+	Threshold is last five illuminances spaced 0.1s apart.
+	Successful, but...
+12. PROBLEM FACED:
+	Threshold, as the average ambient illuminance, means the torch will shine half of the time, on average.
+	Recall: threshold means "it is too dark to see". If a user is used to the current illuminance, their threshold for "too dark to see" should be somewhat lower
+	Solution: set threshold as the average ambient illuminance minus a constant value
+13. Reimplemented threshold update logic.
+	Successful, but...
+14. IMPROVEMENT:
+	A better approximation for acclimation would be exponential decay.
+	Threshold before adjustment for comfort should exponentially decay to current ambient illuminance.
+	new function: threshold = apply_bias(threshold + delta_coefficient * (current_illuminance - threshold_before_comfort_bias))
+15. Reimplemented threshold update logic
+	Successful.
+16. Implemented textbox logic:
+	Added TextView object for the text box for setting its text to the sensor and torch values.
+	https://stackoverflow.com/questions/5477341/update-android-textview
+17. Reimplemented button press logic:
+	Make button press set threshold to the current illuminance plus an arbitrarily high value.
+	Using press down instead of click now.
+		https://stackoverflow.com/questions/11779082/listener-for-pressing-and-releasing-a-button
+		Got rid of buttonClick, buttonClicked, and things related to them.
+	Threshold logic is in button touch event listener
+		threshold = current_illuminance + boost
+18. Refactored UI
+	Refactored activity_overview.xml
+		https://stackoverflow.com/questions/432037/how-do-i-center-text-horizontally-and-vertically-in-a-textview-in-android
+	Added color inversion inside button touch event listener.
+19. PROBLEM FACED:
+	When light turns off or when button is pressed, light does not come on immediately
+	Solution: have updateTorch be called by the sensor change event listener and by the button touch event listener in addition to the timer.
+	PROBLEM SOLVED.
+20. Experimented to get best update period, delta coefficient, and comfort range.
+
+References:
+Siddharth's code and design notes
+https://developer.android.com/reference/android/app/Activity.html
+https://developer.android.com/guide/topics/manifest/uses-feature-element.html
+https://developer.android.com/guide/topics/manifest/uses-permission-element.html
+https://developer.android.com/guide/topics/resources/menu-resource.html
+https://developer.android.com/guide/topics/ui/menus.html
+https://developer.android.com/reference/android/os/Handler.html

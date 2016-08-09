@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">INFSCI_2730.Assignment_2.Leon_Lai</string>
+  <string name="action_settings">Settings</string>
+  <string name="title_activity_make">Make a Questionnaire</string>
+  <string name="title_activity_take">Take a Questionnaire</string>
+  <string name="title_activity_indexmake">Unpublished Questionnaires</string>
+  <string name="title_activity_indextake">Public Questionnaires</string>
+  <string name="action_create">Create</string>
+  <string name="action_refresh">Refresh</string>
+  <string name="action_addquestion">Add Question</string>
+  <string name="action_publish">Publish</string>
+  <string name="action_sendanswers">Send Answers</string>
+  <string name="placeholder_title">Questionnaire Title</string>
+  <string name="placeholder_question">Enter question text</string>
+  <string name="placeholder_choice">Enter choice text</string>
+</resources>

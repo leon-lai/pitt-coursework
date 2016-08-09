@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+ xmlns:tools="http://schemas.android.com/tools"
+ android:layout_width="match_parent"
+ android:layout_height="match_parent"
+ android:orientation="vertical"
+ tools:context=".activity_home">
+  <Button
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:layout_weight="1"
+   android:onClick="takePicture"
+   android:text="New receipt via camera"/>
+  <Button
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:layout_weight="1"
+   android:onClick="newReceipt"
+   android:text="New receipt by hand"/>
+  <Button
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:layout_weight="1"
+   android:onClick="receiptsList"
+   android:text="Existing receipts"/>
+  <Button
+   android:layout_width="match_parent"
+   android:layout_height="wrap_content"
+   android:layout_weight="1"
+   android:onClick="spendingLog"
+   android:text="Spending Log"/>
+</LinearLayout>

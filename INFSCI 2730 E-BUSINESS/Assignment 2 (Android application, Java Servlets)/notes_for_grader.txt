@@ -1,0 +1,97 @@
+Class  :  2164 INFSCI 2730 1090 E-BUSINESS
+Author :  Leon Lai <Leon.Lai@pitt.edu>
+Title  :  Assignment 2 (Android application, Java Servlets)
+
+Hello,
+
+The attached ZIP file contains my Assignment 2. It consists of an Android Studio project and a NetBeans Java Web project. Below are setup instructions and more information about my project.
+
+Setup instructions:
+
+1. Install the following required SDK packages:
+    ‣ Android SDK Tools, revision 24.4.1
+    ‣ Android SDK Platform-tools, revision 23.1
+    ‣ Android SDK Build-tools, revision 23.0.2
+    ‣ SDK Platform Android 4.4.2, API 19, revision 4
+    ‣ Google Repository, revision 24
+    ‣ Local Maven repository for Support Libraries, revision 28
+    ‣ Intel x86 Atom System Image, Android API 19, revision 3
+2. Open the folder "LeonAndroidStudio/LeonProject/INFSCI_2730.Assignment_2.Leon_Lai" in Android Studio
+3. Set the project's SDK directory property accordingly
+4. Create or reuse your own AVD (I used Nexus 5 API 19 with 200MB RAM).
+5. Run the Android app on the AVD.
+6. Open the folder "LeonNetBeans/LeonProject/INFSCI_2730.Assignment_2.Leon_Lai" in NetBeans.
+7. Set Java DB Database Location to the folder "LeonNetBeans/LeonDB/INFSCI_2730.Assignment_2.Leon_Lai".
+8. Run the Java Web app.
+
+What you can do in the Android app:
+
+In the Index activity:
+ ‣ Make a questionnaire (Press the "Make a Questionnaire" button)
+ ‣ Take a questionnaire (Press the "Take a Questionnaire" button)
+In the IndexMake activity:
+ ‣ Continue a saved unpublished questionnaire (Click on a list item)
+ ‣ Delete a saved unpublished questionnaire (Long-click a list item)
+ ‣ Make a new questionnaire (Press the "Create" button)
+In the Make activity:
+ ‣ Set questionnaire title
+ ‣ Add a question (Press the "Add Question" button)
+ ‣ Change a question's response type (Long-click the question's area)
+ ‣ Delete a question (Press the "X" button next to the question)
+ ‣ Change what a question asks
+ ‣ For check box type questions:
+    ‣ Add a check box
+    ‣ Delete a check box
+    ‣ Change a check box's value
+ ‣ For spinner type questions: long-click the spinner to add, delete, or change its choices
+In the IndexTake activity:
+ ‣ Choose a public questionnaire (Click on a list item)
+ ‣ Refresh the public questionnaire list (Press the "Refresh" button)
+In the Take activity:
+ ‣ Answer questions
+ ‣ Submit your answers (Press the "Send Answers" button)
+
+What the Android application includes:
+
+ ‣ Interactivity
+    ‣ Five activities
+       ‣ onCreate, onResume, and onPause are overriden.
+    ‣ My own menu XML resource
+    ‣ My own string values XML resource
+    ‣ Intents
+       ‣ Passing questionnaire ID from IndexMake to Make or from IndexTake to Take
+    ‣ Context menus
+    ‣ Alert dialogs
+    ‣ ArrayAdapter for dynamically changing spinner and list view items
+    ‣ Event listeners
+       ‣ View.OnClickListener
+       ‣ View.OnLongClickListener
+       ‣ View.OnFocusChangeListener
+       ‣ DialogInterface.OnCancelListener
+       ‣ DialogInterface.OnDismissListener
+       ‣ AdapterView.OnItemClickListener
+       ‣ AdapterView.OnItemLongClickListener
+ ‣ Accesses local storage
+    ‣ SharedPreferences
+ ‣ Makes network connections (HTTP requests to the Java Servlets in the included NetBeans project)
+    ‣ HTTP requests
+       ‣ java.net.HttpURLConnection
+       ‣ Both GET and POST requests
+
+What the Java Web app includes:
+
+ ‣ Two tables
+    ‣ For questionnaires
+    ‣ For answered questionnaires
+ ‣ Four Servlets
+    ‣ For publishing questionnaires
+    ‣ For getting public questionnaires list
+    ‣ For getting a specific public questionnaire
+    ‣ For submitting an answered questionnaire
+ ‣ Database Connection Pools
+ ‣ JSON
+
+Please let me know if you have any questions.
+
+Thank you,
+Leon

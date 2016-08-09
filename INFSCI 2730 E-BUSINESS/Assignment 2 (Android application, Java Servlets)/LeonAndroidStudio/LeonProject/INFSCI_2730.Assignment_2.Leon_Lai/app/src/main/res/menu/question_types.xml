@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/CheckBox"
+   android:title="@string/question_type_CheckBox" />
+  <item android:id="@+id/SeekBar"
+   android:title="@string/question_type_SeekBar" />
+  <item android:id="@+id/RatingBar"
+   android:title="@string/question_type_RatingBar" />
+  <item android:id="@+id/Spinner"
+   android:title="@string/question_type_Spinner" />
+  <item android:id="@+id/EditText"
+   android:title="@string/question_type_EditText" />
+  <item android:id="@+id/DatePicker"
+   android:title="@string/question_type_DatePicker" />
+  <item android:id="@+id/TimePicker"
+   android:title="@string/question_type_TimePicker" />
+</menu>

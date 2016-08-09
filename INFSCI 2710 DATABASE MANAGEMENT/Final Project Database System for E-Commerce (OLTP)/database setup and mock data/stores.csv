@@ -1,0 +1,129 @@
+ID,name,street_po_box,city,state,ZIP_Code,telephone,email,max_number_of_salespersons,region
+1,Indigo Malesuada,49 Rutledge Terrace,Milwaukee,WI,53210,9714974611,store.1@digitalsales.com,6,49
+2,Khaki Posuere,4341 Ludington Pass,Levittown,PA,19058,1341810784,store.2@digitalsales.com,9,38
+3,Yellow Lorem Ipsum,8405 Fuller Alley,Oklahoma City,OK,73129,8543322112,store.3@digitalsales.com,5,36
+4,Teal Augue Aliquam,2141 South Avenue,Washington,DC,20442,3256591887,store.4@digitalsales.com,7,51
+5,Green Dui Nec,55070 Burning Wood Park,Rochester,NY,14639,4089160010,store.5@digitalsales.com,2,32
+6,Violet Eu,39571 Sommers Circle,Durham,NC,27710,8301252608,store.6@digitalsales.com,12,33
+7,Mauv Vulputate,41 Onsgard Point,Jacksonville,FL,32204,9266342651,store.7@digitalsales.com,7,9
+8,Mauv Massa Donec,554 Stoughton Way,Topeka,KS,66611,3913530231,store.8@digitalsales.com,13,16
+9,Mauv Varius Ut,52 Dovetail Hill,Dallas,TX,75241,1801404446,store.9@digitalsales.com,3,43
+10,Orange Quis,82 Pawling Terrace,Irving,TX,75062,1846881760,store.10@digitalsales.com,6,43
+11,Yellow Nonummy Integer,0 Golden Leaf Alley,San Bernardino,CA,92415,2373351322,store.11@digitalsales.com,7,5
+12,Purple Sociis,2 Dapin Avenue,Pittsburgh,PA,15266,0392437371,store.12@digitalsales.com,7,38
+13,Yellow Mattis Egestas,8 Rowland Terrace,Lehigh Acres,FL,33972,2873457707,store.13@digitalsales.com,5,9
+14,Mauv Nam,22 Michigan Circle,El Paso,TX,79911,5620601601,store.14@digitalsales.com,8,43
+15,Crimson Lectus,68397 Clemons Place,Fresno,CA,93750,3582802813,store.15@digitalsales.com,8,5
+16,Crimson Lectus In,7204 North Court,Tempe,AZ,85284,1915638863,store.16@digitalsales.com,5,3
+17,Fuscia Interdum,63930 Messerschmidt Court,San Diego,CA,92153,3783120603,store.17@digitalsales.com,6,5
+18,Orange Vel,43755 Blaine Plaza,Lincoln,NE,68583,1428086523,store.18@digitalsales.com,11,27
+19,Green Lectus,1 Lawn Street,Albany,NY,12227,5132259407,store.19@digitalsales.com,10,32
+20,Orange Sapien Dignissim,423 Gerald Pass,Springfield,IL,62711,0394780761,store.20@digitalsales.com,7,13
+21,Violet Nisl Duis,3612 Kenwood Lane,Washington,DC,20337,9613296413,store.21@digitalsales.com,6,51
+22,Pink Orci Mauris,6 Arapahoe Court,Tulsa,OK,74108,9542021557,store.22@digitalsales.com,10,36
+23,Goldenrod Ornare Consequat,2006 Kropf Pass,Memphis,TN,38104,4720154313,store.23@digitalsales.com,8,42
+24,Mauv Ut,24 Gulseth Crossing,Rochester,NY,14646,1967122366,store.24@digitalsales.com,12,32
+25,Mauv Etiam Justo,35 Grover Street,Syracuse,NY,13251,7999058323,store.25@digitalsales.com,5,32
+26,Turquoise Nascetur Ridiculus,40 Schiller Circle,Greensboro,NC,27499,1022649378,store.26@digitalsales.com,15,33
+27,Mauv Hendrerit At,57596 Dryden Point,Indianapolis,IN,46202,9132791811,store.27@digitalsales.com,6,14
+28,Aquamarine Scelerisque Quam,0 Golf Course Park,Erie,PA,16565,3077549259,store.28@digitalsales.com,10,38
+29,Goldenrod Est Lacinia,05 Caliangt Center,El Paso,TX,88525,0087361131,store.29@digitalsales.com,11,43
+30,Violet Potenti,8 Service Park,Miami,FL,33169,7149800020,store.30@digitalsales.com,9,9
+31,Yellow Diam,659 Macpherson Point,Bakersfield,CA,93311,7571669912,store.31@digitalsales.com,6,5
+32,Purple Dui,429 Blaine Street,Crawfordsville,IN,47937,4599165539,store.32@digitalsales.com,10,14
+33,Red Ut,93307 Fairview Trail,Kissimmee,FL,34745,0530218595,store.33@digitalsales.com,9,9
+34,Khaki Metus Sapien,882 Stone Corner Circle,Dallas,TX,75392,6541458834,store.34@digitalsales.com,11,43
+35,Yellow Mauris Ullamcorper,63 Victoria Drive,Salt Lake City,UT,84130,6426556836,store.35@digitalsales.com,9,44
+36,Turquoise Hac Habitasse,70 Donald Place,Fresno,CA,93773,0425587256,store.36@digitalsales.com,8,5
+37,Puce Viverra Diam,98509 Park Meadow Circle,Saginaw,MI,48604,4390092824,store.37@digitalsales.com,5,22
+38,Blue Odio,6726 Lunder Point,Garland,TX,75044,7118514284,store.38@digitalsales.com,4,43
+39,Pink Ridiculus,466 Novick Point,Mesa,AZ,85210,5534038097,store.39@digitalsales.com,6,3
+40,Blue Id,2186 Dakota Center,Charleston,WV,25362,4436284559,store.40@digitalsales.com,8,48
+41,Aquamarine Aliquam Quis,9372 Fisk Center,Boise,ID,83705,4284468464,store.41@digitalsales.com,7,12
+42,Fuscia Non,135 Bashford Junction,Fort Worth,TX,76147,6218710705,store.42@digitalsales.com,11,43
+43,Violet Ligula Vehicula,90 Oak Valley Lane,Houston,TX,77085,1075785235,store.43@digitalsales.com,7,43
+44,Pink Massa,3467 Shasta Circle,Houston,TX,77030,9377628253,store.44@digitalsales.com,7,43
+45,Turquoise Arcu Sed,70592 Manley Street,Lexington,KY,40524,7555940494,store.45@digitalsales.com,8,17
+46,Maroon Nullam,58 Autumn Leaf Crossing,Kent,WA,98042,8886044841,store.46@digitalsales.com,11,47
+47,Aquamarine Aliquam Sit,2 3rd Point,Fresno,CA,93794,7331403723,store.47@digitalsales.com,16,5
+48,Violet Dictumst Morbi,58174 4th Parkway,Erie,PA,16550,8542317548,store.48@digitalsales.com,13,38
+49,Yellow Vivamus In,82 Kenwood Junction,Atlanta,GA,30311,3423495937,store.49@digitalsales.com,11,10
+50,Khaki Interdum Mauris,50 Schiller Street,Washington,DC,20456,7730005505,store.50@digitalsales.com,13,51
+51,Red Ipsum Aliquam,3 Sage Pass,New Orleans,LA,70187,1561087900,store.51@digitalsales.com,7,18
+52,Fuscia Sed Tristique,7 Corscot Point,Tucson,AZ,85710,6594061341,store.52@digitalsales.com,4,3
+53,Turquoise Morbi,27623 Anthes Road,Long Beach,CA,90805,5572667957,store.53@digitalsales.com,8,5
+54,Teal Scelerisque Quam,648 Cody Crossing,Tacoma,WA,98424,7820068578,store.54@digitalsales.com,7,47
+55,Aquamarine Orci Mauris,5031 Helena Court,Shawnee Mission,KS,66210,4998165489,store.55@digitalsales.com,5,16
+56,Maroon Tincidunt Lacus,494 Mallory Trail,Kansas City,MO,64144,5551111786,store.56@digitalsales.com,6,25
+57,Khaki Sociis,14 Old Shore Circle,Little Rock,AR,72231,6994470686,store.57@digitalsales.com,9,4
+58,Puce Eget Eleifend,1803 Vidon Pass,Paterson,NJ,7522,2771347248,store.58@digitalsales.com,5,30
+59,Yellow Magnis Dis,6 Ruskin Trail,Peoria,IL,61635,4066145299,store.59@digitalsales.com,9,13
+60,Yellow Orci,723 Kennedy Junction,Spring,TX,77388,0918668952,store.60@digitalsales.com,9,43
+61,Puce Amet Diam,7405 Anderson Road,Grand Rapids,MI,49510,9077592010,store.61@digitalsales.com,8,22
+62,Yellow Convallis,99545 Sutteridge Center,Denver,CO,80249,4914406763,store.62@digitalsales.com,10,6
+63,Mauv Libero,0 Manitowish Point,San Antonio,TX,78210,4793759834,store.63@digitalsales.com,6,43
+64,Mauv Accumsan,579 Larry Pass,Omaha,NE,68124,7160224826,store.64@digitalsales.com,5,27
+65,Green Cursus,629 Maple Wood Drive,Nashville,TN,37220,8301183192,store.65@digitalsales.com,5,42
+66,Turquoise Aliquam,45 Anthes Place,Salt Lake City,UT,84120,3708941300,store.66@digitalsales.com,6,44
+67,Khaki Convallis Nulla,3456 Dunning Park,Saint Louis,MO,63131,0954937947,store.67@digitalsales.com,9,25
+68,Teal Pulvinar Lobortis,7475 Basil Hill,Rockford,IL,61105,4891880278,store.68@digitalsales.com,6,13
+69,Orange Ipsum Primis,600 Norway Maple Center,Saint Louis,MO,63104,1730819814,store.69@digitalsales.com,9,25
+70,Turquoise Praesent Blandit,20 Monterey Road,Portland,OR,97286,5383123870,store.70@digitalsales.com,12,37
+71,Pink Ipsum,69306 Schlimgen Road,San Diego,CA,92105,2377238241,store.71@digitalsales.com,4,5
+72,Indigo In,1 Sauthoff Place,New York City,NY,10034,9123760921,store.72@digitalsales.com,4,32
+73,Teal Hac,20 Northwestern Hill,Dayton,OH,45490,2055041810,store.73@digitalsales.com,5,35
+74,Orange Pede,81831 Carey Center,Las Vegas,NV,89120,4481804438,store.74@digitalsales.com,14,28
+75,Blue Nulla Ac,840 Algoma Road,Jacksonville,FL,32225,1724486894,store.75@digitalsales.com,9,9
+76,Khaki Ut Rhoncus,6 Sundown Point,Boston,MA,2208,6764788134,store.76@digitalsales.com,7,21
+77,Goldenrod Lobortis,07 Sommers Alley,Fort Worth,TX,76198,3666661056,store.77@digitalsales.com,6,43
+78,Fuscia Mattis,1297 Lukken Street,Honolulu,HI,96820,0692729929,store.78@digitalsales.com,4,11
+79,Goldenrod Velit,698 Crescent Oaks Junction,Springfield,IL,62764,8602070528,store.79@digitalsales.com,4,13
+80,Khaki Nec Sem,4796 Claremont Junction,Tampa,FL,33661,6996221953,store.80@digitalsales.com,7,9
+81,Purple Tortor Quis,108 Loeprich Point,El Paso,TX,79950,0272159931,store.81@digitalsales.com,5,43
+82,Yellow Lobortis Vel,90602 Sundown Point,Dallas,TX,75265,0443895946,store.82@digitalsales.com,9,43
+83,Teal Nisl Nunc,374 Southridge Drive,Evansville,IN,47719,4090133337,store.83@digitalsales.com,8,14
+84,Turquoise Ante Nulla,86 Troy Junction,Arlington,VA,22217,7617351238,store.84@digitalsales.com,3,46
+85,Violet Donec,6898 Helena Plaza,Fullerton,CA,92640,5475817604,store.85@digitalsales.com,3,5
+86,Violet Venenatis Turpis,39 Paget Center,Tampa,FL,33673,4729670346,store.86@digitalsales.com,7,9
+87,Fuscia Penatibus Et,445 Jackson Place,San Antonio,TX,78235,8175951763,store.87@digitalsales.com,10,43
+88,Pink Porta,53 Mifflin Park,Denver,CO,80223,7564122422,store.88@digitalsales.com,8,6
+89,Indigo Eget Eleifend,72 Bunker Hill Drive,Fort Myers,FL,33994,8513385840,store.89@digitalsales.com,8,9
+90,Puce Magna At,83 Thierer Court,Meridian,MS,39305,6529067736,store.90@digitalsales.com,9,24
+91,Purple Est,4379 Annamark Avenue,Birmingham,AL,35295,2505417303,store.91@digitalsales.com,6,1
+92,Maroon Amet,1 Hanson Junction,West Hartford,CT,6127,2581893062,store.92@digitalsales.com,8,7
+93,Aquamarine In,3 Straubel Center,South Bend,IN,46620,0795201379,store.93@digitalsales.com,14,14
+94,Teal Quis,38450 Dryden Parkway,Pittsburgh,PA,15235,9069828578,store.94@digitalsales.com,8,38
+95,Indigo Ullamcorper,77 School Road,Garden Grove,CA,92645,0690183161,store.95@digitalsales.com,5,5
+96,Indigo Erat Quisque,9127 Swallow Point,Tempe,AZ,85284,8914697043,store.96@digitalsales.com,8,3
+97,Green Erat Nulla,08026 Kings Terrace,Raleigh,NC,27610,2849207759,store.97@digitalsales.com,6,33
+98,Yellow Praesent,3158 Prairie Rose Hill,Cleveland,OH,44177,0291723606,store.98@digitalsales.com,8,35
+99,Red Ultrices Aliquet,882 Thackeray Junction,San Diego,CA,92145,2053694886,store.99@digitalsales.com,6,5
+100,Maroon Felis Sed,5 Coleman Center,Abilene,TX,79605,6820846294,store.100@digitalsales.com,10,43
+101,Purple Eleifend Pede,473 Ohio Court,Boca Raton,FL,33487,2249195562,store.101@digitalsales.com,6,9
+102,Crimson Rutrum,5012 Sherman Street,Ashburn,VA,22093,2609702955,store.102@digitalsales.com,11,46
+103,Orange Ullamcorper,219 Oriole Avenue,Hollywood,FL,33028,1817548470,store.103@digitalsales.com,7,9
+104,Violet Dolor,93248 Basil Park,Louisville,KY,40233,1321582275,store.104@digitalsales.com,9,17
+105,Green Sed Nisl,1109 Marquette Hill,Oklahoma City,OK,73190,2443154676,store.105@digitalsales.com,8,36
+106,Maroon Amet,5361 Dovetail Trail,Pittsburgh,PA,15250,6626861653,store.106@digitalsales.com,10,38
+107,Blue At,79 Grayhawk Plaza,New York City,NY,10249,1809757857,store.107@digitalsales.com,13,32
+108,Goldenrod Luctus Ultricies,30339 Havey Junction,Washington,DC,20337,9530709001,store.108@digitalsales.com,7,51
+109,Teal Dui,182 Parkside Drive,Atlanta,GA,30301,8420017246,store.109@digitalsales.com,11,10
+110,Mauv Eget Orci,151 Roxbury Point,Toledo,OH,43656,3353478941,store.110@digitalsales.com,7,35
+111,Red Turpis Integer,505 Evergreen Hill,Los Angeles,CA,90060,4591630993,store.111@digitalsales.com,8,5
+112,Khaki Sapien,3888 Sugar Circle,Sacramento,CA,94207,3043358412,store.112@digitalsales.com,9,5
+113,Fuscia Donec,32 Eagan Junction,Knoxville,TN,37995,0737015973,store.113@digitalsales.com,5,42
+114,Orange Donec,5 Carioca Park,Buffalo,NY,14269,9800754203,store.114@digitalsales.com,7,32
+115,Green Cras,8550 Mitchell Pass,Tucson,AZ,85710,2220670168,store.115@digitalsales.com,7,3
+116,Orange Ut,8329 Golf View Alley,Lexington,KY,40524,7757981825,store.116@digitalsales.com,4,17
+117,Mauv In Quam,36 Elgar Pass,Hampton,VA,23668,6918837029,store.117@digitalsales.com,8,46
+118,Red Sapien,4505 Elmside Terrace,Houston,TX,77245,5323590980,store.118@digitalsales.com,8,43
+119,Orange Quis,0 Canary Terrace,Davenport,IA,52804,5145253304,store.119@digitalsales.com,10,15
+120,Aquamarine Est Et,445 Schmedeman Hill,Shreveport,LA,71137,5605035501,store.120@digitalsales.com,8,18
+121,Pink Etiam Faucibus,360 Melvin Park,Bronx,NY,10459,6855681286,store.121@digitalsales.com,6,32
+122,Violet Tellus Semper,5113 Coleman Lane,New Orleans,LA,70124,9679301460,store.122@digitalsales.com,7,18
+123,Maroon Pretium,1 Beilfuss Circle,Virginia Beach,VA,23471,6170861264,store.123@digitalsales.com,2,46
+124,Khaki Vestibulum Vestibulum,9691 Anthes Parkway,Buffalo,NY,14215,4910027029,store.124@digitalsales.com,10,32
+125,Puce Lorem,3271 Bultman Plaza,Atlanta,GA,30336,2206259785,store.125@digitalsales.com,5,10
+126,Red Vel,58 Rieder Alley,Sioux Falls,SD,57193,3655098278,store.126@digitalsales.com,9,41
+127,Pink Quis,56929 Gulseth Hill,Washington,DC,20397,7927267898,store.127@digitalsales.com,15,51
+128,Khaki Vulputate,0061 Forest Dale Junction,Sioux Falls,SD,57188,8532747125,store.128@digitalsales.com,12,41

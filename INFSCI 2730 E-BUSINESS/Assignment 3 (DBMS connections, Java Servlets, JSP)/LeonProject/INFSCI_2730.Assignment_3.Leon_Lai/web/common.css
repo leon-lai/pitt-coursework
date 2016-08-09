@@ -1,0 +1,284 @@
+/**
+ * @author leon
+ * @version 2016-03-18
+ * https://w3.org/TR/html4
+ * https://w3.org/TR/html5
+ * https://w3.org/TR/CSS1
+ * https://w3.org/TR/CSS2
+ * http://w3schools.com/css
+ */
+/* Remove browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  float: none;
+  clear: both;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  line-height: 200%;
+  box-sizing: border-box;
+}
+/*
+ * GENERAL OBJECTS
+ */
+/* Structure */
+html, body {
+  height: 100%;
+  color: #657b83;
+  background: #eee8d5;
+  font-size: 100%;
+  font-family: sans-serif;
+}
+h1 {
+}
+h2 {
+}
+h3 {
+}
+h4 {
+}
+h5 {
+}
+h6 {
+}
+/* Lists */
+ul {
+  list-style: disc;
+}
+ol {
+  list-style: decimal;
+}
+li {
+  margin-left: 1.5em;
+}
+/* Alignment, font styles, and horizontal rules */
+hr {
+  border: inset 0.1em;
+}
+/* Forms */
+form {
+}
+fieldset {
+}
+legend {
+  width: 100%;
+  float: left;
+}
+label,
+.label {
+  display: block;
+  color: #fdf6e3;
+  background: #859900;
+  font-weight: bold;
+  text-align: center;
+}
+label.compact {
+  display: inline-block;
+  color: inherit;
+  background: transparent;
+  text-align: inherit;
+}
+input:not([type]),
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="tel"],
+input[type="url"],
+input[type="text"] {
+  border: 0.1em solid;
+  padding: 0 0.5em;
+  display: block;
+  width: 100%;
+}
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button {
+  padding: 0 0.5em;
+  display: block;
+  width: 100%;
+  color: #eee8d5;
+  background: #cb4b16;
+  font-weight: bold;
+}
+input[type="button"]:active,
+input[type="submit"]:active,
+input[type="reset"]:active,
+button:active,
+input[type="button"]:focus,
+input[type="submit"]:focus,
+input[type="reset"]:focus,
+button:focus {
+  color: #eee8d5;
+  background: #b58900;
+}
+input.inline,
+button.inline {
+  margin: 0;
+  width: auto;
+  display: inline-block;
+}
+select,
+textarea {
+  border: 0.1em solid;
+  display: block;
+  overflow: auto;
+}
+optgroup,
+option {
+  /* line-height is normal, not 150%, in Chromium; height becomes 19.1875px.
+     Do the following as hack: */
+  /* padding: 0.15em; */
+  /* height became 22.7813px and not 24px. The following made height 24px: */
+  padding: 0.1875em;
+}
+/*
+ * CUSTOM OBJECTS
+ */
+.column-container {
+  width: 100%;
+  overflow: hidden; /* Makes element height be non-zero */
+}
+.column-container > * {
+  width: 100%;
+  float: left;
+  clear: none;
+}
+.column-container > .of-2 {
+  width: 50%;
+}
+.column-container > .of-3 {
+  width: 33.3333333333333333333333333333333333333333333333333333333333333333%;
+}
+.column-container > .span-2.of-3 {
+  width: 66.6666666666666666666666666666666666666666666666666666666666666667%;
+}
+.column-container > .of-4 {
+  width: 25%;
+}
+.column-container > .span-2.of-4 {
+  width: 50%;
+}
+.column-container > .span-3.of-4 {
+  width: 75%;
+}
+.column-container > .of-5 {
+  width: 20%;
+}
+.column-container > .span-2.of-5 {
+  width: 40%;
+}
+.column-container > .span-3.of-5 {
+  width: 60%;
+}
+.column-container > .span-4.of-5 {
+  width: 80%;
+}
+.column-container > .left {
+  width: auto;
+  float: left;
+  clear: left;
+}
+.column-container > .right {
+  width: auto;
+  float: right;
+  clear: right;
+}
+html,
+body {
+  height: 100%;
+}
+.c,
+.c > :not(.n),
+.c > .n > :not(.n),
+.c > .n > .n > :not(.n) {
+  padding: 0.375em;
+  /*border: 1px solid;*/
+}
+body > * {
+  margin: auto;
+  /*max-width: 56em;*/
+}
+#err {
+  padding: 0 0.5em;
+  color: #dc322f;
+}
+#log {
+  padding: 0 0.5em;
+  color: #268bd2;
+}
+.instruction {
+  color: #268bd2;
+  font-weight: bold;
+  text-align: center;
+}
+#LogIn,
+#Shop #err > *,
+#CheckOut,
+#GetReceipt #err > * {
+  font-size: 300%;
+}
+#LogIn #account,
+#LogIn #password {
+  border: 0 none;
+  background: #fdf6e3;
+}
+#Shop select {
+  width: 100%;
+}
+#Shop #cartTotalPriceUSD {
+  font-weight: bold;
+  font-style: italic;
+}
+#CheckOut {
+  text-align: center;
+}
+#GetReceipt #receipt {
+  border: 0 none;
+  width: 100%;
+}
+#GetReceipt #items > * {
+  margin: 0;
+  list-style: none;
+}
+@media (min-width: 48em) {
+  #LogIn #doSignupInsteadContainer,
+  #LogIn #logInContainer,
+  #Shop form {
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+  }
+  #Shop #container {
+    height: 100%;
+  }
+  #Shop #checkOutForm {
+    float: right;
+  }
+  #Shop #cartItemsForm,
+  #Shop #checkOutForm{
+    height: 50%;
+  }
+}
+@media (min-width: 80em) {
+  #Shop form {
+    width: 33.33333333333333333333333333333333333333333333333333333333333333%;
+  }
+  #Shop #cartItemsForm,
+  #Shop #checkOutForm{
+    height: 100%;
+  }
+}
+@media print {
+  #GetReceipt,
+  #GetReceipt * {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+  }
+  #GetReceipt #receiptLabel {
+    display: none;
+  }
+}
